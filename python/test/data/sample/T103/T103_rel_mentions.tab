@@ -1,0 +1,163 @@
+tree_id	relationmention_id	relation_id	provenance	textoffset_startchar	textoffset_endchar	text_string	justification	type	subtype	attribute	start_date_type	start_date	end_date_type	end_date	kb_id
+779966	RM779966.000014	R779966.00001	HC00002ZT	1682	1722	EU Foreign Affairs Chief Catherine Ashton		orgafl	lead		startunk		endunk		E0184
+779986	RM779986.000359	R779986.00002	HC00001VK				alleged protesters in Conservatory building	phys	locnear		startbefore	2014-02-20	endunk		E0191
+779986	RM779986.000396	R779986.00002	HC00002ZU	1015	1016	in		phys	locnear		starton	2014-02-20	endon	2014-02-20	E0191
+779986	RM779986.000469	R779986.00003	HC00002ZU	5883	5892	controlled		genafl	more		startbefore	2014-02-20	endunk		E0200
+779986	RM779986.000686	R779986.00003	HC00002ZU	795	800	behalf		genafl	opra		startbefore	2014-02-20	endunk		E0200
+780059	RM780059.000248	R780059.00004	HC0005EAO				a bullet which flew to a window of a hotel has no markings of law-enforcement	genafl	apora	not	startbefore	2014-02-21	endbefore	2014-02-21	NIL290.780059
+780075	RM780075.000458	R780075.00005	HC00002ZY	1221	1227	control		genafl	apora		startbefore	2014-02-20	endafter	2014-02-20	E0191
+780075	RM780075.000544	R780075.00005	HC0005BPY				Protesters occupying Conservatory building	genafl	apora		startunk		endunk		E0191
+780075	RM780075.000569	R780075.00006	HC0005BPY				Snipers' affiliation	genafl	more	hedged	startunk		endunk		E0200
+780075	RM780075.000964	R780075.00007	HC00002ZY	2971	2978	Parubiys	Parubiy led this security unit	orgafl	lead		startbefore	2014-02-20	endunk		NIL1005.780075
+780075	RM780075.000763	R780075.00008	HC00002ZY	2232	2233	in	Parubiy said no gunmen found in Conservatory	phys	locnear	not	starton	2014-02-20	endon	2014-02-20	NIL780.780075
+780075	RM780075.000865	R780075.00009	HC00002ZY	1221	1227	control	Protesters controlled post office where Sergei hid his rifle	genafl	apora		startbefore	2014-02-20	endunk		NIL882.780075
+780075	RM780075.000934	R780075.00010	HC00002ZY	2966	2969	from	Claim that men who dragged Sergei away were from Parubiy's unit	orgafl	empmem	hedged	startbefore	2014-02-20	endunk		NIL981.780075
+780295	RM780295.000014	R780295.00011	HC00002ZZ	390	398	President		orgafl	lead		starton	2009-XX-XX	endafter	2014-02-20	E0198
+780295	RM780295.000315	R780295.00012	HC00002ZZ	6585	6590	behind		genafl	spon		startbefore	2014-02-20	endunk		E0200
+780295	RM780295.000343	R780295.00012	HC00002ZZ	7100	7104	hired		genafl	more	hedged	startbefore	2014-02-20	endunk		E0200
+780295	RM780295.000368	R780295.00012	HC00002ZZ	39	45	Trained		genafl	more		startbefore	2014-02-20	endunk		E0200
+780295	RM780295.000396	R780295.00012	HC00002ZZ	5568	5573	behind		genafl	spon		startbefore	2014-02-20	endunk		E0200
+780295	RM780295.000518	R780295.00012	HC00002ZZ	5896	5902	ordered		genafl	spon		starton	2014-02-20	endon	2014-02-20	E0200
+780295	RM780295.000599	R780295.00012	HC00002ZZ	7831	7838	sporting		genafl	apora		startunk		endunk		E0200
+780295	RM780295.001450	R780295.00012	HC00002ZZ	5568	5573	behind		genafl	spon		startbefore	2014-02-20	endunk		E0200
+780295	RM780295.001475	R780295.00012	HC00002ZZ	7831	7838	sporting		genafl	apora		startunk		endunk		E0200
+780295	RM780295.001563	R780295.00012	HC00002ZZ	7831	7838	sporting		genafl	apora		startunk		endunk		E0200
+780295	RM780295.001588	R780295.00012	HC00002ZZ	7831	7838	sporting		genafl	apora		startunk		endunk		E0200
+780295	RM780295.000571	R780295.00013	HC00002ZZ	5911	5921	pro-Russian	Yanukovych's regime was affiliated with Russia	genafl	more		startbefore	2009-XX-XX	endunk		NIL596.780295
+780340	RM780340.000014	R780340.00014	HC000Q7PG	3341	3342	из		phys	locnear		starton	2014-02-20	endon	2014-02-20	E0191
+780340	RM780340.000400	R780340.00015	HC000Q7PG	570	596	организаторы, и исполнители		genafl	spon	hedged	startunk		endunk		E0200
+780559	RM780559.000014	R780559.00016	HC000Q7PK	11833	11849	под командованием		orgafl	lead		startunk		endunk		E0185
+780559	RM780559.000256	R780559.00017	HC000Q7PK	20028	20034	настоял	Vladimir Putin sponsored berkut	genafl	opra		startunk		endunk		NIL290.780559
+780564	RM780564.000014	R780564.00018	HC0000301	1667	1672	behind		persoc	unspc	not	startbefore	2013-02-20	endunk		E0200
+780564	RM780564.000107	R780564.00018	HC0000301	1667	1672	behind		orgafl	empmem		startbefore	2013-02-20	endunk		E0200
+780564	RM780564.000291	R780564.00018	HC0000301	735	740	behind		genafl	spon		startunk		endon	2013-02-20	E0200
+780572	RM780572.000185	R780572.00019	HC0000302	882	889	assisted		genafl	spon		startbefore	2014-02-20	endunk		E0192
+780572	RM780572.000014	R780572.00020	HC0000302	782	791	leadership		persoc	unspc		startbefore	2014-02-20	endunk		E0200
+780572	RM780572.000639	R780572.00021	HC0000302	3966	3967	of	Photographs show Alfa Team	genafl	apora		starton	2014-02-20	endon	2014-02-20	NIL656.780572
+780848	RM780848.000014	R780848.00024	HC00038S9	2104	2109	behind		genafl	more	not	startbefore	2014-03-05	endunk		E0200
+780848	RM780848.000168	R780848.00024	HC00038S9	2104	2109	behind		orgafl	empmem		startbefore	2014-03-05	endunk		E0200
+780848	RM780848.000193	R780848.00024	HC00038S9	875	887	may have been		orgafl	empmem	hedged	startbefore	2014-03-05	endunk		E0200
+780848	RM780848.000218	R780848.00024	HC00038S9	2417	2421	hired		orgafl	empmem		startbefore	2014-03-05	endunk		E0200
+780848	RM780848.000583	R780848.00024	HC00028K2				Yanukovych behind snipers	genafl	more	not	startbefore	2014-03-05	endunk		E0200
+780848	RM780848.000608	R780848.00024	HC00028K2				snipers were employed by Maidan organizers	orgafl	empmem		startbefore	2014-03-05	endunk		E0200
+780888	RM780888.000014	R780888.00025	HC00028K2				Yanukovych behind snipers	genafl	more	not	startbefore	2014-03-05	endunk		E0200
+780888	RM780888.000207	R780888.00025	HC00028K2				snipers are from the new coalition	orgafl	empmem		startbefore	2014-03-05	endunk		E0200
+780910	RM780910.000014	R780910.00026	HC00028MS				Yanukovych was affiliated with the sniper attacks	genafl	more	hedged	startbefore	2014-02-20	endunk		E0200
+780910	RM780910.000133	R780910.00026	HC00028MS				Yanukovych was affiliated with the sniper attacks	genafl	more	not	startbefore	2014-02-20	endunk		E0200
+780910	RM780910.000158	R780910.00026	HC00028MS				the new coalition was behind the sniper attacks	genafl	more		startbefore	2014-02-20	endunk		E0200
+780977	RM780977.000014	R780977.00027	HC000Q805	1028	1033	behind		genafl	more	not	startunk		endunk		E0200
+780977	RM780977.000155	R780977.00027	HC000Q805	1028	1033	behind		genafl	more		startunk		endunk		E0200
+780999	RM780999.000014	R780999.00028	HC000Q7ZP	306	312	victims	Yanukovych calling snipers' shots	genafl	more	hedged	startunk		endunk		E0200
+780999	RM780999.000133	R780999.00028	HC000Q7ZP	2184	2192	absolving	Yanukovych calling snipers' shots	genafl	more	not,hedged	startunk		endunk		E0200
+781080	RM781080.000014	R781080.00029	HC000Q7PN	531	542	причастные к		genafl	more		startunk		endunk		E0200
+781080	RM781080.000187	R781080.00029	HC000Q7PN	1991	2003	запланировано		genafl	opra		startunk		endunk		E0200
+781160	RM781160.000211	R781160.00030	HC000Q7ZQ	151	162	Yanukouvychs		genafl	more		startunk		endunk		E0200
+781160	RM781160.000239	R781160.00030	HC000Q7ZQ	983	988	behind		genafl	spon	not,hedged	startunk		endunk		E0200
+781160	RM781160.000328	R781160.00030	HC000Q7ZQ	983	988	behind		genafl	spon	not,hedged	startunk		endunk		E0200
+781160	RM781160.000014	R781160.00031	HC000Q7ZQ	118	121	used	sniper rifles used by Berkut police	genafl	apora	hedged	startunk		endunk		NIL174.781160
+781160	RM781160.000177	R781160.00031	HC000Q7ZQ	1508	1511	used	sniper rifles used by Berkut police	genafl	apora	not,hedged	startunk		endunk		NIL174.781160
+781188	RM781188.000014	R781188.00032	HC000Q7QP	55	65	организован		genafl	spon		starton	2014-02-20	endon	2014-02-20	E0200
+781206	RM781206.000156	R781206.00033	HC000Q7PP	400	419	может быть причастен		phys	locnear		starton	2014-02-20	endon	2014-02-20	E0191
+781206	RM781206.000014	R781206.00034	HC000Q7PP	46	51	наняла		genafl	opra		startunk		endunk		E0200
+781206	RM781206.000197	R781206.00034	HC000Q7PP	668	674	С этого		phys	locnear	hedged	starton	2014-02-20	endon	2014-02-20	E0200
+781210	RM781210.000279	R781210.00035	HC000Q7PR	3587	3597	связь между		genafl	opra		startunk		endunk		E0200
+781210	RM781210.000317	R781210.00035	HC000Q7PR	3702	3709	стоял не		genafl	opra	not	startunk		endunk		E0200
+781212	RM781212.000367	R781212.00036	HC000Q7PS	4089	4103	ответственность		genafl	opra		startunk		endunk		E0200
+781243	RM781243.000946	R781243.00037	HC000Q806	8596	8604	commander		orgafl	lead		startunk		endunk		E0183
+781243	RM781243.000974	R781243.00038	HC000Q806	657	665	commander		orgafl	lead		startafter	1996-XX-XX	endunk		E0185
+781243	RM781243.000200	R781243.00039	HC000Q806	7836	7843	indicted	Yanukovych was behind the Maidan shootings	genafl	spon		startunk		endunk		NIL261.781243
+781243	RM781243.000443	R781243.00040	HC000Q806	8656	8662	deliver	Berkut possessed automatic rifles	genafl	apora		starton	2014-02-18	endunk		NIL468.781243
+781243	RM781243.000533	R781243.00041	HC000Q806	8955	8963	direction	Sadovnyk was on Instytuska Street when the shootings occurred	phys	locnear	hedged	starton	2014-02-20	endon	2014-02-20	NIL558.781243
+781243	RM781243.000561	R781243.00041	HC000Q806	9563	9564	on	Sadovnyk was on Instytuska Street when the shootings occurred	phys	locnear	not,hedged	starton	2014-02-20	endon	2014-02-20	NIL558.781243
+781251	RM781251.000014	R781251.00042	HC000Q7QQ	5368	5385	снайперской группе		genafl	opra		startunk		endunk		E0200
+781251	RM781251.000204	R781251.00042	HC000Q7QQ	5281	5290	разрешение		genafl	opra		starton	XXXX-02-20	endon	XXXX-02-20	E0200
+781693	RM781693.000014	R781693.00043	HC000Q7PT	39	50	желтые ленты		genafl	opra		startunk		endunk		E0200
+781695	RM781695.000014	R781695.00044	HC000Q7PU	150	166	запись разговоров		genafl	opra		starton	XXXX-02-20	endon	XXXX-02-20	E0200
+781702	RM781702.000014	R781702.00045	IC0019MYO				Vladislav Surkov was in charge of shootings at the Maidan	genafl	apora		startunk		endunk		E0200
+781705	RM781705.000014	R781705.00046	IC0019N0V				Berkut was shooting from the Ukrainian Government Building	phys	locnear		startunk		endunk		E0200
+781705	RM781705.000159	R781705.00046	IC0019N0V				Berkut was shooting from the National Bank of Ukraine Building	phys	locnear		startunk		endunk		E0200
+781708	RM781708.000268	R781708.00047	HC000Q7R8	3972	3982	погибших на		phys	locnear		starton	XXXX-02-XX	endunk		E0200
+781717	RM781717.000014	R781717.00048	HC000Q7PW	639	664	отрицают свою причастность		genafl	opra	hedged	startunk		endunk		E0200
+781741	RM781741.000014	R781741.00049	HC000Q7PY	307	315	на рукаве		genafl	apora		starton	XXXX-02-20	endon	XXXX-02-20	E0200
+781743	RM781743.000159	R781743.00050	HC000Q7PZ	188	197	на Майдане		phys	locnear		starton	2014-02-20	endon	2014-02-20	E0200
+781786	RM781786.000204	R781786.00051	HC000Q7Q1	1910	1918	захвачены		phys	locnear		starton	2014-02-20	endon	2014-02-20	E0191
+781786	RM781786.000327	R781786.00052	HC000Q7Q1	5463	5474	прибывшие из		genafl	more		starton	2014-02-20	endon	2014-02-20	E0200
+781790	RM781790.000014	R781790.00053	HC000Q7Q3	254	267	экс-президента		orgafl	lead	not	startunk		endunk		E0198
+781829	RM781829.000014	R781829.00054	HC000Q7QR	1900	1909	на Майдане		genafl	apora		startunk		endunk		E0200
+781832	RM781832.000120	R781832.00055	HC00057FV				Snipers were shooting from Hotel Ukrayina	phys	locnear		startunk		endunk		E0200
+781832	RM781832.000014	R781832.00056	HC00057FV				Maidan Protestors occupied Hotel Ukrayina	phys	locnear		startunk		endunk		NIL117.781832
+781841	RM781841.000014	R781841.00057	HC000Q7Q9	1759	1770	русский след		genafl	apora		startunk		endunk		E0192
+781845	RM781845.000014	R781845.00058	HC000Q7QA	588	611	причастности к расстрелу		genafl	opra		startunk		endunk		E0200
+781847	RM781847.000014	R781847.00059	HC000Q7QB	4346	4351	наняла		genafl	opra		startunk		endunk		E0200
+781850	RM781850.000014	R781850.00060	HC000Q7QT	5778	5788	по указанию		genafl	opra		startunk		endunk		E0200
+781914	RM781914.000014	R781914.00061	HC000Q7ZT	5	10	behind		genafl	spon		startbefore	2014-02-20	endunk		E0200
+781914	RM781914.000321	R781914.00061	HC000Q7ZT	2164	2168	hired		orgafl	empmem	hedged	startunk		endunk		E0200
+781914	RM781914.000346	R781914.00061	HC000Q7ZT	2404	2409	behind		genafl	spon	not	startunk		endunk		E0200
+781930	RM781930.000014	R781930.00062	HC000Q7ZU	1981	1991	responsible		genafl	spon		startunk		endunk		E0200
+781930	RM781930.000156	R781930.00062	HC000Q7ZU	4771	4776	firing		genafl	apora	hedged	startunk		endunk		E0200
+782196	RM782196.000014	R782196.00063	HC000Q7QG	843	857	Ответственность		genafl	opra		startunk		endunk		E0200
+782234	RM782234.000014	R782234.00064	HC000Q7QK	1201	1208	на крыше		phys	locnear		startunk		endunk		E0200
+782237	RM782237.000323	R782237.00065	HC000Q7ZV	4662	4675	responsibility		genafl	spon	not	startunk		endon	2014-02-20	E0200
+782237	RM782237.000424	R782237.00065	HC000Q7ZV	2192	2198	snipers		orgafl	empmem	not	startunk		endunk		E0200
+782237	RM782237.000623	R782237.00065	HC000Q7ZV	768	778	responsible		orgafl	empmem		startunk		endunk		E0200
+782237	RM782237.000648	R782237.00065	HC000Q7ZV	4662	4675	responsibility		genafl	spon		startunk		endon	2014-02-20	E0200
+782237	RM782237.000014	R782237.00066	HC000Q7ZV	247	255	organized	far right alliance organized the shootings	genafl	spon		startbefore	2014-02-20	endon	2014-02-20	NIL214.782237
+782256	RM782256.000014	R782256.00067	HC000Q7R9	753	764	не вооружены		genafl	apora	hedged	startunk		endunk		E0200
+782264	RM782264.000014	R782264.00068	HC000T6CP	1497	1523	стрельбу могли организовать		genafl	apora		startunk		endunk		E0192
+782264	RM782264.000414	R782264.00069	HC000T6CP	31955	31965	руководстве		orgafl	lead	hedged	startunk		endunk		E0200
+782404	RM782404.000302	R782404.00070	HC000Q7ZW	2270	2284	havent seen any		genafl	apora	not	startunk		endunk		E0200
+782404	RM782404.000327	R782404.00070	HC000Q7ZW	2396	2401	seized		genafl	apora	hedged	startunk		endunk		E0200
+782415	RM782415.000316	R782415.00071	HC000Q807	5086	5091	staged		genafl	more	hedged	startbefore	2014-02-18	endafter	2014-02-20	E0200
+782415	RM782415.000529	R782415.00071	HC000Q807	5883	5888	behind		genafl	more	hedged	startafter	2014-02-18	endunk		E0200
+782415	RM782415.000554	R782415.00071	HC000Q807	6273	6283	responsible		genafl	more		startbefore	2014-02-18	endafter	2014-02-20	E0200
+782415	RM782415.000501	R782415.00072	HC000Q807	5207	5215	protester	Sergei was affiliated with the protesters	genafl	more		startafter	2013-XX-XX	endbefore	2014-05-XX	NIL526.782415
+782429	RM782429.000014	R782429.00073	HC000Q8BL				Snipers on the roof of the Conservatory building	phys	locnear		starton	2014-02-20	endon	2014-02-20	NIL253.782429
+782430	RM782430.000251	R782430.00074	HC000Q7ZX	3391	3396	inside		phys	locnear		startbefore	2014-02-20	endunk		E0191
+782430	RM782430.001058	R782430.00075	HC000Q7ZX	1	30	Maidan Activist Ivan Bubenchyk	Ivan Bubenchyk affiliated with the Maidan protesters	genafl	more		startbefore	2014-02-18	endunk		NIL1083.782430
+782431	RM782431.000215	R782431.00076	HC000Q7P6	2681	2699	боссы этих стрелков		genafl	opra		startunk		endunk		E0200
+782491	RM782491.000206	R782491.00077	HC000Q7PM	1988	2012	за этими снайперами стоял		genafl	opra	hedged	startunk		endunk		E0200
+782491	RM782491.000234	R782491.00077	HC000Q7PM	2029	2041	за ними стоял		genafl	opra	not	startunk		endunk		E0200
+782717	RM782717.000274	R782717.00078	HC000Q809	4183	4186	from		orgafl	empmem	hedged	startbefore	2014-02-18	endunk		E0200
+782717	RM782717.000315	R782717.00078	HC000Q809	2597	2605	Ukrainian		genafl	more	not	startbefore	2014-02-18	endunk		E0200
+782717	RM782717.000365	R782717.00078	HC000Q809	4888	4891	from		orgafl	empmem	hedged	startbefore	2014-02-18	endunk		E0200
+782717	RM782717.000390	R782717.00078	HC000Q809	4830	4835	behind		genafl	more	not	startbefore	2014-02-18	endunk		E0200
+782717	RM782717.000428	R782717.00078	HC000Q809	6763	6766	from		orgafl	empmem		startbefore	2014-02-18	endunk		E0200
+782717	RM782717.000734	R782717.00078	HC000Q809	572	578	shifted		genafl	more	not,hedged	startbefore	2014-02-18	endunk		E0200
+782717	RM782717.000751	R782717.00078	HC000Q809	723	728	sowing		genafl	more	hedged	startbefore	2014-02-18	endunk		E0200
+782717	RM782717.000827	R782717.00078	HC000Q809	1386	1387	of		genafl	more		startbefore	2014-02-18	endunk		E0200
+782717	RM782717.001096	R782717.00078	HC000Q809	1386	1387	of		genafl	more		startbefore	2014-02-18	endunk		E0200
+782717	RM782717.000453	R782717.00079	HC000Q809	7415	7418	from	Snipers were shooting from government buildings	phys	locnear	hedged	starton	2014-02-20	endon	2014-02-20	NIL478.782717
+783641	RM783641.000146	R783641.00080	HC000Q7ZY	1753	1758	behind		persoc	unspc	not	startbefore	2014-02-21	endafter	2014-02-21	E0200
+783641	RM783641.000187	R783641.00080	HC000Q7ZY	1753	1758	behind		orgafl	empmem		startbefore	2014-02-21	endafter	2014-02-21	E0200
+791343	RM791343.000172	R791343.00082	HC000Q80D	286	295	controlled		phys	locnear		startunk		endunk		E0191
+791343	RM791343.000144	R791343.00083	HC000Q80D	53	62	controlled	Protesters occupied Ukraine and Kazatsky hotels	phys	locnear		startunk		endunk		NIL169.791343
+791343	RM791343.000200	R791343.00083	HC000Q80D	286	295	controlled	Protesters occupied Ukraine and Kazatsky hotels	phys	locnear		startunk		endunk		NIL169.791343
+791362	RM791362.000179	R791362.00084	HC000Q7ZZ	163	167	order		genafl	spon		starton	2014-02-XX	endon	2014-02-XX	E0200
+791362	RM791362.000207	R791362.00084	HC000Q7ZZ	163	167	order		genafl	spon		starton	2014-02-XX	endon	2014-02-XX	E0200
+791362	RM791362.000232	R791362.00084	HC000Q7ZZ	163	167	order		genafl	spon		starton	2014-02-XX	endon	2014-02-XX	E0200
+791400	RM791400.000014	R791400.00085	HC0005K7G				Berkut police had AK-74s	genafl	apora		startunk		endunk		E0200
+791626	RM791626.000014	R791626.00086	HC0005KCX				Snipers affiliated with new coalition	orgafl	empmem	hedged	startbefore	2014-02-20	endafter	2014-02-20	E0200
+791626	RM791626.000134	R791626.00086	HC0005KCX				Snipers not affiliated with Yanukovich	persoc	unspc	not,hedged	startbefore	2014-02-20	endafter	2014-02-20	E0200
+791707	RM791707.000146	R791707.00087	HC000Q80E	296	304	organized		genafl	spon		startbefore	2014-02-20	endon	2014-02-20	E0200
+791707	RM791707.000460	R791707.00087	HC000Q80E	296	304	organized		genafl	spon	not	starton	2014-02-20	endon	2014-02-20	E0200
+793240	RM793240.000131	R793240.00088	HC000ZXS9	2386	2387	of	The security forces clashing with protesters are affiliated with Yanukovych	genafl	more		startbefore	2014-02-20	endunk		NIL156.793240
+794038	RM794038.000242	R794038.00089	HC000ZXTF	845	849	armed		genafl	apora		startunk		endunk		E0200
+794038	RM794038.000283	R794038.00089	HC000ZXTF	845	849	armed		genafl	apora		startunk		endunk		E0200
+794038	RM794038.000308	R794038.00089	HC000ZXTF	845	849	armed		genafl	apora		startunk		endunk		E0200
+794038	RM794038.000333	R794038.00089	IC0019NAJ				riot police armed with automatic weapons	genafl	apora		startunk		endunk		E0200
+794174	RM794174.000444	R794174.00090	HC000ZXTG	3677	3679	use		genafl	apora		startunk		endunk		E0200
+794174	RM794174.000469	R794174.00090	HC000ZXTG	3677	3679	use		genafl	apora		startunk		endunk		E0200
+794174	RM794174.000494	R794174.00090	HC000ZXTG	1958	1963	firing		genafl	apora		startunk		endunk		E0200
+794597	RM794597.000192	R794597.00091	HC000ZXTW	6809	6811	had		genafl	apora	not	startunk		endunk		E0200
+794597	RM794597.000220	R794597.00091	HC000ZXTW	6809	6811	had		genafl	apora	not	startunk		endunk		E0200
+794597	RM794597.000245	R794597.00091	HC000ZXTW	690	697	deployed		orgafl	empmem		startunk		endunk		E0200
+795598	RM795598.000105	R795598.00092	HC000ZXUC	48	49	by		phys	locnear		startafter	2013-11-XX	endbefore	2015-XX-XX	E0191
+795598	RM795598.000133	R795598.00093	HC000ZXUC	184	185	in	Snipers were in the conservatory	phys	locnear		startafter	2013-11-XX	endbefore	2015-04-XX	NIL158.795598
+795598	RM795598.000320	R795598.00094	HC000ZXUC	1976	1979	over	Protest leader controls access to weapons in Maidan	genafl	apora		startafter	2013-11-XX	endbefore	2015-04-XX	NIL345.795598
+842603	RM842603.000014	R842603.00095	HC0001VKL	657	659	МВС		partwhole	subsid		starton	1992-01-16	endon	2014-02-25	E0182
+853785	RM853785.000361	R853785.00096	HC000Q7RB	1594	1668	Снайперами, на його думку, безсумнівно були професіонали з бойовим досвідом	Snipers were professionals with combat experience	persoc	role		startunk		endunk		NIL416.853785
+853785	RM853785.000297	R853785.00097	HC000Q7RB	992	1192	Більшість позицій, з яких розстрілювали мітингувальників та міліціонерів, були розташовані у вікнах готелю, що виходять на Майдан Незалежності, Жовтневий палац, Кінопалац і початок вулиці Інститутської	Most of the positions from which shot on protesters were located in the windows of the hotel overlooking the Independence Square, October Palace, Kinopalats and the beginning of Institutskaya Street	phys	locnear	not	startunk		endunk		NIL653.853785
+893281	RM893281.000259	R893281.00098	HC000T66N	1418	1426	полковник	Serhiy Asavalyuk is a Colonel	persoc	role	not	startunk		endunk		NIL284.893281
+893657	RM893657.000096	R893657.00099	HC000T66K	502	514	Інститутській	Snipers are on Instytutska Street	phys	locnear	not	starton	2014-02-XX	endon	2014-02-XX	NIL121.893657
+904214	RM904214.000053	R904214.00100	HC000T6G6	374	406	всі були в шоломах, але без зброї	Nobody had weapon	genafl	apora	not	starton	2014-02-18	endon	2014-02-18	NIL108.904214
+924980	RM924980.000014	R924980.00101	missing				Snipers are citizens of Ukraine	genafl	more	not	starton	2014-02-XX	endon	2014-02-XX	NIL135.924980

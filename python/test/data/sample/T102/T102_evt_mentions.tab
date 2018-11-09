@@ -1,0 +1,383 @@
+tree_id	eventmention_id	event_id	provenance	textoffset_startchar	textoffset_endchar	text_string	justification	type	subtype	attribute	attribute2	start_date_type	start_date	end_date_type	end_date	kb_id
+779952	VM779952.001666	V779952.00001	HC000Q7XY	2083	2086	едет		movement	transper			starton	2014-02-23	endon	2014-02-23	E0228
+779952	VM779952.001613	V779952.00002	HC000Q7XY	1356	1366	приземлился		movement	transper			starton	2014-02-22	endon	2014-02-22	E0229
+779952	VM779952.001595	V779952.00003	HC000Q7XY	835	844	направился		movement	transper			starton	2014-02-21	endon	2014-02-22	E0230
+779952	VM779952.001694	V779952.00004	HC000Q7XY	3010	3017	достался		movement	transper			starton	2014-02-23	endon	2014-02-24	E0231
+779952	VM779952.002369	V779952.00004	HC000Q7XY	183	187	бежал		movement	transper			startafter	2014-02-21	endunk		E0231
+779952	VM779952.001577	V779952.00005	HC000Q7XY	483	487	стоят	Yanukovych's airplane and helicopters found in Russia	movement	transart			startunk		endunk		NIL1771.779952
+779952	VM779952.001712	V779952.00006	HC000Q7XY	3690	3692	дал	Yanukovych spoke with the press in Rostov-on-Don	contact	contact			starton	2014-02-28	endon	2014-02-28	NIL815.779952
+779965	VM779965.000032	V779965.00007	HC00002Z1	95	97	fly		movement	transper	not		startunk		endunk		E0224
+779967	VM779967.000322	V779967.00008	HC00002Z2	1435	1440	deaths		life	die			startbefore	2014-02-17	endunk		E0221
+779967	VM779967.000261	V779967.00009	HC00002Z2	1299	1305	warrant		justice	chargeindict			startbefore	2014-02-17	endunk		E0226
+779967	VM779967.001205	V779967.00010	HC00002Z2	1191	1196	speaks		contact	broadcast			starton	2014-02-22	endon	2014-02-22	E0227
+779967	VM779967.001269	V779967.00010	IC0011TDF				Yanukovych speaks in Kharkiv	contact	broadcast			starton	2014-02-22	endon	2014-02-22	E0227
+779967	VM779967.001524	V779967.00011	HC00002Z2	186	189	fled		movement	transper			starton	2014-02-21	endon	2014-02-21	E0230
+779975	VM779975.000150	V779975.00012	HC00002Z4	1950	1953	sail	Yanukovich sailing away	movement	transper	hedged		startunk		endunk		NIL183.779975
+779984	VM779984.000032	V779984.00013	HC00002Z6	363	369	message		contact	broadcast			startafter	2014-02-21	endafter	2014-02-21	E0227
+779984	VM779984.001036	V779984.00014	HC00002Z6	256	262	leaving		movement	transper			starton	2014-02-21	endon	2014-02-21	E0230
+779984	VM779984.000404	V779984.00015	HC00002Z6	2535	2540	travel		movement	transper	hedged		startunk		endunk		E0231
+779984	VM779984.000271	V779984.00016	HC00002Z6	2173	2176	left	Yanukovych leaves Balaclava	movement	transper	hedged		startafter	2014-02-23	endunk		NIL294.779984
+779984	VM779984.000320	V779984.00017	HC00002Z6	2173	2176	left	Yanukovych leaves Balaclava, perhaps by sea (perhaps to go to Georgia), perhaps by car	movement	transper	hedged		startafter	2014-02-23	endunk		NIL294.779984
+779997	VM779997.000032	V779997.00018	HC000Q810	480	486	вылетел		movement	transper			starton	2014-02-21	endunk		E0230
+779997	VM779997.000407	V779997.00018	HC000Q810	157	166	опровергли		movement	transper	not		starton	2014-02-21	endunk		E0230
+779997	VM779997.000116	V779997.00019	HC000Q810	1275	1277	сел	Yanukovych travels to United Arab Emirates	movement	transper			starton	2014-02-22	endon	2014-02-22	NIL315.779997
+780056	VM780056.000032	V780056.00020	IC0011VGZ				Yanukovych's car was shot at	conflict	attack			startunk		endunk		E0232
+780056	VM780056.000201	V780056.00021	IC0011VGZ				Yanukovych speaks from Rostov-on-Don	contact	broadcast			startunk		endunk		NIL229.780056
+780061	VM780061.000032	V780061.00022	HC000Q7Y1	506	513	отдыхать		movement	transper	hedged		startunk		endunk		E0228
+780063	VM780063.000130	V780063.00023	HC000Q7Y4	2947	2955	подняться		conflict	attack	hedged		startafter	2014-02-21	endunk		E0223
+780063	VM780063.000101	V780063.00024	HC000Q7Y4	1793	1803	задержанием		justice	arrestjail	hedged		startunk		endunk		E0226
+780063	VM780063.000174	V780063.00025	HC000Q7Y4	3218	3224	уезжает		movement	transper			starton	2014-02-21	endunk		E0230
+780171	VM780171.000032	V780171.00026	HC000Q8DQ				2014 Ukrainian Revolution	conflict	demonstrate			startunk		endunk		E0220
+780171	VM780171.000053	V780171.00027	HC000Q8DQ				Over 100 protestors die	life	die			startunk		endunk		E0221
+780338	VM780338.000126	V780338.00028	HC000Q8FJ				A scene from the anti-government protests	conflict	demonstrate			startunk		endunk		E0220
+780338	VM780338.000152	V780338.00028	HC000Q8FH				Scenes from anti-government protests and description of these protests	conflict	demonstrate			startunk		endunk		E0220
+780338	VM780338.000032	V780338.00029	HC000Q8FJ				A scene from clashes that took place during anti-government protests	conflict	attack			startunk		endunk		E0221
+780338	VM780338.000100	V780338.00029	HC000Q8FH				Scenes of the clashes and mention of people being killed	conflict	attack			startunk		endunk		E0221
+780338	VM780338.000292	V780338.00029	HC000Q8FH				Protestors were killed	life	die			startunk		endunk		E0221
+780338	VM780338.000175	V780338.00030	HC000Q8FH				Yanukovych leaves Kiev for his 'power base' Kharkiv	movement	transper			startunk		endunk		E0230
+780392	VM780392.000032	V780392.00031	HC000Q8FT				Yanukovych goes to Crimea out of fear for his life	movement	transper			startunk		endunk		E0228
+780392	VM780392.000105	V780392.00032	HC000Q8FT				Yanukovych could be trying to get to Russia	movement	transper	hedged		startunk		endunk		E0231
+780393	VM780393.000032	V780393.00033	HC000T6IY	9	18	Protestors		conflict	demonstrate			startbefore	2014-02-22	endunk		E0220
+780393	VM780393.000292	V780393.00033	HC000SNJN				Protestors in Kiev	conflict	demonstrate			startbefore	2014-02-22	endunk		E0220
+780393	VM780393.000238	V780393.00034	HC000T6IY	2655	2662	violence		conflict	attack			startbefore	2014-02-21	endunk		E0221
+780393	VM780393.000269	V780393.00034	HC000T6IY	2717	2720	died		life	die			startbefore	2014-02-21	endunk		E0221
+780393	VM780393.000154	V780393.00035	HC000T6IY	977	985	announced		contact	broadcast			startafter	2014-02-22	endafter	2014-02-22	E0227
+780393	VM780393.000118	V780393.00036	HC000T6IY	237	240	fled		movement	transper			starton	2014-02-22	endon	2014-02-22	E0230
+780444	VM780444.000189	V780444.00037	HC000T6BI	3038	3047	protesters		conflict	demonstrate			startbefore	2014-02-21	endunk		E0220
+780444	VM780444.000241	V780444.00038	HC000T6BI	3181	3184	fled		movement	transper			startafter	2014-02-21	endunk		E0231
+780444	VM780444.000277	V780444.00039	HC000T6BI	3228	3233	attack		conflict	attack	hedged		startafter	2014-02-21	endafter	2014-02-21	E0232
+780444	VM780444.000032	V780444.00040	HC000T6BI	1362	1371	overthrown	Yanukovych deposed by parliament	personnel	endpos			starton	2014-02-22	endon	2014-02-22	NIL132.780444
+780444	VM780444.000166	V780444.00041	HC000T6BI	2136	2139	fire	Protesters attacked	conflict	attack			startbefore	2014-02-22	endbefore	2014-02-22	NIL235.780444
+780446	VM780446.000298	V780446.00042	HC000T6B6	5472	5481	revolution		conflict	demonstrate			startunk		endunk		E0220
+780446	VM780446.000236	V780446.00043	HC000T6B6	5324	5327	dead		life	die			startunk		endunk		E0221
+780446	VM780446.000205	V780446.00044	HC000T6B6	2969	2974	saying		contact	broadcast			startunk		endunk		E0227
+780446	VM780446.000032	V780446.00045	HC000T6B6	3003	3007	leave		movement	transper			startunk		endunk		E0230
+780446	VM780446.000267	V780446.00046	HC000T6B6	3133	3137	fired		conflict	attack			startunk		endunk		E0232
+780446	VM780446.000324	V780446.00047	HC000T6B6	5610	5615	remove	Yanukovych deposed	personnel	endpos			startunk		endunk		NIL352.780446
+780446	VM780446.000360	V780446.00048	HC000SP22				Yanukovych removed, opposition celebrates	personnel	endpos			startunk		endunk		NIL352.780446
+780494	VM780494.000032	V780494.00049	HC000Q7Y5	557	563	не было		conflict	attack	not		startunk		endunk		E0223
+780494	VM780494.001058	V780494.00049	HC000Q7Y5	3249	3264	продолжению боёв		conflict	attack			startunk		endunk		E0223
+780494	VM780494.000315	V780494.00050	HC000Q7Y5	5408	5421	видеообращение		contact	broadcast			starton	2014-02-22	endon	2014-02-22	E0227
+780494	VM780494.000233	V780494.00051	HC000Q7Y5	4819	4828	скрывается		movement	transper	hedged		startunk		endunk		E0229
+780494	VM780494.001123	V780494.00051	HC000Q7Y5	5609	5616	добрался		movement	transper			starton	2014-02-22	endunk		E0229
+780494	VM780494.000297	V780494.00052	HC000Q7Y5	5239	5246	добрался		movement	transper			starton	2014-02-21	endon	2014-02-22	E0230
+780494	VM780494.000128	V780494.00053	HC000Q7Y5	4576	4581	уплыть		movement	transper	hedged		startunk		endunk		E0231
+780494	VM780494.000110	V780494.00054	HC000Q7Y5	4528	4533	улетел	Yanukovych travels to United Arab Emirates	movement	transper	hedged		startunk		endunk		NIL160.780494
+780573	VM780573.000078	V780573.00055	HC000T6B5	963	972	protestors		conflict	demonstrate			startbefore	2014-02-22	endunk		E0220
+780573	VM780573.000032	V780573.00056	HC000T6B5	1058	1069	mass killing		life	die			startbefore	2014-02-22	endbefore	2014-02-22	E0221
+780806	VM780806.000240	V780806.00057	HC000T6B3	237	244	protests		conflict	demonstrate			starton	2013-11-XX	endon	2014-02-22	E0220
+780806	VM780806.000408	V780806.00058	HC000T6B3	3679	3681	fly		movement	transper	not		startafter	2014-02-22	endunk		E0224
+780806	VM780806.000449	V780806.00059	HC000T6B3	3899	3903	asked		contact	contact			startafter	2014-02-22	endunk		E0225
+780806	VM780806.000209	V780806.00060	HC000T6B3	1120	1126	warrant		justice	chargeindict			startafter	2013-11-XX	endunk		E0226
+780806	VM780806.000320	V780806.00061	HC000T6B3	3556	3562	message		contact	broadcast			startafter	2014-02-22	endunk		E0227
+780806	VM780806.000354	V780806.00062	HC000T6B3	3631	3634	flew		movement	transper			startafter	2014-02-22	endunk		E0229
+780806	VM780806.000284	V780806.00063	HC000T6B3	6287	6290	fled		movement	transper			startafter	2014-02-22	endunk		E0231
+780806	VM780806.000032	V780806.00064	HC000T6B3	20	25	ousted	Yanukovych removed from power	personnel	endpos			startafter	2013-11-XX	endafter	2014-02-22	NIL202.780806
+780837	VM780837.000401	V780837.00065	HC000Q7Y6	129	145	пытались посадить		conflict	attack			starton	2014-02-22	endon	2014-02-22	E0223
+780837	VM780837.000032	V780837.00066	HC000Q7Y6	1144	1152	находится		movement	transper			startunk		endunk		E0231
+780837	VM780837.000118	V780837.00067	HC000Q7Y6	1893	1897	бежал	Yanukovych leaves Ukraine	movement	transper			startafter	2014-02-21	endunk		NIL169.780837
+780866	VM780866.000032	V780866.00068	HC000Q7Y8	613	618	прибыл		movement	transper			starton	2014-02-21	endon	2014-02-22	E0230
+780880	VM780880.000114	V780880.00069	HC000Q7Y9	532	540	находится		movement	transper			startunk		endunk		E0230
+780880	VM780880.000132	V780880.00069	HC000Q7Y9	720	732	не производил		movement	transper	not		startunk		endunk		E0230
+780880	VM780880.000032	V780880.00070	HC000Q7Y9	102	117	совершил посадку	Yanukovych traveled to United Arab Emirates	movement	transper			starton	2014-02-22	endon	2014-02-22	NIL98.780880
+780886	VM780886.000240	V780886.00071	HC000Q7YA	4517	4523	вылетел		movement	transper			startunk		endunk		E0230
+780886	VM780886.000032	V780886.00072	HC000Q7YA	4418	4420	сел	Yanukovych traveled to United Arab Emirates	movement	transper			starton	2014-02-22	endon	2014-02-22	NIL98.780886
+780887	VM780887.000032	V780887.00073	HC000Q811	534	547	не приземлялся		movement	transper	not		startunk		endunk		E0230
+780887	VM780887.000160	V780887.00073	HC000Q811	4044	4051	прилетел		movement	transper			starton	2014-02-21	endon	2014-02-22	E0230
+780887	VM780887.000118	V780887.00074	HC000Q811	1495	1497	сел	Yanukovych's airplane landed in United Arab Emirates	movement	transper			starton	2014-02-22	endon	2014-02-22	NIL146.780887
+780909	VM780909.000258	V780909.00075	HC000T6AU	1467	1470	died		life	die			startunk		endunk		E0221
+780909	VM780909.000221	V780909.00076	HC000T6AU	1367	1376	threatened		contact	broadcast			startunk		endunk		E0223
+780909	VM780909.000032	V780909.00077	HC000T6AU	53	57	Flees	Yanukovych flees Kiev	movement	transper			startunk		endunk		NIL185.780909
+780909	VM780909.000188	V780909.00078	HC000T6AU	1043	1051	travelled	Yanukovych flees Kiev	movement	transper			startunk		endunk		NIL185.780909
+781042	VM781042.000032	V781042.00079	HC000Q7YE	1930	1938	требовали		contact	broadcast			starton	2014-02-21	endon	2014-02-21	E0223
+781042	VM781042.000275	V781042.00080	HC000Q7YE	6068	6073	открыт		justice	chargeindict			startunk		endunk		E0226
+781042	VM781042.000134	V781042.00081	HC000Q7YE	2290	2298	объявился		movement	transper			starton	2014-02-22	endon	2014-02-22	E0230
+781042	VM781042.000165	V781042.00082	HC000Q7YE	2448	2461	самоустранении	Yanukovych was removed from the post of president	personnel	endpos			starton	2014-02-22	endon	2014-02-22	NIL193.781042
+781042	VM781042.000200	V781042.00083	HC000Q7YE	4886	4888	дал	Yanukovych gave his first press conference after fleeing Ukraine in Rostov-on-Don	contact	broadcast			starton	2014-02-28	endon	2014-02-28	NIL228.781042
+781064	VM781064.000032	V781064.00084	HC000Q7YF	1882	1887	аресте		justice	chargeindict			startunk		endunk		E0226
+781064	VM781064.000114	V781064.00085	HC000Q7YF	2068	2075	выступил	Yanukovych speaks from Russia	contact	broadcast			startunk		endunk		NIL142.781064
+781072	VM781072.000384	V781072.00086	HC000Q7YG	7928	7934	сделали		movement	transper			startafter	2014-02-22	endunk		E0222
+781072	VM781072.000158	V781072.00087	HC000Q7YG	685	691	угрозой		contact	corresp			startunk		endunk		E0223
+781072	VM781072.000176	V781072.00087	HC000Q7YG	1960	1971	предупредили		contact	contact			startunk		endunk		E0223
+781072	VM781072.001227	V781072.00087	HC000Q7YG	2081	2088	поднимут		conflict	attack	hedged		starton	2014-02-22	endon	2014-02-22	E0223
+781072	VM781072.000331	V781072.00088	HC000Q7YG	7888	7895	попросил		contact	contact			startafter	2014-02-21	endunk		E0225
+781072	VM781072.000269	V781072.00089	HC000Q7YG	7471	7481	перебраться		movement	transper			starton	2014-02-23	endon	2014-02-23	E0228
+781072	VM781072.000032	V781072.00090	HC000Q7YG	1205	1212	переехал		movement	transper			startunk		endon	2014-02-22	E0230
+781072	VM781072.000202	V781072.00091	HC000Q7YG	2771	2777	убежище		movement	transper			startunk		endunk		E0231
+781072	VM781072.000127	V781072.00092	HC000Q7YG	1280	1289	обстреляли		conflict	attack			starton	2014-02-21	endbefore	2014-02-22	E0232
+781139	VM781139.000700	V781139.00093	HC000T6AH	631	637	threats		contact	contact			startbefore	2014-02-22	endunk		E0223
+781139	VM781139.000032	V781139.00094	HC000T6AH	598	602	leave		movement	transper			startafter	2014-02-22	endbefore	2014-02-28	E0231
+781139	VM781139.000538	V781139.00095	HC000T6AH	1073	1081	impeached	Yanukovych removed as president	personnel	endpos			starton	2014-02-22	endon	2014-02-22	NIL571.781139
+781141	VM781141.000032	V781141.00096	HC000T6AG	183	188	remove	Yanukovych ousted as president	personnel	endpos			startunk		endunk		NIL102.781141
+781141	VM781141.000105	V781141.00097	HC000T6AG	225	228	left	Yanukovych flees Ukraine	movement	transper			startunk		endunk		NIL133.781141
+781144	VM781144.000340	V781144.00098	HC000T69Z	1361	1366	deaths		life	die			startbefore	2014-02-22	endbefore	2014-02-22	E0221
+781144	VM781144.000363	V781144.00098	HC000T69Z	1434	1441	violence		conflict	attack			startbefore	2014-02-22	endbefore	2014-02-22	E0221
+781144	VM781144.000032	V781144.00099	HC000T69Z	18	23	Ouster	Yanukovych removed as president	personnel	endpos			starton	2014-02-22	endon	2014-02-22	NIL138.781144
+781153	VM781153.000125	V781153.00100	HC000T69U	464	468	asked		contact	broadcast			startbefore	XXXX-05-25	endbefore	XXXX-05-25	E0225
+781153	VM781153.000187	V781153.00101	HC000T69U	577	583	warrant		justice	chargeindict			startbefore	XXXX-05-25	endbefore	XXXX-05-25	E0226
+781153	VM781153.000032	V781153.00102	HC000T69U	12	16	flees		movement	transper			startbefore	XXXX-05-25	endbefore	XXXX-05-25	E0231
+781153	VM781153.000156	V781153.00103	HC000T69U	52	57	Ousted	Yanukovych removed as president	personnel	endpos			startbefore	XXXX-05-25	endbefore	XXXX-05-25	NIL184.781153
+781156	VM781156.000032	V781156.00104	HC000Q7YI	1715	1720	смерть		life	die			startunk		endunk		E0221
+781156	VM781156.000096	V781156.00104	HC000Q7YI	1895	1902	отрицают		life	die	not		startunk		endunk		E0221
+781156	VM781156.000323	V781156.00105	HC000Q7YI	43	50	посадить		conflict	attack			startbefore	2014-02-22	endunk		E0223
+781156	VM781156.000438	V781156.00106	HC000Q7YI	910	918	задержать	Attempts were made to arrest Yanukovych	justice	arrestjail	hedged		starton	2014-02-22	endunk		NIL461.781156
+781164	VM781164.000032	V781164.00107	HC000T69P	381	384	fled		movement	transper		deliberate	starton	2014-02-23	endon	2014-02-23	E0231
+781183	VM781183.000032	V781183.00108	HC000T69O	744	747	flew		movement	transper		deliberate	starton	2014-02-21	endon	2014-02-21	E0230
+781185	VM781185.000147	V781185.00109	HC000Q7YJ	3738	3744	вылетел		movement	transper			startafter	2014-02-21	endunk		E0231
+781185	VM781185.000178	V781185.00109	HC000Q7YJ	3851	3860	не покинет		movement	transper	not		startafter	2014-02-21	endunk		E0231
+781185	VM781185.000032	V781185.00110	HC000Q7YJ	3335	3345	отстранение	Yanukovych was removed from his position of president	personnel	endpos			startafter	2014-02-21	endunk		NIL98.781185
+781185	VM781185.000101	V781185.00111	HC000Q7YJ	3479	3489	не признает	Yanukovych was removed from his position of president	personnel	endpos	not		startafter	2014-02-21	endunk		NIL98.781185
+781205	VM781205.000032	V781205.00112	HC000Q7YM	420	428	находится		movement	transper			startunk		endunk		E0228
+781226	VM781226.000032	V781226.00113	HC000T69N	261	264	left		movement	transper	hedged		starton	2014-02-21	endon	2014-02-21	E0230
+781250	VM781250.000189	V781250.00114	HC000T69M	46	58	Demonstrators		conflict	demonstrate			startbefore	2014-05-25	endbefore	2014-05-25	E0220
+781250	VM781250.000158	V781250.00115	HC000T69M	518	524	warrant		justice	chargeindict			startbefore	2014-05-25	endbefore	2014-05-25	E0226
+781250	VM781250.000032	V781250.00116	HC000T69M	32	36	Flees		movement	transper			startbefore	2014-05-25	endbefore	2014-05-25	E0228
+781250	VM781250.000114	V781250.00117	HC000T69M	1238	1243	ousted	Yanukovych removed as president	personnel	endpos			startbefore	2014-05-25	endbefore	2014-05-25	NIL155.781250
+781260	VM781260.000032	V781260.00118	HC000T685	48	51	Flee	Yanukovych flees Ukraine	movement	transper			starton	2014-02-22	endon	2014-02-22	NIL120.781260
+781260	VM781260.000123	V781260.00119	HC000T685	1291	1298	shooting	Clashes between police and protestors	conflict	attack			starton	2014-02-22	endon	2014-02-22	NIL187.781260
+781260	VM781260.000159	V781260.00120	HC000T685	4321	4328	shooting	Clashes between police and protestors	conflict	attack			starton	2014-02-22	endon	2014-02-22	NIL187.781260
+781723	VM781723.000351	V781723.00121	HC000T678	170	176	protest		conflict	demonstrate			starton	20XX-XX-XX	endon	20XX-XX-XX	E0220
+781723	VM781723.000438	V781723.00121	HC000SS1I				Anti-government protests	conflict	demonstrate			starton	20XX-XX-XX	endon	20XX-XX-XX	E0220
+781723	VM781723.000499	V781723.00121	HC000SS1G				Anti-government protests	conflict	demonstrate			starton	20XX-XX-XX	endon	20XX-XX-XX	E0220
+781723	VM781723.000583	V781723.00121	HC000SS1C				Anti-government protests	conflict	demonstrate			starton	20XX-XX-XX	endon	20XX-XX-XX	E0220
+781723	VM781723.000606	V781723.00121	HC000SS19				Anti-government protests	conflict	demonstrate			starton	20XX-XX-XX	endon	20XX-XX-XX	E0220
+781723	VM781723.000629	V781723.00121	HC000SS18				Anti-government protests	conflict	demonstrate			starton	20XX-XX-XX	endon	20XX-XX-XX	E0220
+781723	VM781723.000698	V781723.00121	HC000SS14				Anti-government protests	conflict	demonstrate			starton	20XX-XX-XX	endon	20XX-XX-XX	E0220
+781723	VM781723.000726	V781723.00121	HC000SS13				Anti-government protests	conflict	demonstrate			starton	20XX-XX-XX	endon	20XX-XX-XX	E0220
+781723	VM781723.000820	V781723.00121	HC000SS0N				Anti-government protests	conflict	demonstrate			starton	20XX-XX-XX	endon	20XX-XX-XX	E0220
+781723	VM781723.000866	V781723.00121	HC000SS0U				Anti-government protests	conflict	demonstrate			starton	20XX-XX-XX	endon	20XX-XX-XX	E0220
+781723	VM781723.000412	V781723.00122	HC000T678	975	980	Killed		life	die			starton	20XX-XX-XX	endon	20XX-XX-XX	E0221
+781723	VM781723.000456	V781723.00122	HC000T678	975	980	Killed	Killings in the protests	conflict	attack			starton	20XX-XX-XX	endon	20XX-XX-XX	E0221
+781723	VM781723.000527	V781723.00122	HC000SS1E				Victim of protests is shown	life	die			starton	20XX-XX-XX	endon	20XX-XX-XX	E0221
+781723	VM781723.000555	V781723.00122	HC000SS1E				Victim of protests is shown	conflict	attack			starton	20XX-XX-XX	endon	20XX-XX-XX	E0221
+781723	VM781723.000652	V781723.00122	HC000SS15				Funeral for a protest victim	life	die			starton	20XX-XX-XX	endon	20XX-XX-XX	E0221
+781723	VM781723.000675	V781723.00122	HC000SS15				Funeral for a protest victim	conflict	attack			starton	20XX-XX-XX	endon	20XX-XX-XX	E0221
+781723	VM781723.000754	V781723.00122	HC000SS0O				Funeral for a protest victim	life	die			starton	20XX-XX-XX	endon	20XX-XX-XX	E0221
+781723	VM781723.000792	V781723.00122	HC000SS0O				Funeral for protest victim	conflict	attack			starton	20XX-XX-XX	endon	20XX-XX-XX	E0221
+781723	VM781723.000032	V781723.00123	HC000T678	32	36	Flees	Yanukovych flees Ukraine	movement	transper			starton	20XX-XX-XX	endon	20XX-XX-XX	NIL317.781723
+781723	VM781723.000320	V781723.00124	HC000T678	90	95	remove	Yanukovych removed as president	personnel	endpos			starton	20XX-XX-XX	endon	20XX-XX-XX	NIL348.781723
+781725	VM781725.000140	V781725.00125	HC000T672	1150	1157	protests		conflict	demonstrate			starton	2013-XX-XX	endafter	2014-02-20	E0220
+781725	VM781725.000184	V781725.00126	HC000T672	1245	1252	massacre		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0221
+781725	VM781725.000238	V781725.00126	HC000T672	1245	1252	massacre		life	die			starton	2014-02-20	endon	2014-02-20	E0221
+781725	VM781725.000276	V781725.00127	HC000T672	1527	1530	fled		movement	transper			startafter	2014-02-20	endbefore	2017-XX-XX	E0231
+781725	VM781725.000032	V781725.00128	HC000T672	767	772	ousted	Yanukovych removed as president	personnel	endpos			startafter	2014-02-20	endafter	2014-02-20	NIL124.781725
+781727	VM781727.000231	V781727.00129	HC000T6D0	677	684	protests		conflict	demonstrate			startunk		endunk		E0220
+781727	VM781727.000200	V781727.00130	HC000T6D0	290	296	warrant		justice	chargeindict			startunk		endunk		E0226
+781727	VM781727.000032	V781727.00131	HC000T6D0	29	34	ousted	Yanukovych removed from office	personnel	endpos			startunk		endunk		NIL156.781727
+781727	VM781727.000159	V781727.00132	HC000T6D0	148	151	fled	Yanukovych travels to east Ukraine	movement	transper			startunk		endunk		NIL197.781727
+781844	VM781844.000145	V781844.00133	HC000Q80J	991	1004	видеообращение		contact	broadcast			starton	2014-02-22	endon	2014-02-22	E0227
+781844	VM781844.000185	V781844.00134	HC000Q80J	1482	1487	прибыл		movement	transper			starton	2014-02-23	endon	2014-02-23	E0228
+781844	VM781844.000101	V781844.00135	HC000Q80J	1020	1025	улетел		movement	transart			starton	2014-02-22	endon	2014-02-22	E0229
+781844	VM781844.000032	V781844.00136	HC000Q80J	783	789	вылетел		movement	transper			startunk		endon	2014-02-22	E0230
+781846	VM781846.000032	V781846.00137	HC000Q80K	115	126	не позволила		movement	transper	not		starton	2014-02-22	endon	2014-02-22	E0224
+781846	VM781846.000053	V781846.00138	HC000Q80K	1262	1268	сообщил		contact	broadcast			startunk		endunk		E0227
+781848	VM781848.000175	V781848.00139	HC000Q7XW	1243	1248	улетел		movement	transper			starton	2014-02-21	endon	2014-02-22	E0230
+781848	VM781848.000097	V781848.00140	HC000Q7XW	805	830	законопроект об импичменте	Yanukovych was removed from power	personnel	endpos			starton	2014-02-22	endon	2014-02-22	NIL128.781848
+781848	VM781848.000131	V781848.00141	HC000Q7XW	725	731	покинул	Yanukovych fled Kiev	movement	transper			starton	2014-02-21	endon	2014-02-22	NIL159.781848
+781903	VM781903.000032	V781903.00142	HC000T6CW	733	739	crossed		movement	transper	hedged		startunk		endunk		E0231
+781908	VM781908.000081	V781908.00143	HC000T6CV	146	151	arrest	Arrest of Yanukovych	justice	arrestjail	not		startunk		endunk		NIL104.781908
+781913	VM781913.000179	V781913.00144	HC000T6CU	2029	2033	asked		contact	contact			startbefore	2014-02-27	endbefore	2014-02-27	E0225
+781913	VM781913.000246	V781913.00145	HC000T6CU	6801	6806	sought		justice	chargeindict			startafter	2014-02-22	endbefore	2014-02-27	E0226
+781913	VM781913.000032	V781913.00146	HC000T6CU	214	217	fled		movement	transper			starton	2014-02-22	endbefore	2014-02-27	E0231
+781913	VM781913.000210	V781913.00147	HC000T6CU	4862	4867	ouster	Yanukovych removed as president	personnel	endpos			starton	2014-02-22	endon	2014-02-22	NIL243.781913
+782468	VM782468.000105	V782468.00148	HC000Q80M	295	304	отправился		movement	transper			startunk		endunk		E0230
+782468	VM782468.000146	V782468.00148	HC000Q80M	767	780	не приземлялся		movement	transper	not		startunk		endunk		E0230
+782468	VM782468.000231	V782468.00149	HC000Q80M	1279	1288	отправился		movement	transper			startunk		endon	2014-02-22	E0231
+782468	VM782468.000187	V782468.00150	HC000Q80M	900	915	совершил посадку	Yanukovych's airplane lands in United Arab Emirates	movement	transper			startunk		endunk		NIL215.782468
+782544	VM782544.000092	V782544.00151	HC000Q80N	36	41	бежать		movement	transper			startunk		endunk		E0225
+782605	VM782605.000032	V782605.00152	HC00057CG				Yanukovych travels to Khrakiv	movement	transper			starton	2014-02-21	endon	2014-02-22	E0230
+783023	VM783023.000092	V783023.00153	HC000Q80O	493	503	перемещения		movement	transper			starton	2014-02-22	endon	2014-02-23	E0228
+783023	VM783023.000167	V783023.00154	HC000Q80O	1841	1850	отправился		movement	transper			starton	2014-02-24	endon	2014-02-24	E0231
+783152	VM783152.000092	V783152.00155	HC000Q812	19	28	не долетел		movement	transper	not		starton	2014-02-21	endunk		E0230
+783152	VM783152.000141	V783152.00155	HC000Q812	1081	1086	прибыл		movement	transper			starton	2014-02-21	endon	2014-02-22	E0230
+783152	VM783152.000182	V783152.00156	HC000Q812	1275	1277	сел	Yanukovych's airplane landed in United Arab Emirates	movement	transper			startunk		endunk		NIL210.783152
+783954	VM783954.000161	V783954.00157	HC000Q813	54	60	не дали		movement	transper	not		starton	2014-02-22	endon	2014-02-23	E0224
+783957	VM783957.000208	V783957.00158	HC0005JGH				Putin helped Yanukovych travel to Russia	movement	transper			startunk		endunk		E0222
+783957	VM783957.000851	V783957.00159	HC0005JGH				Threats were made against Yanukovych	conflict	attack			startunk		endunk		E0223
+783957	VM783957.000162	V783957.00160	HC0005JGH				Russia helped Yanukovych to get to Crimea	movement	transper			startunk		endunk		E0228
+783957	VM783957.000032	V783957.00161	HC0005JGH				Yanukovych's car was shot at	conflict	attack			startunk		endunk		E0232
+784012	VM784012.000105	V784012.00162	HC0005JI7				Yanukovych airplane denied permission to travel	movement	transper	not		startunk		endunk		E0224
+784012	VM784012.000032	V784012.00163	HC0005JI7				Yanukovych travels to Donetsk	movement	transper			startunk		endunk		E0229
+784079	VM784079.000032	V784079.00164	HC0005JK0				Viktor Yanukovych left his residence by helicopter	movement	transper			startunk		endunk		NIL104.784079
+784815	VM784815.000261	V784815.00165	HC0005JLR				Yanukovych denied permission to leave Donetsk airport	movement	transper	not,hedged		starton	2014-02-22	endon	2014-02-22	E0224
+784815	VM784815.000338	V784815.00166	HC0005JLR				Yanukovych charged with mass murder	justice	chargeindict			startunk		endunk		E0226
+784815	VM784815.000297	V784815.00167	HC0005JLR				Yanukovych goes from Donetsk to Crimea	movement	transper			starton	2014-02-22	endon	2014-02-23	E0228
+784815	VM784815.000215	V784815.00168	HC0005JLR				Yanukovych travels to Donetsk	movement	transper			starton	2013-02-22	endon	2014-02-22	E0229
+784815	VM784815.000032	V784815.00169	HC0005JLR				Yanukovych flew to Kharkiv	movement	transper			starton	2014-02-21	endon	2014-02-21	E0230
+785085	VM785085.000434	V785085.00170	HC000Q80P	2097	2101	штурм		contact	broadcast			starton	2014-02-21	endon	2014-02-22	E0223
+785085	VM785085.000115	V785085.00171	HC000Q80P	193	203	приземлился		movement	transper			starton	2014-02-21	endon	2014-02-21	E0230
+785216	VM785216.000187	V785216.00172	HC000Q80Q	479	490	преследовали		conflict	attack			starton	2014-02-XX	endunk		E0223
+785216	VM785216.000123	V785216.00173	HC000Q80Q	2623	2633	перебраться		movement	transper			starton	2014-02-XX	endon	2014-02-XX	E0228
+785216	VM785216.000151	V785216.00174	HC000Q80Q	2652	2664	на территорию		movement	transper		deliberate	starton	2014-02-XX	endon	2014-02-XX	E0231
+785375	VM785375.000187	V785375.00175	HC000Q80R	5698	5705	встретил		movement	transper			starton	2014-02-21	endon	2014-02-21	E0230
+785471	VM785471.000648	V785471.00176	HC000Q80S	2960	2968	восстание		conflict	attack	hedged		starton	2014-02-21	endunk		E0223
+785471	VM785471.000194	V785471.00177	HC000Q80S	1768	1777	обеспокоен	possible detention by Western intelligence services and trial to the court abroad.	justice	chargeindict	hedged		startbefore	2014-02-21	endafter	2014-02-21	E0226
+785471	VM785471.000114	V785471.00178	HC000Q80S	3218	3224	уезжает		movement	transper			starton	2014-02-21	endon	2014-02-22	E0230
+787237	VM787237.000219	V787237.00179	HC0005LBO				Threats were made against Yanukovych and his family	conflict	attack			starton	2014-02-21	endunk		E0223
+787237	VM787237.000188	V787237.00180	HC0005LBO				Yanukovych travels to Crimea	movement	transper			startafter	2014-02-22	endunk		E0228
+787237	VM787237.000140	V787237.00181	HC0005LBO				Yanukovych travels to Donetsk	movement	transper			starton	2014-02-22	endunk		E0229
+787237	VM787237.000109	V787237.00182	HC0005LBO				Yanukovych travels to Kharkiv	movement	transper			starton	2014-02-21	endon	2014-02-22	E0230
+787237	VM787237.000032	V787237.00183	HC0005LBO				Yanukovych's car was shot	conflict	attack		deliberate	starton	2014-02-21	endon	2014-02-21	E0232
+787264	VM787264.000121	V787264.00184	HC000Q80T	1975	1989	инкриминируется		justice	chargeindict			startunk		endunk		E0226
+787264	VM787264.000737	V787264.00185	HC000Q80T	1431	1439	находился		movement	transper			startunk		endon	2014-02-24	E0228
+787264	VM787264.000557	V787264.00186	HC000Q80T	868	878	перебросили		movement	transper			starton	2014-02-22	endon	2014-02-23	E0231
+789394	VM789394.000079	V789394.00187	HC000Q80V	419	434	сделал заявление		contact	broadcast			starton	2014-02-22	endon	2014-02-22	E0227
+789395	VM789395.000224	V789395.00188	HC000Q80W	665	673	обратился		contact	contact			startunk		endunk		E0225
+789395	VM789395.000699	V789395.00189	HC000Q80W	253	259	вылетел		movement	transper			startunk		endunk		E0230
+789395	VM789395.000260	V789395.00190	HC000Q80W	825	829	попал		movement	transper			starton	2014-02-24	endon	2014-02-24	E0231
+789395	VM789395.000198	V789395.00191	HC000Q80W	449	464	был открыт огонь		conflict	attack			startunk		endunk		E0232
+789472	VM789472.000092	V789472.00192	HC000Q80X	259	267	пригрозив		contact	corresp			startunk		endunk		E0223
+789472	VM789472.000141	V789472.00193	HC000Q80X	333	339	вылетел		movement	transper			starton	2014-02-21	endunk		E0230
+789472	VM789472.000523	V789472.00193	HC000Q80X	885	895	не известно		movement	transper	not		startunk		endunk		E0230
+789472	VM789472.000172	V789472.00194	HC000Q80X	1444	1454	приземлился	Yanukovych airplane landed in United Arab Emirates	movement	transper			startunk		endon	2014-02-22	NIL226.789472
+789521	VM789521.000311	V789521.00195	HC000Q80Y	637	652	найти и наказать		justice	chargeindict			startunk		endunk		E0226
+789521	VM789521.000252	V789521.00196	HC000Q80Y	2026	2030	отбыл		movement	transper			startunk		endunk		E0227
+789837	VM789837.000137	V789837.00197	HC000T6D9	2361	2367	просить		contact	corresp			startunk		endunk		E0225
+789837	VM789837.000336	V789837.00198	HC000T6D9	275	280	видели		movement	transper			startunk		endunk		E0231
+789837	VM789837.000451	V789837.00198	HC000T6D9	2184	2193	не покидал		movement	transper	not		startunk		endunk		E0231
+789919	VM789919.000376	V789919.00199	HC000T6D4	1066	1082	воспрепятствовала		movement	transper			starton	2014-02-22	endon	2014-02-22	E0224
+789919	VM789919.000235	V789919.00200	HC000T6D4	177	186	Возбуждено		justice	chargeindict			startunk		endunk		E0226
+789919	VM789919.000445	V789919.00201	HC000T6D4	1301	1306	прибыл		movement	transper			starton	2014-02-22	endon	2014-02-23	E0228
+789919	VM789919.000335	V789919.00202	HC000T6D4	892	897	улетел		movement	transper			starton	2014-02-22	endon	2014-02-22	E0229
+789919	VM789919.000266	V789919.00203	HC000T6D4	636	642	вылетел		movement	transper			starton	2014-02-21	endon	2014-02-21	E0230
+789941	VM789941.000128	V789941.00204	HC000T6D1	317	322	прибыл		movement	transper			startunk		endunk		E0231
+789943	VM789943.000252	V789943.00205	HC000T6CS	814	830	воспрепятствовала		movement	transper	not		starton	2014-02-22	endon	2014-02-22	E0224
+789943	VM789943.000316	V789943.00206	HC000T6CS	2177	2186	Возбуждено		justice	chargeindict			startafter	2014-02-21	endunk		E0226
+789943	VM789943.000755	V789943.00207	HC000T6CS	611	624	видеообращение		contact	broadcast			starton	2014-02-22	endon	2014-02-22	E0227
+789943	VM789943.000283	V789943.00208	HC000T6CS	1000	1004	отбыл		movement	transper			starton	2014-02-22	endon	2014-02-23	E0228
+789943	VM789943.000216	V789943.00209	HC000T6CS	640	645	улетел		movement	transper			starton	2014-02-22	endon	2014-02-22	E0229
+789943	VM789943.000170	V789943.00210	HC000T6CS	390	396	вылетел		movement	transper			starton	2014-02-21	endon	2014-02-21	E0230
+789943	VM789943.001148	V789943.00211	HC000T6CS	1267	1276	назначению	Turchynov is appointed as acting President of Ukraine	personnel	startpos			starton	2014-02-21	endunk		NIL1189.789943
+789952	VM789952.000105	V789952.00212	HC000T6CR	88	99	причастности		justice	chargeindict			startafter	2014-02-21	endunk		E0226
+789952	VM789952.000261	V789952.00213	HC000T6CR	934	940	вылетел		movement	transper			starton	2014-02-23	endon	2014-02-24	E0228
+789952	VM789952.000167	V789952.00214	HC000T6CR	585	595	перебросили		movement	transper			starton	2014-02-22	endon	2014-02-23	E0231
+790114	VM790114.000578	V790114.00215	HC000T6CQ	1139	1141	дал		contact	meet			starton	2014-02-22	endon	2014-02-22	E0227
+790114	VM790114.000202	V790114.00216	HC000T6CQ	2616	2622	вывозил		movement	transper			starton	2014-02-23	endafter	2014-02-23	E0228
+790114	VM790114.000711	V790114.00217	HC000T6CQ	1798	1806	совершить		movement	transper			starton	2014-02-22	endon	2014-02-22	E0229
+790114	VM790114.000974	V790114.00218	HC000T6CQ	3492	3499	вылетели		movement	transper			starton	2014-02-23	endon	2014-02-23	E0231
+790311	VM790311.000132	V790311.00219	HC000T6CN	100	105	угрозы		conflict	attack			startunk		endunk		E0223
+790311	VM790311.000158	V790311.00220	HC000T6CN	400	407	попросил		movement	transper			startafter	2014-02-21	endunk		E0225
+790311	VM790311.000109	V790311.00221	HC000T6CN	2034	2042	убийствам		justice	chargeindict			startunk		endunk		E0226
+790311	VM790311.000406	V790311.00222	HC000T6CN	1486	1494	находится		movement	transper			startunk		endunk		E0231
+790311	VM790311.000521	V790311.00222	HC000T6CN	1598	1607	опровергли		movement	transper	not		startunk		endunk		E0231
+791072	VM791072.000520	V791072.00223	HC000T6CM	813	818	розыск		justice	chargeindict			startunk		endunk		E0226
+791072	VM791072.000157	V791072.00224	HC000T6CM	314	325	переправился		movement	transper			startunk		endunk		E0231
+791073	VM791073.000105	V791073.00225	HC000T6CL	505	512	вылететь		movement	transper	not		starton	2014-02-21	endon	2014-02-21	E0224
+791342	VM791342.000032	V791342.00226	HC000SYFO				Putin orders rescue of Yanukovych	movement	transper			starton	2014-02-21	endon	2014-02-23	E0222
+791342	VM791342.000294	V791342.00227	HC000SYFO				Threats made against Yanukovych	conflict	attack			starton	2014-02-21	endunk		E0223
+791342	VM791342.000268	V791342.00228	HC000SYFO				Yanukovych asks Russia for assistance	contact	contact			starton	2014-02-21	endunk		E0225
+791342	VM791342.000193	V791342.00229	HC000SYFO				Yanukovych Travels to Crimea	movement	transper			startafter	2014-02-21	endunk		E0228
+791342	VM791342.000224	V791342.00230	HC000SYFO				Yanukovych travels to Donetsk	movement	transper			starton	2014-02-22	endon	2014-02-22	E0229
+791342	VM791342.000157	V791342.00231	HC000SYFO				Yanukovych was transported to Russia	movement	transper			starton	2014-02-22	endon	2014-02-23	E0231
+791342	VM791342.000982	V791342.00232	HC000SYFO				Yanukivych's car was shot at	conflict	attack			startafter	2014-02-21	endunk		E0232
+791584	VM791584.000032	V791584.00239	HC0005JLR				Yanukovych charged with mass murder	justice	chargeindict			startafter	2014-02-21	endunk		E0226
+791584	VM791584.000652	V791584.00240	IC0011X3Z				Yanukovich records video conference in Kharkiv	contact	broadcast			starton	2014-02-21	endon	2014-02-21	E0227
+791584	VM791584.000189	V791584.00241	HC0005JLR				Yanukovych traveled to Crimea	movement	transper			starton	2014-02-22	endon	2014-02-23	E0228
+791584	VM791584.000153	V791584.00242	HC0005JLR				Yanukovych traveled to Donetsk	movement	transper			starton	2014-02-22	endon	2014-02-22	E0229
+791584	VM791584.000071	V791584.00243	HC0005JLR				Yanukovych traveled to Kharkiv	movement	transper			starton	2014-02-21	endafter	2014-02-22	E0230
+791621	VM791621.000119	V791621.00244	HC000SY7E				Yanukovych speaks from Kharkiv	contact	broadcast			starton	2014-02-21	endon	2014-02-21	E0227
+791621	VM791621.000032	V791621.00245	HC000SY7E				Yanukovych traveled to Kharkiv (0.48)	movement	transper			starton	2014-02-21	endon	2014-02-21	E0230
+855764	VM855764.000079	V855764.00246	HC000Q81N	589	592	втік		movement	transper		deliberate	startafter	2014-02-01	endbefore	2014-02-28	E0231
+875091	VM875091.000066	V875091.00247	HC000Q81P	390	401	звинувачують		justice	chargeindict			startunk		endunk		E0226
+889231	VM889231.000285	V889231.00248	HC00002YZ	159	167	Ultimatum		contact	broadcast			starton	2014-02-21	endon	2014-02-21	E0223
+889231	VM889231.000321	V889231.00248	IC0019N49				Protesters threaten to attack if there is no demand for Yanukovych to resign	contact	broadcast			starton	2014-02-21	endon	2014-02-21	E0223
+889231	VM889231.000239	V889231.00249	HC00002YZ	433	439	fleeing		movement	transper			starton	2014-02-21	endon	2014-02-21	E0230
+889231	VM889231.000180	V889231.00250	HC00002YZ	321	324	fled	Yanukovych travels to UAE	movement	transper	hedged		starton	2014-02-21	endon	2014-02-21	NIL236.889231
+893541	VM893541.000032	V893541.00251	HC000Q8FM				Yanukovych may have fled to Kharkiv	movement	transper	hedged		startafter	2010-02-25	endafter	2010-02-25	E0230
+893542	VM893542.000127	V893542.00252	HC000T6AE	56	63	smuggled	Yanukovych smuggled out of Ukraine by the CIA	movement	transper			startunk		endunk		NIL191.893542
+893542	VM893542.000222	V893542.00253	HC000T6AE	56	63	smuggled	Yanukovych smuggled out of Ukraine by the CIA	movement	transper	not,hedged		startunk		endunk		NIL191.893542
+893543	VM893543.000763	V893543.00254	HC000T69W	731	737	threats		contact	contact			startbefore	2014-02-28	endbefore	2014-02-28	E0223
+893543	VM893543.000856	V893543.00254	HC000SQE0				Threats made against Yanukovych	contact	contact			startbefore	2014-02-28	endbefore	2014-02-28	E0223
+893543	VM893543.000879	V893543.00254	HC000SQDY				Threats made against Yanukovych	contact	contact			startbefore	2014-02-28	endbefore	2014-02-28	E0223
+893543	VM893543.000902	V893543.00254	HC000SQDW				Threats made against Yanukovych	contact	contact			startbefore	2014-02-28	endbefore	2014-02-28	E0223
+893543	VM893543.000825	V893543.00255	HC000T69W	2980	2986	warrant		justice	chargeindict			startbefore	2014-02-28	endbefore	2014-02-28	E0226
+893543	VM893543.000789	V893543.00256	HC000T69W	244	247	fled		movement	transper			starton	2014-02-21	endbefore	2014-02-28	E0231
+893543	VM893543.001384	V893543.00257	HC000T69W	648	654	removed	Yanukovych removed as president	personnel	endpos	not		startbefore	2014-02-28	endbefore	2014-02-28	NIL1425.893543
+893543	VM893543.001428	V893543.00258	HC000SQE0				Yanukovych removed as president	personnel	endpos	not		startbefore	2014-02-28	endbefore	2014-02-28	NIL1425.893543
+893543	VM893543.001456	V893543.00259	HC000SQDY				Yanukovych removed as president	personnel	endpos	not		startbefore	2014-02-28	endbefore	2014-02-28	NIL1425.893543
+893543	VM893543.001484	V893543.00260	HC000SQDW				Yanukovych removed as president	personnel	endpos	not		startbefore	2014-02-28	endbefore	2014-02-28	NIL1425.893543
+896710	VM896710.000666	V896710.00261	HC000T6CZ	1098	1103	murder		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0221
+896710	VM896710.000625	V896710.00262	HC000T6CZ	1458	1461	sail		movement	transper	hedged		startafter	2014-02-21	endunk		E0231
+896710	VM896710.000521	V896710.00263	HC000T6CZ	1078	1083	arrest	Ukrainian special forces had a warrant for Yanukovych's arrest for mass murder	justice	arrestjail	hedged		startafter	2014-02-19	endunk		NIL613.896710
+897318	VM897318.000729	V897318.00264	HC000T6CY	8062	8064	ask		contact	broadcast			starton	2014-02-27	endon	2014-02-27	E0225
+897318	VM897318.000539	V897318.00265	HC000T6CY	2665	2668	left		movement	transper			starton	2014-02-22	endon	2014-02-22	E0228
+897318	VM897318.000862	V897318.00265	HC000SYA8				Yanukovych travels to Sevastopol, Crimea	movement	transper			starton	2014-02-22	endon	2014-02-22	E0228
+897318	VM897318.000470	V897318.00266	HC000T6CY	1948	1951	flew		movement	transper			startbefore	2014-02-23	endbefore	2014-02-23	E0229
+897318	VM897318.000829	V897318.00266	HC000SYA8				Yanukovych travels to Donetsk	movement	transper			startbefore	2014-02-23	endbefore	2014-02-23	E0229
+897318	VM897318.000342	V897318.00267	HC000T6CY	817	820	gone		movement	transper	hedged		startbefore	2014-02-23	endbefore	2014-02-23	E0230
+897318	VM897318.000409	V897318.00267	HC000T6CY	1069	1072	flew		movement	transper			startbefore	2014-02-23	endbefore	2014-02-23	E0230
+897318	VM897318.000791	V897318.00267	HC000SYA8				Yanukovych travels to Kharkiv	movement	transper			startbefore	2014-02-23	endbefore	2014-02-23	E0230
+897318	VM897318.000923	V897318.00267	HC000SYDA				Yanukovych leaves Kiev by helicopter	movement	transper			startbefore	2014-02-23	endbefore	2014-02-23	E0230
+897318	VM897318.000670	V897318.00268	HC000T6CY	6250	6256	arrived		movement	transper			startafter	2014-02-24	endbefore	2014-02-26	E0231
+897318	VM897318.001028	V897318.00269	HC000T6CY	7297	7303	whisked	CIA smuggled Yanukovych to the US	movement	transper	hedged		startafter	2014-02-23	endafter	2014-02-23	NIL1061.897318
+897318	VM897318.000378	V897318.00270	HC000T6CY	817	820	gone	Yanukovych travels to UAE	movement	transper	hedged		startbefore	2014-02-23	endbefore	2014-02-23	NIL406.897318
+897318	VM897318.000442	V897318.00271	HC000T6CY	1004	1009	flight		movement	transper	not		startbefore	2014-02-23	endbefore	2014-02-23	NIL406.897318
+897318	VM897318.000575	V897318.00272	HC000T6CY	2988	2991	flee	Yanukovych tries to leave from Sevastopol	movement	transper			starton	2014-02-24	endon	2014-02-24	NIL608.897318
+897318	VM897318.000611	V897318.00273	HC000T6CY	3972	3975	flee	Yanukovych flees by sea	movement	transper	hedged		startafter	2014-02-24	endbefore	2014-02-26	NIL639.897318
+897318	VM897318.000642	V897318.00274	HC000T6CY	3972	3975	flee		movement	transper	not		startafter	2014-02-24	endbefore	2014-02-26	NIL639.897318
+897318	VM897318.000760	V897318.00275	HC000T6CY	8722	8728	arrived	Yanukovych travels to Rostov-on-Don	movement	transper			starton	2014-02-27	endon	2014-02-27	NIL788.897318
+901165	VM901165.000264	V901165.00276	HC000T6CJ	10882	10885	fled		movement	transper			starton	2014-02-21	endon	2014-02-21	E0230
+901165	VM901165.000343	V901165.00277	HC000T6CJ	15499	15502	fled		movement	transper			startafter	2014-02-22	endafter	2014-02-22	E0231
+901165	VM901165.000374	V901165.00278	HC000T6CJ	15601	15604	shot		conflict	attack			startbefore	2014-02-22	endbefore	2014-02-22	E0232
+901165	VM901165.000127	V901165.00279	HC000T6CJ	1291	1294	coup	Yanukovych removed as president	personnel	endpos			starton	2014-02-21	endon	2014-02-21	NIL186.901165
+901165	VM901165.000310	V901165.00280	HC000T6CJ	12782	12785	coup		personnel	endpos	not		starton	2014-04-21	endon	2014-02-21	NIL186.901165
+901165	VM901165.000228	V901165.00281	HC000T6CJ	6275	6280	seized	Protesters seize more weapons	transaction	transown			starton	2014-02-18	endon	2014-02-18	NIL261.901165
+924938	VM924938.000239	V924938.00282	HC000Q81Q	16772	16777	Майдан		conflict	demonstrate			startunk		endunk		E0220
+924938	VM924938.000139	V924938.00283	HC000Q81Q	9549	9560	звинувативши		justice	chargeindict			startunk		endunk		E0226
+924938	VM924938.000185	V924938.00284	HC000Q81Q	11574	11580	вилетів		movement	transper			starton	2014-05-21	endunk		E0230
+939034	VM939034.000181	V939034.00285	HC000Q81U	1262	1268	поїздку		movement	transper	not		starton	2014-02-21	endunk		E0228
+939034	VM939034.000132	V939034.00286	HC000Q81U	1115	1121	покидає		movement	transper			starton	2014-02-21	endunk		E0230
+944558	VM944558.000053	V944558.00287	HC000T6G0	677	684	почалися	Yanukovych flees Mezhyhirya Residence	movement	transper			starton	2014-02-19	endon	2014-02-21	NIL71.944558
+944818	VM944818.000089	V944818.00288	HC000T6FZ	145	151	залишив	Yanukovych leaves Ukraine	movement	transper			starton	2014-02-23	endon	2014-02-23	NIL107.944818
+946122	VM946122.000053	V946122.00289	HC000T6FY	1823	1833	відправився		movement	transper			starton	2014-02-23	endon	2014-02-24	E0231
+947655	VM947655.000071	V947655.00290	HC000T6FX	1046	1056	відправився		movement	transper			starton	2014-02-24	endon	2014-02-24	E0231
+947898	VM947898.000053	V947898.00291	HC000T6FV	3402	3411	евакуювали	Yanukovych left Crimea	movement	transper			starton	2014-02-23	endon	2014-02-23	NIL71.947898
+948047	VM948047.000071	V948047.00292	HC000T6FU	819	823	почав		personnel	endpos	not		startbefore	2014-02-22	endunk		E0220
+950555	VM950555.000053	V950555.00293	HC000T6FG	10	14	тікав		movement	transper			starton	2014-02-22	endafter	2014-02-22	E0231
+952112	VM952112.000053	V952112.00294	HC000T6FB	24201	24204	утік		movement	transper	not	deliberate	starton	20114-02-XX	endon	2014-02-XX	E0231
+952112	VM952112.000222	V952112.00294	HC000T6FB	24963	24973	приземлився		movement	transper	not	deliberate	starton	2014-02-XX	endon	2014-02-XX	E0231
+952112	VM952112.000128	V952112.00295	HC000T6FB	24764	24783	дав прес-конференцію	Yanukovych speaks from Rostov-on-Don	contact	meet	not	deliberate	starton	2014-02-XX	endbefore	2014-02-XX	NIL219.952112
+952845	VM952845.000196	V952845.00296	HC000T6EG	4387	4403	оголошено підозру		justice	chargeindict	not	deliberate	starton	2014-02-25	endafter	2014-02-25	E0226
+952845	VM952845.000076	V952845.00297	HC000T6EG	3768	3775	усунення	Yanukovych removed from the post of President of Ukraine by Verkhovna Rada	personnel	endpos	not	deliberate	starton	2014-02-22	endon	2014-02-22	NIL134.952845
+952845	VM952845.000245	V952845.00298	HC000T6EG	4835	4844	затримання	A court ruling on the detention of Yanukovych	justice	chargeindict	not	deliberate	startafter	2014-02-22	endunk		NIL299.952845
+952845	VM952845.000302	V952845.00299	HC000T6EG	4858	4865	доставку	Bringing  Yanukovych to Court	justice	chargeindict		accidental	startafter	2014-02-22	endunk		NIL334.952845
+952845	VM952845.000337	V952845.00300	IC001213H				Yanukovych speaks publicly on TV	contact	broadcast	not	deliberate	startafter	2014-02-22	endafter	2014-02-22	NIL360.952845
+952845	VM952845.000137	V952845.00301	HC000T6EG	4168	4177	затримання	Law enforcement agencies did not take decision to detain Yanukovych in Crimea	justice	arrestjail	hedged	deliberate	startafter	2014-02-22	endunk		NIL363.952845
+953430	VM953430.000053	V953430.00302	HC000T6E9	220	224	тікав	Yanukovych fled Ukraine	movement	transper		deliberate	startafter	2014-02-22	endafter	2014-02-22	NIL1568.953430
+953430	VM953430.000285	V953430.00303	HC000T6E9	176	185	перехопити	Yanukovych is not detained on the way to Sevastopol	contact	meet	not,hedged	deliberate	starton	2014-02-22	endunk		NIL330.953430
+953430	VM953430.000333	V953430.00304	HC000T6E9	3011	3018	дістався		movement	transper	not	deliberate	starton	2014-02-23	endunk		NIL448.953430
+953430	VM953430.000397	V953430.00305	HC000T6E9	2959	2966	посадили	Yanukovych fled Crimea to Novorosiysk	movement	transper		deliberate	starton	2014-02-23	endunk		NIL448.953430
+953430	VM953430.000451	V953430.00306	HC000T6E9	3548	3555	виступав	Yanukovych speaks from Rostov-on-Don	contact	meet		deliberate	startafter	2014-02-22	endunk		NIL599.953430
+955052	VM955052.000053	V955052.00308	HC000T6E7	669	681	переправленні	Yanukovych had been transferred to Russia	movement	transper		deliberate	startunk		endunk		NIL111.955052
+955058	VM955058.000114	V955058.00309	HC000SXWW				Yanukovych is charged with crime against humanity	justice	chargeindict		deliberate	startunk		endunk		E0226
+955058	VM955058.000053	V955058.00310	HC000SXWW				Verkhovna Rada removed Yanukovych from the position of President of Ukraine	personnel	endpos		deliberate	startunk		endunk		NIL111.955058
+955192	VM955192.000053	V955192.00311	HC000T6E3	599	606	усунення	Verkhovna Rada removed Viktor Yanukovych from the position of President of Ukraine	personnel	endpos		deliberate	starton	2014-02-22	endon	2014-02-22	NIL107.955192
+955192	VM955192.000110	V955192.00312	HC000T6E3	1170	1190	державним переворотом	Coup in Ukraine	conflict	attack		deliberate	starton	2014-02-18	endon	2014-02-20	NIL155.955192
+956254	VM956254.000071	V956254.00313	HC000SXYV				Verkhovna Rada removes Viktor Yanukovych from the position of President of Ukraine	personnel	endpos		deliberate	startunk		endunk		NIL116.956254
+956292	VM956292.000053	V956292.00314	HC000T6E0	181	203	повідомлено про підозру		justice	chargeindict		deliberate	startunk		endunk		E0226
+956294	VM956294.000053	V956294.00315	HC000T6DZ	471	481	хоче втекти	Yanukovych wants to flee from Crimea to Russia	movement	transper	hedged	deliberate	startafter	2014-02-22	endunk		NIL171.956294
+956294	VM956294.000125	V956294.00316	HC000T6DZ	820	827	тікатиме	Yanukovych would flee Ukraine through Crimea	movement	transper			startafter	2014-02-22	endunk		NIL174.956294
+956366	VM956366.000032	V956366.00317	HC000T6DX	76	147	Верховна Рада проголосувала за самоусунення президента Віктора Януковича	Verkhovna Rada voted to remove Yanukovych from his post of Ukraine's President	personnel	endpos		deliberate	starton	2014-02-22	endon	2014-02-22	NIL175.956366
+956446	VM956446.000163	V956446.00318	HC000T6DV	575	582	стріляли		conflict	attack		deliberate	startunk		endunk		E0232
+956446	VM956446.000097	V956446.00319	HC000T6DV	302	309	не поїде	Yanukovych will not leave Ukraine	movement	transper	not,hedged	deliberate	startafter	2014-02-22	endunk		NIL262.956446
+956446	VM956446.000053	V956446.00320	HC000T6DV	261	275	йти у відставку	Viktor Yanukovych is not going to resign	personnel	endpos	hedged	deliberate	startunk		endunk		NIL94.956446
+956447	VM956447.000107	V956447.00321	HC000T6DU	747	753	заявляв		contact	broadcast			startbefore	2014-02-22	endbefore	2014-02-22	E0227
+956447	VM956447.000071	V956447.00322	HC000T6DU	769	778	обстріляли		conflict	attack			startbefore	2014-02-22	endbefore	2014-02-22	E0232
+956448	VM956448.000053	V956448.00323	HC000T6DS	138	147	обстріляли		conflict	attack			starton	2014-02-21	endafter	2014-02-21	E0232
+956455	VM956455.000053	V956455.00324	HC000T6DN	1644	1654	відправився		movement	transper			starton	2014-02-24	endon	2014-02-24	E0231
+956494	VM956494.000132	V956494.00325	HC000T6DM	1035	1052	збирається просити		movement	transper		deliberate	startafter	2014-02-22	endunk		E0225
+956494	VM956494.000197	V956494.00326	HC000T6DM	934	942	перебуває		movement	transper		deliberate	startafter	2014-02-22	endunk		E0230
+956494	VM956494.000053	V956494.00327	HC000T6DM	780	793	зробив посадку	Yanukovych's airplane landed in United Arab Emirates	movement	transper		deliberate	startunk		endunk		NIL129.956494
+956497	VM956497.000084	V956497.00328	HC000T6D2	217	220	утік		movement	transper			starton	2014-02-25	endon	2014-02-25	E0231
+956503	VM956503.000084	V956503.00332	HC000T6ED	693	704	самоусунувся	Viktor Yanukovych self-abdicated from exercising constitutional powers	personnel	endpos		accidental	startunk		endunk		NIL125.956503
+956526	VM956526.000128	V956526.00333	HC0007KJT	5973	5992	не может участвовать		personnel	endpos			startunk		endunk		E0223
+956526	VM956526.000053	V956526.00334	HC0007KJT	1306	1311	поїхав		movement	transper			starton	2014-02-19	endunk		E0231
+956530	VM956530.000092	V956530.00335	HC000Q81L	10	13	втік		movement	transper			startunk		endbefore	2014-02-22	E0231
+956532	VM956532.000032	V956532.00336	HC0005OWP				Yanukovych escapes to Russia from Ukraine	movement	transper			startunk		endunk		E0231
+956534	VM956534.000071	V956534.00337	HC000Q81T	3123	3130	дістався		movement	transper			starton	2014-02-23	endon	2014-02-24	E0231
+956535	VM956535.000053	V956535.00338	HC000Q88C				Viktor Yanukovych decided to flee to Russia from Crimea	movement	transper		deliberate	startafter	2014-02-22	endunk		NIL116.956535
+956535	VM956535.000174	V956535.00339	HC000Q88C				Yanukovych flees to Novorosiysk	movement	transper		deliberate	startafter	2014-02-22	endunk		NIL255.956535
+956535	VM956535.000119	V956535.00340	HC000Q88C				Yanukovych stays in Russian resort	movement	transper		deliberate	startafter	2014-02-22	endunk		NIL258.956535
+956607	VM956607.000092	V956607.00341	HC000T6EF	1973	1976	вину		justice	chargeindict			startunk		endunk		E0226
+956607	VM956607.000123	V956607.00342	HC000T6EF	1436	1440	втечі		movement	transper			starton	2014-02-21	endon	2014-02-21	E0231
+956781	VM956781.000092	V956781.00343	HC000T6DJ	502	505	втік		movement	transper			startunk		endunk		E0231

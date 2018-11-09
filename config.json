@@ -1,0 +1,4 @@
+{
+  "SQLALCHEMY_DATABASE_URI":"sqlite:////tmp/test.db",
+  "MEDIA_LOCATION": "/Volumes/TOSHIBA EXT/AIDACorpora/VideoCorpus"
+}

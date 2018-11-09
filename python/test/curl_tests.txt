@@ -1,0 +1,34 @@
+curl 'http://127.0.0.1:5000/api/v1/entities'
+curl 'http://127.0.0.1:5000/api/v1/entities/id/E779954.00001'
+curl 'http://127.0.0.1:5000/api/v1/entities_without_canonical'
+
+curl 'http://127.0.0.1:5000/api/v1/entity_mentions'
+curl 'http://127.0.0.1:5000/api/v1/entities_with_canonical_count'
+curl 'http://127.0.0.1:5000/api/v1/entity_mentions?id=EM779959.000179'
+curl 'http://127.0.0.1:5000/api/v1/entity_mentions?entity_id=E779959.00017'
+
+curl 'http://127.0.0.1:5000/api/v1/parent_child_detail'
+curl 'http://127.0.0.1:5000/api/v1/parent_child_detail/mention/IC0019N7Y'
+curl 'http://127.0.0.1:5000/api/v1/parent_child_detail/file/IC0019N7Y.mp4.ldcc'
+
+curl 'http://127.0.0.1:5000/api/v1/media?file_id=IC0011SL2.mp4.ldcc&frame_number=1'
+
+curl 'http://127.0.0.1:5000/api/v1/segments/IC0011SL2.mp4.ldcc'
+
+curl -X POST 'http://127.0.0.1:5000/api/v1/canonical_mentions' -H "Content-Type: application/json" -d '{"entity_mention_id":"EM779959.000179", "child_file":"HC00000AJ.jpg.ldcc", "frame_time":100,"frame_number":100}'
+curl 'http://127.0.0.1:5000/api/v1/canonical_mentions'
+curl 'http://127.0.0.1:5000/api/v1/canonical_mentions/media/HC00000AJ.jpg.ldcc'
+
+curl 'http://127.0.0.1:5000/api/v1/canonical_mentions/urn:uuid:d12e7715-ff14-4a6e-bc63-214725f42079'
+curl -X DELETE 'http://127.0.0.1:5000/api/v1/canonical_mentions/urn:uuid:d12e7715-ff14-4a6e-bc63-214725f42079'
+
+
+curl -X POST 'http://127.0.0.1:5000/api/v1/index' -F "video=@/Users/ericrobertson/Downloads/5136166715.mp4"
+curl -H "Content-Type: application/json" -X POST -d '{"username":"admin","password":"pass123"}' http://localhost:5000/api/v1/login
+curl -H "Content-Type: application/json" -X POST -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1MzE4NDIyMjgsImlhdCI6MTUzMTg0MTkyOCwibmJmIjoxNTMxODQxOTI4LCJpZGVudGl0eSI6MTIzfQ.DTxTpfV5DcrSVnwq3kLRKMbMduB-xJiR3SMWpt4ud8U' http://localhost:5000/api/v1/refresh
+
+curl -H "Content-Type: application/json" -X POST  -H "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1Mzk3MTE3NzAsIm5iZiI6MTUzOTcxMTc3MCwianRpIjoiOTdjZTE1OWYtZjEzNS00OGZiLTg3ODMtNzgwNjgyOTJmNTRkIiwiZXhwIjoxNTM5NzEyNjcwLCJpZGVudGl0eSI6ImFkbWluIiwiZnJlc2giOmZhbHNlLCJ0eXBlIjoiYWNjZXNzIn0.49KFDDimTZBuRkglgwPn1rU8Y2nNbTYUURVETeI4obM" -d '{"entity_mention_id": "EM779959.000179", "id":"1","segment_id":"urn:uuid:545af281-1c83-4939-a24d-9a645e323cc5", "comment": "Recommended Test"}' http://localhost:5000/api/v1/comment
+
+# testing with authorization
+curl -X GET 'http://127.0.0.1:5000/api/v1/canonical_mentions' -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1MzE4NDIyMjgsImlhdCI6MTUzMTg0MTkyOCwibmJmIjoxNTMxODQxOTI4LCJpZGVudGl0eSI6MTIzfQ.DTxTpfV5DcrSVnwq3kLRKMbMduB-xJiR3SMWpt4ud8U'
+curl 'http://127.0.0.1:5000/api/v1/users' -H 'Authorization: JWT eeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1MzE5NDEwMDQsImlhdCI6MTUzMTk0MDcwNCwibmJmIjoxNTMxOTQwNzA0LCJpZGVudGl0eSI6ImFkbWluIn0.4I-3qlRtUUCJna9RwBq43zMjc_kBwBHxwsrPAJKT6Yg'

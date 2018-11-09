@@ -1,0 +1,85 @@
+node_id	topic_id	category	handle	description
+E0107	T103	Entity	Alexander Yakimenko	Head police chief under Yanukovych
+E0108	T103	Entity	Anatoli Strelchenko	Commander of the "Omega" division of Ukrainian military
+E0109	T103	Entity	Andriy Parubiy	Person who was in charge of security for the protesters, called the Commandant of the Maidan.
+E0110	T103	Entity	Verkhovna Rada building	Ukrainian Parliament building in Kiev
+E0111	T103	Entity	Berkut Riot Police	Police team that clashed with protesters during the Maidan revolution
+E0112	T103	Entity	Catherine Ashton	EU High Commissioner
+E0113	T103	Entity	Central Intelligence Agency	America's international intelligence agency
+E0114	T103	Entity	Conservatory Building	Conservatory Building in Kiev, largely occupied by protesters during clashes
+E0115	T103	Entity	Dmytro Sadovnyk	Commander of the Berkut riot police, accused of ordering the police to open fire on protesters
+E0116	T103	Entity	European Union	Organization that Ukraine was moving toward joining, but Yanukovych refused to sign the agreement, causing the Euromaidan protests
+E0117	T103	Entity	Globus Shopping Center	Shopping mall in Kiev
+E0118	T103	Entity	Heavenly Hundred	People killed during Euromaidan events taking place in the fall and winter of 2013–2014.
+E0119	T103	Entity	Hotel Ukrayina (a.k.a. Ukrainia Hotel)	Four-star hotel located in central Kiev
+E0121	T103	Entity	Ivan Bubenchyk	Euromaidan protester who reportedly started shooting at Euromaidan
+E0122	T103	Entity	Kyiv (a.k.a. Kiev)	City in which the shootings and major protests occurred
+E0123	T103	Entity	Lesia Orobets (a.k.a. Lesya Orobets)	People's Deputy of Ukraine
+E0124	T103	Entity	Maidan Nezalezhnosti (a.k.a. Maidan, Independence Square)	Public square in Kyiv that was the central location of the protests and the shootings
+E0125	T103	Entity	Maidan People's Union	Political alliance formed by several pro-Western political parties and individuals
+E0126	T103	Entity	October Palace	Historic building and cultural center and cultural center controlled by different forces during protests
+E0127	T103	Entity	Olga Bogomolets	"Mother Theresa of the Maidan" who informed Urmas Paet that the same snipers shot at both police and protesters
+E0128	T103	Entity	Omega division	Division of the Ukrainian military police under Yanukovych
+E0129	T103	Entity	Party of Regions	Political party that was in power preceding the Maidan revolution
+E0130	T103	Entity	Right Sector	Far-right nationalist political party that was heavily involved in the Maidan revolution
+E0131	T103	Entity	Russia	Country whose ministries and organizations have been accused of supporting or even causing violence at the protests
+E0132	T103	Entity	Russian Ministry of Internal Affairs	Russia's interior ministry, potentially involved in the shooting at the Maidan on the side of the police
+E0133	T103	Entity	Security Service of Ukraine	Ukraine's main law-enforcement authority, clashed with protesters in the Maidan revolution
+E0134	T103	Entity	Sergei [protester who started shooting at police]	Protester identified by BBC as the one who started the clashes by firing on police, no surname given
+E0135	T103	Entity	Serhiy Kusiuk (a.k.a. Sergey Kusiuk)	Top commander of Berkut
+E0136	T103	Entity	Serhiy Nigoyan	First protestor to be killed during Maidan protests
+E0137	T103	Entity	snipers	People of uncertain affiliation who were shooting during the Maidan protests on February 20, 2014
+E0138	T103	Entity	Tiger Special forces	Special forces unit of the Ukrainian government that clashed with protesters
+E0139	T103	Entity	Titushky	Mercenary agents who supported the Ukrainian police force during the administration of Viktor Yanukovych
+E0140	T103	Entity	Trade Union Building	Building from which Berkut reportedly shot at protesters and threw grenades
+E0141	T103	Entity	Ukraine	Country in which the shootings and protests occurred
+E0142	T103	Entity	Ukrainian General Prosecutor's Office	Governmentt office responsible for finding those that were guilty of killing protesters in the Euromaidan Protests
+E0143	T103	Entity	Ukrainian Institute for National Memory	Organization of the Ukrainian Government with a project of archiving first-hand accounts of the Euromaidan Revolution
+E0144	T103	Entity	Ukrainian Internal Affairs Ministry	Government organization in charge of the national law enforcement agency at the time of the protests
+E0145	T103	Entity	Urmas Paet	Estonian Foreign Minister
+E0147	T103	Entity	Viktor Yanukovych	Former President of Ukraine ousted as a result of the Maidan revolution
+E0148	T103	Entity	Vitali Klitschko	Leader of the Ukrainian Democratic Alliance for Reform party, voice of the opposition and protesters
+E0149	T103	Entity	Vitaliy Zakharchenko	Internal Affairs Minister of Ukraine, authorized the use of live ammunition against protesters on February 20, 2014
+E0150	T103	Entity	Vladimir Putin	President of Russia, supported the Yanukovych government and condemned the protesters and the new government
+E0171	T103	Entity	Instytutska Street	Main location of the clashes in Kiev between police and protesters, February 18-21
+E0172	T103	Entity	Mariinsky Park	Park in Kiev where many of the shootings of the Maidan occurred
+E0249	T103	Entity	Maidan Protesters	Group of mostly pro-European protesters demonstrating at the Maidan during the 2014 protests
+E0151	T103	Event	14 Berkut officers, alleged participants in the protester shootings, fled to Russia or Crimea	14 Berkut officers who were alleged participants in the protester shootings fled to Russia or Crimea, including the Berkut’s top commander in Kiev
+E0152	T103	Event	Barricades, bullet-pierced trees and other items of forensic evidence were removed, lawyers say, hindering probes into killings	The probes into the killings have been hindered by missing evidence. Barricades, bullet-pierced trees and other items of forensic evidence were removed, lawyers say
+E0153	T103	Event	Berkut beats ladies and senior citizens	Berkut was also responsible for raising tensions by, allegedly, beating ladies and elderly citizens
+E0154	T103	Event	Serhiy Kusiuk ordered automatic rifles to be delivered to his unit	On Feb. 18, the Berkut’s top commander, Serhiy Kusiuk, gave an oral order to commander Dmytro Sadovnyk to deliver automatic rifles to his unit.
+E0155	T103	Event	Euromaidan government hired snipers on 20-2-2014	Head of Security Service of Ukraine Oleksandr Yakymenko blamed the shootings on the protesters, claiming their government had hired snipers on 20 February
+E0156	T103	Event	Euromaidan Revolution	Protests in Ukraine that turned violent and resulted in shooting between police and citizens
+E0157	T103	Event	Weapons to be used against protesters were delivered to Ukraine from Russia	Explosives and weapons to be used against protesters were delivered to Ukraine from Russia
+E0158	T103	Event	Maidan People's Union marches to Parliament	Peaceful march to Ukrainian Parliament on February 18, 2014 at 8:30am organized by the Maidan People's Union
+E0159	T103	Event	Shooting by snipers on 20 February 2014	Snipers of unknown identity participate in shooting during the Maidan protests
+E0160	T103	Event	Police shoot shotguns and throw grenades at the protesters	Around 11:10 am on 18 February, police reportedly began shooting shotguns and throwing grenades into crowds
+E0161	T103	Event	Attacks with Molotov cocktails	Violence incited by throwing of Molotov cocktails by either police or protesters
+E0162	T103	Event	Phone call between Urmas Paet and Catherine Ashton	A phone conversation between Estonian Foreign Minister Urmas Paet and the EU High Commissioner Catherine Ashton about the protests
+E0163	T103	Event	Rifles were hidden after massacre	The weapons used to commit the shooting were hidden or destroyed
+E0164	T103	Event	Right Sector calls for a peace offensive	On February 18, 2014, Right Sector called for a peace offensive and march to pariament
+E0165	T103	Event	Security forces try to set fire to the Kiev Conservatory	Security forces tried to ignite the building, which was being used as a field hospital for wounded protesters
+E0167	T103	Event	Yanukovych gives orders to shoot protesters	Yanukovych has been accused of giving the order to fire on protesters, though he has denied these accusations
+E0168	T103	Filler	2014-02-18	Date of heightened violence during Maidan protests
+E0169	T103	Filler	petrol bombs	Witnesses reported petrol bombs being used at Independence Square, 20 February
+E0170	T103	Filler	water cannon	Witnesses reported water cannon being used at Independence Square, 20 February
+E0173	T103	Filler	53 dead	Number of people killed in Maidan shootings on 20 Feb. 2014
+E0174	T103	Filler	Photos of government snipers in Kiev	A group of photographs taken in Kiev on or around 20 Feb. 2014 reportedly showing a team of snipers from a Ukrainian security service (SBU) with close ties to Russia
+E0175	T103	Filler	2014-02-20	Date of the worst violence during Maidan protests
+E0176	T103	Filler	AK-74	Firearm reportedly seen being used by Ukrainian police in the clashes
+E0177	T103	Filler	Armoured personnel carrier	Vehicle used by the police in attacks against protesters
+E0178	T103	Filler	Fort-500T	Shotgun reportedly used by the police against the protesters
+E0179	T103	Filler	Grenades	Weapons that were used by both sides
+E0180	T103	Filler	Molotov cocktail	Improvised explosive and incendiary device used during protests
+E0181	T103	Filler	Paving blocks	Improvised weapons used during protests
+E0250	T103	Filler	2014-02-19	Date of heightened violence during Maidan protests
+E0251	T103	Filler	2014-02-21	Date of resolution during Maidan protests
+E0182	T103	Relation	Berkut Riot Police is subsidiary of Ukrainian Ministry of Internal Affairs	Berkut is a police unit within the Ukraine's Internal Affairs Ministry
+E0183	T103	Relation	Serhiy Kusiuk leads Berkut	Serhey Kusiuk is Berkut’s top commander
+E0184	T103	Relation	Catherine Ashton is foreign affairs chief of EU	Government role of Catherine Ashton
+E0185	T103	Relation	Dmytro Sadovnyk is commander of Berkut	Dmytro Sadovnyk, one commander of Berkut forces, arrested for violence against protesters
+E0191	T103	Relation	Protesters occupied the Conservatory Building	Protesters occupied the Conservatory Building
+E0192	T103	Relation	Russian-trained snipers in Kiev	Some believe that Russia sent snipers to Kiev, and that those snipers fired on Maidan protesters on 20 Feb. 2014
+E0197	T103	Relation	Urmas Paet is foreign affairs minister of Estonia	Government role of Urmas Paet
+E0198	T103	Relation	Viktor Yanukovych is president of Ukraine	Yanukovych was President of Ukraine before the Maidan revolution
+E0200	T103	Relation	Snipers affiliated with ?	The snipers' affiliation with a government or organization

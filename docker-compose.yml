@@ -1,0 +1,36 @@
+version: '3'
+services:
+  app:
+    container_name: ldcc
+    build: .
+    volumes:
+       - /opt/AIDACorpora:/opt/AIDACorpora
+       - /opt/AIDA:/opt/AIDA
+       - /opt/AIDA/init:/docker-entrypoint-initdb.d/
+    environment:
+       CONFIG_FILE_PATH: '/opt/AIDA/config.json'
+       MEDIA_LOCATION: '/opt/AIDACorpora/VideoCorpus'
+       EXTRACTOR_LOCATION : '/opt/AIDA/AIDA_video_segmentation_tool_v2/java/cineast/build/libs'
+       SQLALCHEMY_DATABASE_URI: 'mysql+pymysql://test:test.123@flask_mysql:3306/aida'
+    links:
+      - redis
+      - mysql
+    ports:
+      - "5000:5000"
+    tty: true
+  mysql:
+     container_name: flask_mysql
+     restart: always
+     image: mysql:latest
+     environment:
+       MYSQL_ROOT_PASSWORD: 'test.123' # TODO: Change this
+       MYSQL_USER: 'test'
+       MYSQL_PASS: 'test.123'
+     volumes:
+       - /opt/sql_data:/var/lib/mysql
+     ports:
+      - "3306:3306"
+  redis:
+    image: "redis:alpine"
+    ports:
+     - "6379:6379"

@@ -1,0 +1,48 @@
+node_id	topic_id	category	handle	description
+E0201	T102	Entity	CIA	American organization accused of hiding Yanukovych
+E0202	T102	Entity	Crimea	Peninsula located in southeast Ukraine
+E0203	T102	Entity	Donetsk	City in Donetsk Oblast, Ukraine
+E0204	T102	Entity	Fujairah International Airport	Airport in Fujairah, United Arab Emirates where Yanukovych plane supposedly landed on February 22
+E0205	T102	Entity	Kharkiv	City in Kharkiv Oblast in Ukraine
+E0206	T102	Entity	Kyiv (a.k.a. Kiev)	The capital city of Ukraine
+E0207	T102	Entity	Mezhyhirya Residence	An estate in Ukraine, near Kiev, where Viktor Yanukovych lived when he was Prime Minister and then President of Ukraine, and from which he fled on February 21, 2014.
+E0208	T102	Entity	Moscow	The capital of Russia, where Yanukovych was sighted a few days after fleeing Ukraine.
+E0209	T102	Entity	Mykhailo Dobkin	Governor of Kharkiv Oblast at the time when Yanukovych fled Ukraine
+E0210	T102	Entity	Party of Regions	Political party to which Yanukovych belonged
+E0211	T102	Entity	Radisson Royal Hotel	Hotel in Moscow, Russia
+E0212	T102	Entity	Rostov-on-Don	A city in Russia, where Yanukovych gave his first press-conference after fleeing Ukraine, on February 28, 2014
+E0213	T102	Entity	Russia	Country to which Yanukovych escaped
+E0214	T102	Entity	Sevastopol	City on Crimean Peninsula
+E0215	T102	Entity	Ukraine	Country in which Yanukovych occupied the office of the president, and from which he fled on February 21, 2014.
+E0216	T102	Entity	Valentyn Nalyvaichenko	Head of the Security Service of Ukraine at the time of Yanukovych's flight
+E0217	T102	Entity	Viktor Yanukovych	Ukraine's president between 2010 and 2014
+E0218	T102	Entity	Vladimir Putin	President of Russia
+E0219	T102	Entity	Yalta	City on Crimean Peninsula
+E0220	T102	Event	2014 Ukrainian Revolution	A wave of protests started in November 2013 which quickly escalated into a revolutionary situation and a violent clash between the Yanukovych regime and the public.
+E0221	T102	Event	Over 100 protestors die	Over 100 protestors died in violent government crackdown preceding Yanukovych's flight
+E0222	T102	Event	Putin orders rescue of Yanukovych	Putin ordered his special services and defense ministry to rescue Yanukovych from Ukraine
+E0223	T102	Event	Threats made against Yanukovych	Yanukovych claimed threats were made against him and his family which forced his departure
+E0224	T102	Event	Yakunovych's plane denied permission to fly from Donetsk to Russia	State Border Service denied Yanukovych's plane permission to fly from Donetsk to Russia
+E0225	T102	Event	Yanukovych asks Russia for assistance	Yanukovych asks Russia for assistance in fleeing Ukraine
+E0226	T102	Event	Yanukovych charged with mass murder	Yanukovych wanted in Ukraine on mass murder charges linked to the killing of protesters during clashes with security forces
+E0227	T102	Event	Yanukovych speaks from Kharkiv	In a televised speech from Kharkiv, Yanukovych said that he does not intend to resign, that he is the legitimately elected president
+E0228	T102	Event	Yanukovych travels to Crimea	Yanukovych traveled to Crimea
+E0229	T102	Event	Yanukovych travels to Donetsk	Yanukovych traveled to Donetsk
+E0230	T102	Event	Yanukovych travels to Kharkiv	Yanukovych traveled to Kharkiv
+E0231	T102	Event	Yanukovych travels to Russia	Yanukovych traveled to Moscow
+E0232	T102	Event	Yanukovych's car shot at	Yanukovych claimed that, as he was traveling from Kyiv to Kharkiv, his car was shot at "from automatic rifles".
+E0233	T102	Filler	2014-02-21	Date on which Yanukovych left his resident in Kyiv for Russia
+E0234	T102	Filler	2014-02-22	Date on which Yanukovych first entered Russia during his flight
+E0235	T102	Filler	2014-02-24	Date of a second time Yanukovych entered Russia during his flight
+E0236	T102	Filler	2014-02-25	Date on which Yanukovych was seen in Moscow's Radisson Royal Hotel
+E0237	T102	Filler	2014-02-28	Date on which Yanukovych gave his first press conference after fleeing Ukraine in Rostov-on-Don
+E0238	T102	Filler	Yanukovych's airplane	Yanukovych's airplane, which was used allegedly to distract attention during his flight by heading South, as if to Crimea. Later turned up in Moscow.
+E0239	T102	Filler	Yanukovych's Helicopters	Yanukovych's helicopters, which reportedly left with bags of money from his residence in Mezhyhirya
+E0248	T102	Filler	Mass murder	Crime with which Yanukovych was charged, for alleged role in violence during protests
+E0240	T102	Relation	Helicopters belong to Yanukovych	The helicopters that allegedly carried stolen money belonged to Yanukovych
+E0241	T102	Relation	Mezhyhirya Residence is located near Kyiv	Yanukovych's residence Mezhyhirya is located in the vicinity of Kyiv, the capital of Ukraine
+E0242	T102	Relation	Mykhailo Dobkin is the governor of Kharkiv region	At the time of Yanukovych's flight, Mykhailo Dobkin was governor of Kharkiv Oblast
+E0243	T102	Relation	Putin is president of Russia	Putin is president of Russia
+E0244	T102	Relation	Radisson Royal Hotel is in Moscow	Location of the hotel in Russia, where Yanukovych was seen on February 25, 2014.
+E0246	T102	Relation	The airplane belongs to Yanukovych	The airplane used for evasive action and later turning up in Moscow belonged to Yanukovych.
+E0247	T102	Relation	Yanukovych was President	At the time of the events, Yanukovych served as the president of Ukraine

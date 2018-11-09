@@ -1,0 +1,71 @@
+diff --git a/src/org/vitrivr/cineast/api/API.java b/src/org/vitrivr/cineast/api/API.java
+index c81e65c1..6eb9f38e 100644
+--- a/src/org/vitrivr/cineast/api/API.java
++++ b/src/org/vitrivr/cineast/api/API.java
+@@ -75,7 +75,7 @@ public class API {
+     CommandLine commandline = handleCommandLine(args);
+     if (commandline != null) {
+       if (commandline.hasOption("config")) {
+-        Config.loadConfig(commandline.getOptionValue("config"));
++        Config.setSharedConfig(Config.loadConfig(commandline.getOptionValue("config")));
+       }
+ 
+       /* Handle --job; start handleExtraction. */
+diff --git a/src/org/vitrivr/cineast/core/config/Config.java b/src/org/vitrivr/cineast/core/config/Config.java
+index fbdbabf9..12ca6c81 100644
+--- a/src/org/vitrivr/cineast/core/config/Config.java
++++ b/src/org/vitrivr/cineast/core/config/Config.java
+@@ -32,6 +32,9 @@ public class Config {
+     private HashMap<MediaType, DecoderConfig> decoders;
+     private BenchmarkConfig benchmark = new BenchmarkConfig();
+ 
++    public synchronized static void setSharedConfig(Config config) {
++       sharedConfig = config;
++    }
+ 
+     /**
+      * Accessor for shared (i.e. application wide) configuration.
+diff --git a/src/org/vitrivr/cineast/core/run/ExtractionDispatcher.java b/src/org/vitrivr/cineast/core/run/ExtractionDispatcher.java
+index ef629aec..0f64e181 100644
+--- a/src/org/vitrivr/cineast/core/run/ExtractionDispatcher.java
++++ b/src/org/vitrivr/cineast/core/run/ExtractionDispatcher.java
+@@ -6,6 +6,7 @@ import java.nio.file.FileVisitOption;
+ import java.nio.file.Files;
+ import java.nio.file.Path;
+ import java.util.Iterator;
++import java.util.Collections;
+ 
+ import org.apache.logging.log4j.LogManager;
+ import org.apache.logging.log4j.Logger;
+@@ -74,16 +75,22 @@ public class ExtractionDispatcher {
+           path.toString());
+       return false;
+     }
+-    this.paths = Files.walk(path, this.context.depth(), FileVisitOption.FOLLOW_LINKS).filter(p -> {
+-      try {
+-        return Files.exists(p) && Files.isRegularFile(p) && !Files.isHidden(p)
+-            && Files.isReadable(p);
+-      } catch (IOException e) {
+-        LOGGER.error("An IO exception occurred while testing the media file at '{}'.", p.toString(),
++    if (Files.isRegularFile(path)) {
++	LOGGER.info("path is a file");
++        this.paths = Collections.singletonList(path).iterator();
++    }
++    else {
++      this.paths = Files.walk(path, this.context.depth(), FileVisitOption.FOLLOW_LINKS).filter(p -> {
++        try {
++          return Files.exists(p) && Files.isRegularFile(p) && !Files.isHidden(p)
++              && Files.isReadable(p);
++        } catch (IOException e) {
++          LOGGER.error("An IO exception occurred while testing the media file at '{}'.", p.toString(),
+             LogHelper.getStackTrace(e));
+-        return false;
+-      }
+-    }).iterator();
++          return false;
++        }
++      }).iterator();
++    }
+     return true;
+   }
+ 

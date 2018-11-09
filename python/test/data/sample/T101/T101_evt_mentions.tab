@@ -1,0 +1,411 @@
+tree_id	eventmention_id	event_id	provenance	textoffset_startchar	textoffset_endchar	text_string	justification	type	subtype	attribute	attribute2	start_date_type	start_date	end_date_type	end_date	kb_id
+779954	VM779954.000181	V779954.00001	HC000Q7X9	39	43	збила	Plane shot down by 9N314M	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+779954	VM779954.000275	V779954.00001	HC000Q7X9	789	792	впав	MH17 crashed because of a meteor	life	die	not		starton	2014-07-17	endon	2014-07-17	E0064
+779954	VM779954.000350	V779954.00001	HC000Q7X9	843	848	теракт	MH17 crashed because of a terror act on board	conflict	attack	not		starton	2014-07-17	endon	2014-07-17	E0064
+779954	VM779954.000376	V779954.00001	HC000Q7X9	869	873	атаки	MH17 crashed because or air-to-air attack	conflict	attack	not		starton	2014-07-17	endon	2014-07-17	E0064
+779954	VM779954.000573	V779954.00001	HC000Q7X9	789	792	впав	MH17 crashed because of technical issues	life	die	not		starton	2014-07-17	endon	2014-07-17	E0064
+779954	VM779954.000503	V779954.00002	HC000Q7X9	6360	6369	переданого		transaction	transown			startunk		endunk		E0069
+779954	VM779954.000420	V779954.00003	HC000Q7X9	2999	3009	виробництва	Buk manufactured by Russia	manufacture	artifact			startunk		endunk		NIL461.779954
+779956	VM779956.000386	V779956.00004	HC00002YU	1357	1367	уничтожение		conflict	attack	hedged		startunk		endunk		E0064
+779956	VM779956.000409	V779956.00004	HC00002YU	1918	1925	заложены		conflict	attack			startunk		endunk		E0064
+779959	VM779959.000503	V779959.00005	IC0011SL2				Ukraine's State Aviation Services ban all flights over the Donbass area of Ukraine (which includes Donetsk and Luhansk)	contact	broadcast			starton	2014-07-08	endafter	2014-07-08	E0057
+779959	VM779959.000032	V779959.00006	IC0011SL2				Russians supplied the BUK missile launcher to the separatists	transaction	transown			startbefore	2014-07-17	endon	2014-07-17	E0062
+779959	VM779959.000552	V779959.00007	IC0011SL2				MH-17 is shot down by Ukrainian BUK	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+779959	VM779959.000593	V779959.00007	IC0011SL2				MH-17 shot down by Russian separatists using BUK launcher.	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+779959	VM779959.000634	V779959.00008	IC0011SL2				Ukraine gov't releases phony phone call between separatist leaders.	contact	corresp			starton	2014-07-17	endon	2014-07-17	E0070
+779959	VM779959.002397	V779959.00009	IC0011SL2				Russians transport BUK back to Russia after the attack on MH17.	movement	transart			starton	2014-07-17	endon	2014-07-17	NIL2435.779959
+779961	VM779961.000298	V779961.00010	IC0011SLG				MH-17 lost contact with air traffic control	contact	corresp	not		starton	2014-07-17	endon	2014-07-17	E0066
+779961	VM779961.001214	V779961.00011	IC0011SLG				Flight MH-17 is penetrated by objects	conflict	attack			starton	2014-07-17	endon	2014-07-17	NIL1250.779961
+779961	VM779961.000417	V779961.00012	IC0011SLG				BUK missile said to have been launched at MH-17	conflict	attack	hedged		starton	2014-07-17	endon	2014-07-17	NIL435.779961
+779963	VM779963.000365	V779963.00013	HC0000318	3189	3195	arrival		movement	transart			startbefore	2014-07-17	endon	2014-07-17	E0062
+779963	VM779963.000032	V779963.00014	HC0000318	22	30	shot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+779963	VM779963.000347	V779963.00014	HC0000318	855	863	shot down	MH-17 was not shot down by another aircraft.	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+779963	VM779963.001995	V779963.00014	HC0000318	667	672	attack	A terrorist attack from inside MH17	conflict	attack	not		starton	2014-07-17	endon	2014-07-17	E0064
+779963	VM779963.000383	V779963.00015	HC0000318	3205	3213	departure	Departure of the BUK back to Russia.	movement	transart			starton	2014-07-17	endon	2014-07-18	NIL547.779963
+779970	VM779970.000483	V779970.00016	HC00038RX	35	38	сбит		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+779972	VM779972.000265	V779972.00017	HC00038RY	123	130	был сбит		conflict	attack			startunk		endunk		E0064
+779980	VM779980.000878	V779980.00018	HC000Q7W4	2101	2109	доставили		movement	transart			startunk		endunk		E0062
+779980	VM779980.000757	V779980.00019	HC000Q7W4	917	920	сбил		conflict	attack			starton	2018-05-17	endon	2014-07-17	E0064
+779980	VM779980.000845	V779980.00019	HC000Q7W4	2031	2043	был уничтожен		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+779985	VM779985.000032	V779985.00020	HC00002Y5	991	1003	change course		movement	transart			starton	2014-07-17	endon	2014-07-17	E0067
+779985	VM779985.000321	V779985.00021	HC00002Y5	1535	1551	military campaign		conflict	attack			startunk		endunk		E0074
+779985	VM779985.001035	V779985.00022	HC00002Y5	1662	1668	Twitter	Spanish dispatcher tweeted that two Ukrainian fighter jets shot down MH-17	contact	broadcast			startunk		endunk		NIL1063.779985
+779985	VM779985.000190	V779985.00023	HC00002Y5	1801	1809	shot down	Two Ukrainian fighter jets shot down MH-17	conflict	attack			starton	2014-07-17	endon	2014-07-17	NIL208.779985
+779985	VM779985.000290	V779985.00024	HC00002Y5	2310	2329	shot the Boeing down	Ukraine probably shot down MH-17	conflict	attack	hedged		starton	2014-07-17	endon	2014-07-17	NIL632.779985
+779987	VM779987.002290	V779987.00025	HC00002Y7	2777	2788	shot it down	Ukraine's Military most likely shot MH17 down.	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+779987	VM779987.002336	V779987.00025	HC00002Y7	3893	3922	bring the Malaysian plane down	Self Defense Fighters lack the capability to bring the Malaysian plane down.	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+779987	VM779987.000032	V779987.00026	HC00002Y7	3650	3658	explained	SDF doesn't have BUK missile systems MH-17.	contact	broadcast			starton	2014-07-17	endon	2014-07-17	E0071
+779987	VM779987.003254	V779987.00027	HC00002Y7	6	13	deployed	Kiev deployed a BUK launcher from Kharkov to Donetsk.	movement	transart			startbefore	2014-07-17	endbefore	2014-07-17	NIL3318.779987
+779992	VM779992.000032	V779992.00028	HC00002Y9	346	354	shot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+779992	VM779992.000358	V779992.00028	HC00002Y9	1136	1140	fired		conflict	attack	not	deliberate	starton	2014-07-17	endon	2014-07-17	E0064
+779992	VM779992.002290	V779992.00028	HC00002Y9	1826	1834	shot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780192	VM780192.000161	V780192.00029	HC00002YU	1918	1925	заложены		conflict	attack			startunk		endunk		E0064
+780192	VM780192.000701	V780192.00030	HC00002YU	1054	1062	обстрелял	Ukrainian fighter jet fired at MH17 flight deck	conflict	attack			startunk		endunk		NIL737.780192
+780192	VM780192.000740	V780192.00031	HC00002YU	1122	1137	произвел выстрел	Ukrainian fighter jet fired air-to-air missile at MH17	conflict	attack			startunk		endunk		NIL795.780192
+780288	VM780288.000378	V780288.00032	HC000Q7WU	2995	3004	доставался		conflict	attack	hedged		startunk		endunk		E0064
+780329	VM780329.000390	V780329.00033	HC000Q7WV	1296	1299	сбит		conflict	attack			startunk		endunk		E0064
+780341	VM780341.000282	V780341.00034	HC000Q7W6	7935	7941	виновны		conflict	attack	hedged		startunk		endunk		E0064
+780342	VM780342.000032	V780342.00035	HC000Q7WN	1732	1735	сбит		conflict	attack			startunk		endunk		E0064
+780344	VM780344.001360	V780344.00036	HC000Q7W7	339	353	передислокацией		movement	transart			startunk		endunk		E0062
+780344	VM780344.001314	V780344.00037	HC000Q7W7	32	39	был сбит		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780353	VM780353.000032	V780353.00038	HC00002YE	197	200	talk	SDF separatists did not discuss the destruction of a Malaysian airliner.	contact	corresp	not		startbefore	2014-07-17	endbefore	2014-07-17	E0070
+780353	VM780353.000271	V780353.00039	HC00002YE	2347	2357	hostilities	Hostilities between local militias and Ukraine governmental troops at the location of the crash.	conflict	attack			startbefore	2014-07-17	endafter	2014-07-17	NIL337.780353
+780353	VM780353.000304	V780353.00040	HC00002YE	2347	2357	hostilities	Hostilities between local militias and Ukraine governmental troops at the location of the crash.	conflict	attack			startbefore	2014-07-17	endafter	2014-07-17	NIL337.780353
+780384	VM780384.000032	V780384.00041	HC000Q7WA	2201	2204	сбит		conflict	attack		deliberate	starton	2014-07-17	endon	2014-07-17	E0064
+780384	VM780384.000189	V780384.00041	HC000Q7WA	2702	2705	сбит		conflict	attack			startunk		endunk		E0064
+780391	VM780391.000032	V780391.00042	HC000Q7WB	665	671	подбить		conflict	attack		deliberate	starton	2014-07-17	endon	2014-07-17	E0064
+780391	VM780391.000255	V780391.00042	HC000Q7WB	2333	2337	целью		conflict	attack		deliberate	starton	2014-07-17	endon	2014-07-17	E0064
+780391	VM780391.000283	V780391.00042	HC000Q7WB	3328	3352	конспирологическая теория		conflict	attack		deliberate	startbefore	2014-07-17	endon	2014-07-17	E0064
+780391	VM780391.000387	V780391.00042	HC000Q7WB	8960	8963	сбит		conflict	attack		deliberate	starton	2014-07-17	endon	2014-07-17	E0064
+780416	VM780416.000032	V780416.00043	HC000Q7WC	2285	2294	расстрелян		conflict	attack		deliberate	starton	2014-07-17	endon	2014-07-17	E0064
+780416	VM780416.000614	V780416.00043	HC000Q7WC	924	931	погубила		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780421	VM780421.000032	V780421.00044	HC000Q7WD	255	259	сбили		conflict	attack			startunk		endunk		E0064
+780422	VM780422.000032	V780422.00045	HC000Q7WW	743	746	сбит		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780423	VM780423.000032	V780423.00046	HC000Q7WE	6937	6944	попадают		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780423	VM780423.000217	V780423.00046	HC000Q7WE	8362	8365	сбит		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780428	VM780428.000032	V780428.00047	HC000Q7WQ	409	413	падал		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780498	VM780498.000032	V780498.00048	HC000Q7WF	989	993	сбили		conflict	attack		deliberate	startunk		endunk		E0064
+780560	VM780560.000032	V780560.00049	HC00058XU				Donbass separatists discuss that they shot down AN-26	conflict	attack		deliberate	starton	2014-07-17	endon	2014-07-17	E0064
+780567	VM780567.000032	V780567.00050	HC00002YK	254	260	pierced	MH-17 appeared to crash due to the plane being pierced by a large number of objects from outside the plane.	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780569	VM780569.000032	V780569.00051	IC0011X0F				Explosion of the MH17 in Donetsk region	conflict	attack			startafter	2014-07-17	endon	2014-07-17	E0064
+780570	VM780570.000032	V780570.00052	IC0011SQZ				An unknown fighter jet shot a heat-seeking missile at MH-17	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780571	VM780571.000338	V780571.00053	HC00002YM	451	458	received	Russian TV station claims it received a satellite photo from an expert in the RUE showing a Ukrainian fighter jet shooting down MH17.	transaction	transown			starton	2014-11-14	endon	2014-11-14	E0063
+780571	VM780571.000032	V780571.00054	HC00000LS				MH17 was attacked by a jet either 50 or 400km away in this picture.	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780571	VM780571.000292	V780571.00054	HC00000LJ				Image of a fighter jet shooting down MH17	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780571	VM780571.000356	V780571.00054	HC00002YM	366	374	launching		conflict	attack	hedged		starton	2014-07-17	endon	2014-07-17	E0064
+780571	VM780571.000320	V780571.00055	HC00002YM	4451	4455	state	George Bilt did not state in a letter that MH17 was shot down by a fighter jet.	contact	corresp	not		startafter	2014-07-17	endafter	2014-07-17	NIL379.780571
+780574	VM780574.000032	V780574.00056	HC000Q7WG	266	270	взрыв		conflict	attack		deliberate	startbefore	2014-07-17	endon	2014-07-17	E0064
+780574	VM780574.000241	V780574.00056	HC000Q7WG	544	551	обвинить		conflict	attack		deliberate	startunk		endunk		E0064
+780783	VM780783.000461	V780783.00057	HC000Q7WI	3205	3213	доставили		movement	transart			startunk		endunk		E0062
+780783	VM780783.000526	V780783.00058	HC000Q7WI	29	38	катастрофы		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780788	VM780788.000032	V780788.00059	HC000Q7X0	3362	3365	сбит		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780788	VM780788.000241	V780788.00059	HC000Q7X0	10694	10697	сбит		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780788	VM780788.000346	V780788.00059	HC000Q7X0	19032	19040	запустили		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780788	VM780788.000414	V780788.00059	HC000Q7X0	14467	14476	виновности		conflict	attack			startunk		endunk		E0064
+780788	VM780788.000452	V780788.00059	HC000Q7X0	28730	28740	обнародовал		conflict	attack			startafter	2014-07-17	endafter	2014-07-17	E0064
+780788	VM780788.000485	V780788.00059	HC000Q7X0	31878	31881	сбит		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780788	VM780788.001311	V780788.00059	HC000Q7X0	4584	4604	определили виновников		justice	chargeindict			startunk		endunk		E0064
+780803	VM780803.002729	V780803.00060	HC00002YN	5284	5289	origin		manufacture	artifact			startunk		endunk		E0056
+780803	VM780803.000422	V780803.00061	HC00002YN	3371	3380	shoot down		conflict	attack			startunk		endunk		E0064
+780803	VM780803.000502	V780803.00061	HC00002YN	4508	4514	downing		conflict	attack			startunk		endunk		E0064
+780803	VM780803.000535	V780803.00061	HC00002YN	5095	5104	shoot down		conflict	attack			startunk		endunk		E0064
+780803	VM780803.000614	V780803.00062	HC00002YN	5479	5486	bragging	Separatist bragging on communications intercepts about shooting down a transport plane	contact	contact	hedged	deliberate	startunk		endunk		NIL632.780803
+780844	VM780844.000032	V780844.00063	HC000Q7WK	275	278	сбит		conflict	attack		deliberate	starton	2014-07-17	endon	2014-07-17	E0064
+780855	VM780855.000032	V780855.00064	HC000Q7WL	4105	4113	обстрелян		conflict	attack		deliberate	starton	2014-07-17	endon	2014-07-17	E0064
+780862	VM780862.000032	V780862.00065	HC000Q8CL				MH-17 diverted from usual route	movement	transart			starton	2014-07-17	endon	2014-07-17	E0067
+780872	VM780872.000032	V780872.00066	HC00002YO	163	172	shoot-down		conflict	attack		accidental	starton	2014-07-17	endon	2014-07-17	E0064
+780872	VM780872.000128	V780872.00066	HC00002YO	163	172	shoot-down		conflict	attack		deliberate	starton	2014-07-17	endon	2014-07-17	E0064
+780874	VM780874.000570	V780874.00067	HC00002YR	10430	10439	brought in		movement	transart			starton	2014-07-17	endon	2014-07-17	E0062
+780874	VM780874.000274	V780874.00068	HC00002YR	5515	5523	shot down	MH-17 was definitely not shot down by another aircraft.	conflict	attack		deliberate	starton	2014-07-17	endon	2014-07-17	E0064
+780874	VM780874.000474	V780874.00068	HC00002YR	10251	10259	shot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780874	VM780874.000532	V780874.00068	HC00002YR	13715	13723	shot down	MH17 was NOT shot down by a BUK in Zaroshchenskoye, which is not separatist controlled territory.	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780874	VM780874.000642	V780874.00068	HC00002YR	13715	13723	shot down	MH17 was allegedly shot down by a BUK in Zaroshchenskoye, separatist controlled territory.	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780874	VM780874.000032	V780874.00069	HC00002YR	5075	5095	drawn this conclusion	The OVV reports that the crash could be the result of neither technical/human failure nor terrorist attack.	contact	corresp			starton	2015-10-13	endon	2015-10-13	E0068
+780874	VM780874.000292	V780874.00070	HC00002YR	5735	5748	made available	Ukraine and Russia supply radar and satellite images which disprove the theory of an aircraft downing MH17	transaction	transown			startbefore	2016-09-28	endbefore	2016-09-28	NIL441.780874
+780874	VM780874.000310	V780874.00071	HC00002YR	9863	9866	call	Pro-Russian separatists request a BUK missile launcher by phone call.	contact	corresp			starton	2014-07-16	endon	2014-07-16	NIL458.780874
+780874	VM780874.000328	V780874.00072	HC00002YR	9921	9924	call	Pro-Russian separatists are made aware that they've received a BUK missile launcher by phone call.	contact	corresp			starton	2014-07-17	endon	2014-07-17	NIL471.780874
+780874	VM780874.000588	V780874.00073	HC00002YR	10508	10517	taken back	The BUK missile system used to shoot down MH17 was taken back to Russia.	movement	transart			starton	2014-07-17	endon	2014-07-17	NIL639.780874
+780876	VM780876.000032	V780876.00074	HC00002YT	221	227	downing		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780885	VM780885.000032	V780885.00075	HC00038RL	519	529	assassinate		conflict	attack	not,hedged		starton	2014-07-17	endon	2014-07-17	E0060
+780885	VM780885.000208	V780885.00076	HC00038RL	916	928	bringing down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780885	VM780885.002329	V780885.00077	HC00038RL	2975	2980	denied	Separatists denied owning a BUK capable of reaching an aircraft at 33,000 feet	contact	contact			startafter	2014-07-17	endafter	2014-07-17	E0071
+780885	VM780885.000460	V780885.00078	HC00038RL	6504	6527	anti-terrorist operation		conflict	attack			startbefore	2014-07-17	endunk		E0074
+780885	VM780885.002396	V780885.00079	HC00038RL	3088	3109	denied having supplied	Russia denied supplying separatists with a BUK	contact	contact			startafter	2014-07-17	endafter	2014-07-17	NIL2414.780885
+780885	VM780885.000282	V780885.00080	HC00038RL	1837	1846	on his way	Putin was flying to Russia from South America on the day MH-17 crashed	movement	transper			starton	2014-07-17	endunk		NIL988.780885
+780885	VM780885.000386	V780885.00081	HC00038RL	3102	3109	supplied	Russia denied supplying eastern Ukrainian rebels with BUK missile	transaction	transown	not		startunk		endunk		NIL991.780885
+780885	VM780885.000419	V780885.00082	HC00038RL	4247	4258	brought down	Ukrainian military may have shot down MH17 to create conflict between Russia and the rebels	conflict	attack	hedged		starton	2014-07-17	endon	2014-07-17	NIL994.780885
+780933	VM780933.000032	V780933.00083	HC000Q8CW				Ukrainian military accidentally shot down MH17	conflict	attack		deliberate	starton	2014-07-17	endon	2014-07-17	E0064
+780935	VM780935.000032	V780935.00084	HC000Q8D5				MH-17 diverted from usual route	movement	transart		deliberate	starton	2014-07-17	endon	2014-07-17	E0067
+780945	VM780945.000032	V780945.00085	HC000Q8DI				Putin says that Ukrainian government is responsible for this crash	conflict	attack		deliberate	starton	2014-07-17	endon	2014-07-17	E0064
+780956	VM780956.000032	V780956.00086	HC000Q8DX				Buk launcher stolen from Ukrainian Military	movement	transper		deliberate	startbefore	2014-07-17	endunk		E0061
+780956	VM780956.000169	V780956.00087	HC000Q8DX				Girkin claimed that they shot down An26	conflict	attack		deliberate	starton	2014-07-17	endon	2014-07-17	E0064
+780996	VM780996.000152	V780996.00088	HC000Q8E3				MH17 was shot down over the Donetsk region	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+780996	VM780996.000032	V780996.00089	HC000Q8E3				Malaysian Airlines lost contact with MH17 over Ukraine territory	contact	contact			starton	2014-07-17	endon	2014-07-17	E0066
+780997	VM780997.000032	V780997.00090	HC000Q8EB				Pro-Russian separatists shot down An26	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+781001	VM781001.000032	V781001.00091	HC000Q8EH				MH17 crash	conflict	attack			starton	2014-07-17	endbefore	2014-07-17	E0064
+781046	VM781046.000032	V781046.00092	HC000T6IZ	102	110	доставлен		movement	transart		deliberate	startbefore	2014-07-17	endon	2014-07-17	E0062
+781046	VM781046.000249	V781046.00093	HC000T6IZ	193	196	сбит		conflict	attack		deliberate	starton	2014-07-17	endon	2014-07-17	E0064
+781046	VM781046.000321	V781046.00093	HC000T6IZ	808	815	был сбит		conflict	attack		deliberate	starton	2014-07-17	endon	2014-07-17	E0064
+781046	VM781046.000471	V781046.00093	HC000T6IZ	5013	5016	сбит		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+781145	VM781145.000252	V781145.00094	HC00038RM	447	455	shot down		conflict	attack	hedged		starton	2014-07-17	endon	2014-07-17	E0064
+781145	VM781145.000441	V781145.00095	IC0011TNM				A BUK 3?2 launcher being transported by military flatbed truck.	movement	transart			startunk		endunk		NIL889.781145
+781145	VM781145.000495	V781145.00096	IC0011TNE				A BUK 3?2 launcher being transported by military flatbed truck.	movement	transart			startunk		endunk		NIL889.781145
+781145	VM781145.000531	V781145.00097	IC0011TNA				A BUK 3?2 launcher being transported by military flatbed truck.	movement	transart			startunk		endunk		NIL889.781145
+781145	VM781145.000549	V781145.00098	IC0011TN7				A BUK 3?2 launcher being transported by military flatbed truck.	movement	transart			startunk		endunk		NIL889.781145
+781145	VM781145.000567	V781145.00099	IC0011TN0				A BUK 3?2 launcher being transported by military flatbed truck.	movement	transart			startunk		endunk		NIL889.781145
+781145	VM781145.000603	V781145.00100	IC0011TMT				A BUK 3?2 launcher being transported by military flatbed truck.	movement	transart			startunk		endunk		NIL889.781145
+781145	VM781145.000657	V781145.00101	IC0011TMQ				A BUK 3?2 launcher being transported by military flatbed truck.	movement	transart			startunk		endunk		NIL889.781145
+781145	VM781145.000459	V781145.00102	IC0011TNH				A BUK 3?2 launcher being transported by white flatbed truck.	movement	transart			startunk		endunk		NIL892.781145
+781145	VM781145.000477	V781145.00103	IC0011TNF				A BUK 3?2 launcher being transported by white flatbed truck.	movement	transart			startunk		endunk		NIL892.781145
+781145	VM781145.000513	V781145.00104	IC0011TND				A BUK 3?2 launcher being transported by white flatbed truck.	movement	transart			startunk		endunk		NIL892.781145
+781145	VM781145.000585	V781145.00105	IC0011TMY				A BUK 3?2 launcher being transported by white flatbed truck.	movement	transart			startunk		endunk		NIL892.781145
+781145	VM781145.000621	V781145.00106	IC0011TMS				A BUK 3?2 launcher being transported by white flatbed truck.	movement	transart			startunk		endunk		NIL892.781145
+781145	VM781145.000639	V781145.00107	IC0011TMR				A BUK 3?2 launcher being transported by white flatbed truck.	movement	transart			startunk		endunk		NIL892.781145
+781145	VM781145.000805	V781145.00108	IC0011TNB				A BUK 3?2 launcher being transported by white flatbed truck.	movement	transart			startunk		endunk		NIL892.781145
+781145	VM781145.000823	V781145.00109	IC0011TN6				A BUK 3?2 launcher being transported by white flatbed truck.	movement	transart			startunk		endunk		NIL892.781145
+781145	VM781145.000841	V781145.00110	IC0011TN2				A BUK 3?2 launcher being transported by white flatbed truck.	movement	transart			startunk		endunk		NIL892.781145
+781162	VM781162.000136	V781162.00111	HC000T6IW	1665	1669	сбить		conflict	attack		deliberate	startunk		endunk		E0064
+781163	VM781163.000032	V781163.00112	HC00038RP	4139	4158	shot this plane down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+781163	VM781163.000132	V781163.00112	HC00038RP	4772	4793	brought down the plane		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+781163	VM781163.000173	V781163.00112	HC00038RP	11175	11183	shot down		conflict	attack	hedged		starton	2014-07-17	endon	2014-07-17	E0064
+781163	VM781163.000271	V781163.00112	HC00038RP	13990	13999	shoot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+781163	VM781163.000406	V781163.00113	HC00038RP	15219	15227	re-routed		movement	transart			starton	2014-07-17	endon	2014-07-17	E0067
+781163	VM781163.000339	V781163.00114	HC00038RP	14432	14440	operation		conflict	attack			startunk		endunk		E0074
+781163	VM781163.000214	V781163.00115	HC00038RP	12584	12589	downed	Ukrainian fighter jet shot down MH-17	conflict	attack			starton	2014-07-17	endon	2014-07-17	NIL242.781163
+781163	VM781163.000370	V781163.00116	HC00038RP	14549	14562	gaining height	Ukrainian SU-25 fighter jet gaining height towards the MH17 Boeing	movement	transart			starton	2014-07-17	endon	2014-07-17	NIL403.781163
+781163	VM781163.000442	V781163.00117	HC00038RP	16219	16223	stuck	MH-17 was struck by an air-to-air missile and an aircraft gun	conflict	attack	hedged		starton	2014-07-17	endon	2014-07-17	NIL475.781163
+781167	VM781167.000032	V781167.00118	HC000T6IV	1023	1027	летит		conflict	attack		deliberate	starton	2014-07-17	endon	2014-07-17	E0060
+781167	VM781167.000122	V781167.00119	HC000T6IV	5691	5694	сбил		conflict	attack		deliberate	starton	2014-07-17	endon	2014-07-17	E0064
+781167	VM781167.000184	V781167.00119	HC000T6IV	3716	3721	сбитом		conflict	attack		deliberate	starton	2014-07-17	endon	2014-07-17	E0064
+781167	VM781167.000212	V781167.00120	HC000T6IV	5192	5197	пропал		contact	contact		deliberate	starton	2014-07-17	endon	2014-07-17	E0066
+781606	VM781606.000032	V781606.00121	HC000T6CB	25	34	катастрофе	Crash of Malaysian Airlines flight MH-17	conflict	attack		deliberate	starton	2014-07-14	endon	2014-07-17	E0064
+781606	VM781606.000450	V781606.00121	HC000T6CB	267	276	не сбивали		conflict	attack	not		startunk		endunk		E0064
+781681	VM781681.000166	V781681.00122	HC00038RQ	1235	1244	shoot down		conflict	attack	not,hedged		starton	2014-07-12	endon	2014-07-12	E0060
+781681	VM781681.000109	V781681.00123	HC00038RQ	1155	1160	downed		conflict	attack			starton	2014-07-12	endon	2014-07-12	E0064
+781681	VM781681.000197	V781681.00123	HC00038RQ	1956	1964	shot down	MH-17 shot down by a Russian crew operating in occupied territory	conflict	attack		accidental	starton	2014-07-12	endon	2014-07-12	E0064
+781681	VM781681.000228	V781681.00123	HC00038RQ	1956	1964	shot down	MH-17 shot down by a rebel crew from occupied territory	conflict	attack			starton	2014-07-12	endon	2014-07-12	E0064
+781681	VM781681.000269	V781681.00124	HC00038RQ	2713	2720	murdered	Ukraine killed 300 civilians to cast blame on Ukrainian rebels or their Russian handlers	life	die	hedged	deliberate	starton	2014-07-12	endon	2014-07-12	NIL310.781681
+781681	VM781681.000341	V781681.00125	HC00038RQ	3317	3323	retreat	BUK missile system left East Ukraine and returned to Russia after crash of MH-17, with 1 missile missing	movement	transart			startunk		endunk		NIL387.781681
+781681	VM781681.000032	V781681.00126	HC00038RQ	434	437	made	Missile that shot down MH-17 was made in Russia	manufacture	artifact			startbefore	2014-07-12	endbefore	2014-07-12	NIL93.781681
+781685	VM781685.000032	V781685.00127	HC000T6C9	1013	1016	сбил		conflict	attack		deliberate	starton	2014-07-17	endon	2014-07-17	E0064
+781694	VM781694.001283	V781694.00128	HC000T6C8	3224	3232	доставлен		movement	transart			startunk		endunk		E0062
+781694	VM781694.000234	V781694.00129	HC000T6C8	26512	26522	пуск ракеты		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+781694	VM781694.000302	V781694.00129	HC000T6C8	31653	31658	запуск		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+781694	VM781694.000370	V781694.00129	HC000T6C8	35849	35852	сбит		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+781707	VM781707.000032	V781707.00130	HC000T6C7	456	463	привезен		movement	transart			startbefore	2014-07-17	endafter	2014-07-17	E0062
+781707	VM781707.000153	V781707.00131	HC000T6C7	23	26	сбит		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+781710	VM781710.000689	V781710.00132	HC000T6C5	3689	3696	привезли		movement	transart			startunk		endunk		E0062
+781710	VM781710.000491	V781710.00133	HC000T6C5	28	32	сбили		conflict	attack			startunk		endunk		E0064
+781718	VM781718.001134	V781718.00134	HC000T6C4	3142	3147	прибыл		movement	transart			startunk		endunk		E0062
+781718	VM781718.001093	V781718.00135	HC000T6C4	2884	2891	был сбит		conflict	attack			startunk		endunk		E0064
+781728	VM781728.000296	V781728.00136	HC000T6C2	931	955	конспирологических теорий	Conspiracy theory - bodies were placed on board before MH17 crashed	movement	transper			startunk		endunk		NIL324.781728
+781730	VM781730.000163	V781730.00137	HC000T6C1	3352	3355	сбит		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+781731	VM781731.000032	V781731.00138	HC000T6C0	1989	1998	доставлена		movement	transart		deliberate	startbefore	2014-07-17	endafter	2014-07-17	E0062
+781731	VM781731.000154	V781731.00139	HC000T6C0	1748	1751	сбит		conflict	attack		deliberate	starton	2014-07-17	endon	2014-07-17	E0064
+781733	VM781733.000032	V781733.00140	HC000T6BZ	60	67	крушении		conflict	attack		deliberate	startunk		endunk		E0064
+781733	VM781733.000274	V781733.00140	HC000T6BZ	24	43	добыл доказательства	US journalist accusing Ukraine of MH17 crash	justice	chargeindict			startunk		endunk		E0064
+781734	VM781734.000281	V781734.00141	HC000T6BY	1114	1121	был сбит		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+781734	VM781734.000032	V781734.00142	HC000T6BY	18	28	представили		contact	broadcast			startafter	2014-07-17	endunk		E0068
+781792	VM781792.000032	V781792.00143	HC00038RT	358	367	shoot-down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+781792	VM781792.000109	V781792.00144	HC00038RT	732	736	faked	Russia created fake satellite images of Ukrainian anti-aircraft missiles in eastern Ukraine	manufacture	artifact	hedged		startunk		endunk		NIL154.781792
+781792	VM781792.000170	V781792.00145	HC00038RT	1044	1050	placing	Russia placed BUK missiles in eastern Ukraine	movement	transart	hedged		startunk		endunk		NIL413.781792
+781859	VM781859.000327	V781859.00146	HC000T6BW	418	425	был сбит		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+781859	VM781859.000556	V781859.00146	HC000T6BW	513	528	виновен оказался		conflict	attack	hedged		starton	2014-07-17	endon	2014-07-17	E0064
+781895	VM781895.000032	V781895.00147	HC000T6BU	3770	3774	атаке		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+781902	VM781902.000032	V781902.00148	HC000T6BT	33	51	признала виновником		justice	convict			startunk		endunk		E0064
+781912	VM781912.000461	V781912.00149	HC000T6BS	4583	4595	был доставлен		movement	transart		deliberate	startbefore	2014-07-17	endafter	2014-07-17	E0062
+781912	VM781912.000377	V781912.00150	HC000T6BS	4207	4219	запуск ракеты		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+781922	VM781922.000651	V781922.00151	HC000T6BR	2597	2604	был сбит		conflict	attack		deliberate	startunk		endunk		E0064
+781922	VM781922.000713	V781922.00151	HC000T6BR	287	299	была заложена		conflict	attack			startunk		endunk		E0064
+781922	VM781922.000578	V781922.00152	HC000T6BR	41	44	вины		justice	convict			startunk		endunk		E0072
+781928	VM781928.000032	V781928.00153	HC000ZPRX	8	12	сбить		conflict	attack		deliberate	startunk		endunk		E0064
+781929	VM781929.000032	V781929.00154	HC000T6BO	641	644	сбит		conflict	attack			startunk		endunk		E0064
+781970	VM781970.000665	V781970.00155	HC000T6BM	2255	2259	сбила		conflict	attack			startunk		endunk		E0064
+781970	VM781970.000703	V781970.00155	HC000T6BM	2604	2608	сбить		conflict	attack			startunk		endunk		E0064
+781970	VM781970.000611	V781970.00156	HC000T6BM	1742	1747	грузят	Bodies were placed on board by CIA	movement	transper			startunk		endunk		NIL662.781970
+781986	VM781986.000535	V781986.00157	HC000T6BG	630	633	сбит		conflict	attack			startunk		endunk		E0064
+782060	VM782060.000112	V782060.00158	HC000T6BF	386	394	доставили		movement	transart			startunk		endunk		E0062
+782060	VM782060.000032	V782060.00159	HC000T6BF	45	49	сбили		conflict	attack			startunk		endunk		E0064
+782062	VM782062.000032	V782062.00160	HC000T6BE	706	709	сбит		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+782062	VM782062.000153	V782062.00160	HC000T6BE	1161	1167	запущен		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+782105	VM782105.000032	V782105.00161	HC000T6BD	275	283	причастна		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+782105	VM782105.000161	V782105.00161	HC000T6BD	3483	3487	сбили		conflict	attack		deliberate	startunk		endunk		E0064
+782132	VM782132.000184	V782132.00162	HC000T6BC	368	377	доставлена		movement	transart			startunk		endunk		E0062
+782132	VM782132.000032	V782132.00163	HC000T6BC	330	333	сбит		conflict	attack			startunk		endunk		E0064
+782132	VM782132.000224	V782132.00163	HC000T6BC	1778	1783	запуск		conflict	attack			startunk		endunk		E0064
+782132	VM782132.000242	V782132.00164	HC000T6BC	3413	3422	Переговоры		contact	contact			startunk		endunk		E0070
+782162	VM782162.000032	V782162.00165	HC000T6BB	136	139	сбит		conflict	attack			startunk		endunk		E0064
+782379	VM782379.000143	V782379.00168	IC0011SL7				MH17 shot down by Su-25	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+782379	VM782379.000032	V782379.00169	IC0011SL7				MH-17 diverted from usual route	movement	transart			starton	2014-07-17	endon	2014-07-17	E0067
+782401	VM782401.000109	V782401.00170	HC0000077				Pro-russian separatists shot down MH17	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+782432	VM782432.000331	V782432.00173	HC00038RV	500	506	brought		movement	transart			startbefore	2014-07-17	endbefore	2014-07-17	E0062
+782432	VM782432.000504	V782432.00173	HC00038RV	6008	6014	crossed		movement	transart	not		startunk		endunk		E0062
+782432	VM782432.000053	V782432.00174	HC00038RV	433	441	shot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+782432	VM782432.000168	V782432.00174	HC00038RV	5427	5430	shot		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+782432	VM782432.000293	V782432.00174	HC00038RV	3080	3083	come		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+782432	VM782432.000471	V782432.00174	HC00038RV	3994	4000	downing		conflict	attack	hedged	accidental	starton	2014-07-17	endon	2014-07-17	E0064
+782432	VM782432.001270	V782432.00174	HC00038RV	2112	2118	assault		conflict	attack	not		starton	2014-07-17	endon	2014-07-17	E0064
+782432	VM782432.000402	V782432.00175	HC00038RV	1174	1181	returned	Buk launcher returned to Russia	movement	transart			startafter	2014-07-17	endafter	2014-07-17	NIL420.782432
+782975	VM782975.000032	V782975.00176	HC000T6C3	359	372	резко изменили	American satellites changed the direction of shooting of the Donbass battle zone	contact	broadcast			startbefore	2014-07-17	endon	2014-07-17	NIL248.782975
+783019	VM783019.000032	V783019.00177	IC0019N7Y				Ukraine faked Pro-Russian rebel conversations about MH-17	contact	corresp		deliberate	startafter	2014-07-17	endafter	2014-07-17	NIL332.783019
+784109	VM784109.000398	V784109.00178	HC000Q7MB	265	267	was		conflict	attack			startunk		endunk		E0064
+784109	VM784109.000647	V784109.00178	HC000Q7MB	13546	13550	shoot		conflict	attack			startunk		endunk		E0064
+784109	VM784109.000665	V784109.00178	HC000Q7MB	19923	19926	shot		conflict	attack			startunk		endunk		E0064
+784109	VM784109.000683	V784109.00178	HC000Q7MB	19996	19998	was		conflict	attack			startunk		endunk		E0064
+784109	VM784109.000731	V784109.00178	HC000Q7MB	20069	20072	shot		conflict	attack			startunk		endunk		E0064
+784109	VM784109.000456	V784109.00179	HC000Q7MB	339	346	releases	Ukraine won't release their radio transmission data or air traffic control data	contact	contact	not		startunk		endunk		NIL482.784109
+784109	VM784109.000513	V784109.00180	HC000Q7MB	940	947	shooting	The rebels had been shooting down Ukrainian cargo planes, from the same area, for weeks.	conflict	attack			startunk		endunk		NIL531.784109
+784109	VM784109.000621	V784109.00181	HC000Q7MB	6529	6536	bragging	Strelkov bragging about the shootdown	contact	contact	hedged		startunk		endunk		NIL639.784109
+784681	VM784681.000532	V784681.00182	HC000Q7VZ	11410	11415	stolen		transaction	transown	hedged		startunk		endunk		E0061
+784681	VM784681.000866	V784681.00183	HC000Q7VZ	31205	31215	transported		movement	transart			startunk		endunk		E0062
+784681	VM784681.000231	V784681.00184	HC000Q7VZ	1789	1801	shooting down		conflict	attack	hedged	accidental	startunk		endunk		E0064
+784681	VM784681.000285	V784681.00184	HC000Q7VZ	3795	3801	downing		conflict	attack		accidental	startunk		endunk		E0064
+784681	VM784681.000443	V784681.00184	HC000Q7VZ	7603	7607	fired		conflict	attack			startunk		endunk		E0064
+784681	VM784681.000476	V784681.00184	HC000Q7VZ	11301	11309	shot down		conflict	attack			startunk		endunk		E0064
+784681	VM784681.000581	V784681.00184	HC000Q7VZ	16102	16108	downing		conflict	attack			startunk		endunk		E0064
+784681	VM784681.000823	V784681.00184	HC000Q7VZ	30993	31001	shot down		conflict	attack			startunk		endunk		E0064
+784681	VM784681.000948	V784681.00184	HC000Q7VZ	31955	31957	hit	Russian forces accidentally shoot down MH17, intending to shoot down a russian plane and blame Ukraine.	conflict	attack		accidental	startunk		endunk		E0064
+784681	VM784681.000303	V784681.00185	HC000Q7VZ	3716	3723	diverted		movement	transper		accidental	startunk		endunk		E0067
+784681	VM784681.000659	V784681.00186	HC000Q7VZ	21131	21138	provided		transaction	transown			startunk		endunk		E0069
+784681	VM784681.000695	V784681.00186	HC000Q7VZ	21221	21224	hand		transaction	transown	not,hedged		startunk		endunk		E0069
+784681	VM784681.000641	V784681.00187	HC000Q7VZ	21059	21063	steal	A BUK could not have been stolen from a Russian military warehouse.	transaction	transown	not		startunk		endunk		NIL741.784681
+784681	VM784681.000677	V784681.00188	HC000Q7VZ	21375	21383	shot down	Russia deliberately downs MH17	conflict	attack		deliberate	startunk		endunk		NIL777.784681
+784681	VM784681.000884	V784681.00189	HC000Q7VZ	31276	31279	back	BUK transported back to Russia after firing.	movement	transart			startunk		endunk		NIL935.784681
+785084	VM785084.000138	V785084.00190	HC000Q7MC	236	244	come from	BUK missile that downed MH-17 came from Russia	movement	transart			startunk		endbefore	2014-07-17	E0062
+785084	VM785084.000246	V785084.00191	HC000Q7MC	552	580	no Russian weapons were taken	Russia says the BUK was not moved from Russia to Ukraine	movement	transart	not		startunk		endunk		NIL292.785084
+785084	VM785084.000295	V785084.00192	HC000Q7MC	1074	1083	taken back	BUK returned to Russia the day after MH-17 crashed	movement	transart			starton	2014-07-18	endon	2014-07-18	NIL328.785084
+785084	VM785084.000402	V785084.00193	HC000Q7MC	5821	5826	downed	Russia claims MH17 was downed by a Ukrainian surface-to-air BUK	conflict	attack	hedged		starton	2014-07-17	endon	2014-07-17	NIL430.785084
+785084	VM785084.000433	V785084.00194	HC000Q7MC	5821	5826	downed	Russia claims MH17 was downed by a Ukrainian military jet	conflict	attack	hedged		starton	2014-07-17	endon	2014-07-17	NIL461.785084
+785084	VM785084.000477	V785084.00195	HC000Q7MC	6045	6050	downed	Russian defense ministry claims MH17 was downed by a Ukrainian SU-25	conflict	attack			starton	2014-07-17	endon	2014-07-17	NIL505.785084
+785084	VM785084.000521	V785084.00196	HC000Q7MC	6160	6165	downed	MH17 was downed by an old BUK, a type Russia no longer owns	conflict	attack			starton	2014-07-17	endon	2014-07-17	NIL549.785084
+785084	VM785084.000105	V785084.00197	HC000Q7MC	174	179	downed	MH17 downed by a BUK missile from Russia	conflict	attack			starton	2014-07-17	endon	2014-07-17	NIL645.785084
+785084	VM785084.000617	V785084.00198	HC000WJP7				MH17 downed by a BUK missile from Russia	conflict	attack			starton	2014-07-17	endon	2014-07-17	NIL645.785084
+785734	VM785734.000146	V785734.00199	HC0008OSF	1459	1463	збили		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+785734	VM785734.000771	V785734.00199	HC0008OSF	501	508	враження		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+785734	VM785734.000831	V785734.00200	HC0008OSF	1607	1616	переданого		transaction	transown			startbefore	2014-07-17	endbefore	2014-07-17	E0069
+788114	VM788114.000416	V788114.00201	IC0011XWJ				Almaz-Antey Press Conference	contact	broadcast			starton	2016-09-28	endon	2016-09-28	E0058
+788114	VM788114.000336	V788114.00202	HC000Q7X6	6838	6847	перетинали		movement	transart	not		startbefore	2014-07-17	endbefore	2014-07-17	E0062
+788114	VM788114.000089	V788114.00203	HC000Q7X6	1759	1767	випустити		conflict	attack	hedged	accidental	starton	2014-07-17	endon	2014-07-17	E0064
+788114	VM788114.000222	V788114.00203	HC000Q7X6	954	957	збив		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+788114	VM788114.000265	V788114.00203	HC000Q7X6	2005	2011	стріляв		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+791643	VM791643.000282	V791643.00204	HC000Q7W3	11208	11216	shot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+791643	VM791643.000171	V791643.00205	HC000Q7W3	741	748	diverted		movement	transper			starton	2014-07-17	endon	2014-07-17	E0067
+791643	VM791643.000254	V791643.00205	HC000Q7W3	9455	9460	comply		contact	corresp	not		starton	2014-07-17	endon	2014-07-17	E0067
+794493	VM794493.000053	V794493.00206	HC000Q7V3	308	316	shot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794493	VM794493.000353	V794493.00206	HC000Q7V3	2363	2371	shot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794493	VM794493.001204	V794493.00206	HC000Q7V3	4062	4071	shoot-down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794493	VM794493.000211	V794493.00207	HC000Q7V3	361	368	supplied		transaction	transown			startbefore	2014-07-17	endbefore	2014-07-17	E0069
+794493	VM794493.000320	V794493.00207	HC000Q7V3	756	772	has not delivered		transaction	transown	not		startbefore	2014-07-17	endafter	2014-07-17	E0069
+794493	VM794493.001173	V794493.00208	HC000Q7V3	4043	4050	bragging	Igor Strelkov brags about plane shoot-down	contact	broadcast			starton	2014-07-17	endon	2014-07-17	NIL1191.794493
+794707	VM794707.000336	V794707.00209	HC000Q7V4	1764	1783	trying to shoot down		conflict	attack	not	deliberate	starton	2014-07-17	endon	2014-07-17	E0060
+794707	VM794707.000110	V794707.00210	HC000Q7V4	531	539	trundling		movement	transart			startbefore	2014-07-17	endbefore	2014-07-17	E0062
+794707	VM794707.000159	V794707.00211	HC000Q7V4	928	940	shooting down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794707	VM794707.000293	V794707.00211	HC000Q7V4	1817	1819	hit		conflict	attack		accidental	starton	2014-07-17	endon	2014-07-17	E0064
+794707	VM794707.000226	V794707.00212	HC000Q7V4	985	994	taken back	Buk returned to Russia	movement	transart			starton	2014-07-18	endon	2014-07-18	NIL244.794707
+794707	VM794707.000053	V794707.00213	HC000Q7V4	499	502	made	BUK missile system made in Russia	manufacture	artifact			startbefore	2014-07-17	endbefore	2014-07-17	NIL71.794707
+794795	VM794795.001685	V794795.00214	HC000Q7W0	73001	73008	overtook		transaction	transown			startbefore	2014-07-17	endbefore	2014-07-17	E0061
+794795	VM794795.000601	V794795.00215	HC000Q7W0	122	127	downed		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.000639	V794795.00215	HC000Q7W0	883	891	shot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.000677	V794795.00215	HC000Q7W0	5675	5678	down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.000730	V794795.00215	HC000Q7W0	42504	42515	shot it down		conflict	attack	hedged	accidental	starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.000891	V794795.00215	HC000Q7W0	12937	12946	shoot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.000929	V794795.00215	HC000Q7W0	13847	13855	shootdown		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.001142	V794795.00215	HC000Q7W0	23028	23037	shoot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.001180	V794795.00215	HC000Q7W0	24081	24084	down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.001218	V794795.00215	HC000Q7W0	24588	24597	false-flag		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.001380	V794795.00215	HC000Q7W0	28968	28980	shooting down		conflict	attack		accidental	starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.001418	V794795.00215	HC000Q7W0	43273	43278	did it		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.001451	V794795.00215	HC000Q7W0	46723	46728	did it		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.001484	V794795.00215	HC000Q7W0	46723	46728	did it		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.001522	V794795.00215	HC000Q7W0	55332	55344	shooting down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.001624	V794795.00215	HC000Q7W0	69949	69957	shot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.001815	V794795.00215	HC000Q7W0	81112	81120	shot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.001903	V794795.00215	HC000Q7W0	100567	100576	shoot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.001963	V794795.00215	HC000Q7W0	112291	112299	operating		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.002006	V794795.00215	HC000Q7W0	120356	120359	shot		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.002092	V794795.00215	HC000Q7W0	127531	127540	shoot-down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.002158	V794795.00215	HC000Q7W0	139108	139115	attacker		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.002196	V794795.00215	HC000Q7W0	149605	149614	shoot-down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.002234	V794795.00215	IC0011U8C				Image of flowers and balloons with note saying 'Putin killed your children'	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.002272	V794795.00215	IC0011U8C				Image of flowers and balloons with note saying 'Putin killed your children'	life	die			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.002305	V794795.00215	IC0011U8B				Image of flowers and balloons with note saying 'Putin killed your children'	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.002338	V794795.00215	IC0011U8B				Image of flowers and balloons with note saying 'Putin killed your children'	life	die			starton	2014-07-17	endon	2014-07-17	E0064
+794795	VM794795.000809	V794795.00216	HC000Q7W0	9527	9534	diverted		movement	transart	hedged		startbefore	2014-07-17	endbefore	2014-07-17	E0067
+794795	VM794795.001352	V794795.00216	HC000Q7W0	54214	54221	redirect		movement	transart			starton	2014-07-17	endon	2014-07-17	E0067
+794795	VM794795.001555	V794795.00217	HC000Q7W0	56213	56220	supplied		transaction	transown			starton	2014-07-17	endon	2014-07-17	E0069
+794795	VM794795.001591	V794795.00217	HC000Q7W0	65292	65295	from		transaction	transown	not		startbefore	2014-07-17	endbefore	2014-07-17	E0069
+794795	VM794795.001003	V794795.00218	HC000Q7W0	16807	16813	downing	Downing of Ukrainian military transport plane	conflict	attack			starton	2014-07-17	endon	2014-07-17	NIL1051.794795
+794795	VM794795.000865	V794795.00219	HC000Q7W0	484	490	bragged	Rebels brag about shooting down MH17	contact	broadcast			startafter	2014-07-17	endafter	2014-07-17	NIL888.794795
+794795	VM794795.000957	V794795.00220	HC000Q7W0	16446	16457	acknowledged	Rebels brag about shooting down MH17	contact	broadcast			startafter	2014-07-17	endafter	2014-07-17	NIL888.794795
+794795	VM794795.000980	V794795.00221	HC000Q7W0	16446	16457	acknowledged	Rebels brag about shooting down MH17	contact	broadcast			startafter	2014-07-17	endafter	2014-07-17	NIL888.794795
+794795	VM794795.001769	V794795.00222	HC000Q7W0	77761	77767	message	Rebels brag about shooting down MH17	contact	broadcast			startafter	2014-07-17	endafter	2014-07-17	NIL888.794795
+794795	VM794795.001792	V794795.00223	HC000Q7W0	77761	77767	message	Rebels brag about shooting down MH17	contact	broadcast			startafter	2014-07-17	endafter	2014-07-17	NIL888.794795
+794795	VM794795.002069	V794795.00224	HC000Q7W0	126191	126195	Audio	Rebels brag about shooting down MH17	contact	broadcast			startafter	2014-07-17	endafter	2014-07-17	NIL888.794795
+796203	VM796203.000053	V796203.00225	HC000Q7VD	9662	9666	crash		conflict	attack			startbefore	2014-07-25	endbefore	2014-07-25	E0064
+796203	VM796203.000234	V796203.00225	HC000Q7VD	9662	9666	crash		movement	transart			startbefore	2014-07-25	endbefore	2014-07-25	E0064
+796203	VM796203.000411	V796203.00225	HC000Q7VD	19848	19851	shot		conflict	attack			startbefore	2014-07-25	endbefore	2014-07-25	E0064
+796203	VM796203.000539	V796203.00225	HC000Q7VD	20254	20261	shooting		conflict	attack		accidental	startbefore	2014-07-25	endbefore	2014-07-25	E0064
+796203	VM796203.000608	V796203.00225	HC000Q7VD	3031	3040	bring down		conflict	attack			startbefore	2014-07-25	endbefore	2014-07-25	E0064
+796203	VM796203.000267	V796203.00226	HC000Q7VD	3587	3590	sent		movement	transart			startbefore	2014-07-25	endbefore	2014-07-25	E0067
+796203	VM796203.000349	V796203.00226	HC000Q7VD	15006	15009	shot		conflict	attack			startbefore	2014-07-25	endbefore	2014-07-25	E0067
+796203	VM796203.000475	V796203.00227	HC000Q7VD	19811	19815	armed		transaction	transown			startbefore	2014-07-25	endbefore	2014-07-25	E0069
+796204	VM796204.000376	V796204.00228	HC000Q7W1	1166	1174	traveling		movement	transart			startunk		endunk		E0062
+796204	VM796204.000140	V796204.00229	HC000Q7W1	379	387	shot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+796204	VM796204.000221	V796204.00229	HC000Q7W1	850	857	shooting		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+796204	VM796204.000290	V796204.00229	HC000Q7W1	850	857	shooting		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+796204	VM796204.000333	V796204.00229	HC000Q7W1	1020	1029	shoot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+796204	VM796204.000190	V796204.00230	HC000Q7W1	446	452	reports		contact	broadcast			starton	2014-07-17	endon	2014-07-17	E0070
+796289	VM796289.000203	V796289.00231	HC000Q7V5	406	408	hit		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+796289	VM796289.000260	V796289.00231	HC000Q7V5	1315	1323	shot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+796289	VM796289.000337	V796289.00232	HC000Q7V5	1043	1048	denied	Russia denies any blame for the MH17 crash.	contact	contact			startafter	2014-07-17	endafter	2014-07-17	NIL360.796289
+796948	VM796948.000248	V796948.00233	HC000Q7V6	236	244	shot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+796948	VM796948.000266	V796948.00233	HC000Q7V6	1851	1859	shot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+797289	VM797289.000053	V797289.00234	HC000Q7W2	3189	3197	shootings		conflict	attack		accidental	startbefore	2014-07-20	endbefore	2014-07-20	E0064
+797289	VM797289.000115	V797289.00234	HC000Q7W2	2949	2960	brought down		conflict	attack			startbefore	2014-07-20	endbefore	2014-07-20	E0064
+797289	VM797289.000146	V797289.00234	HC000Q7W2	3272	3280	destroyed		conflict	attack			startbefore	2014-07-20	endbefore	2014-07-20	E0064
+797289	VM797289.000174	V797289.00234	HC000Q7W2	5260	5269	shoot down		conflict	attack			startbefore	2014-07-20	endbefore	2014-07-20	E0064
+797289	VM797289.000220	V797289.00234	HC000Q7W2	5421	5431	shooting at		conflict	attack			startbefore	2014-07-20	endbefore	2014-07-20	E0064
+797289	VM797289.000261	V797289.00234	HC000Q7W2	6884	6895	brought down		conflict	attack			startbefore	2014-07-20	endbefore	2014-07-20	E0064
+797289	VM797289.000307	V797289.00234	HC000Q7W2	6298	6303	impact		conflict	attack			startbefore	2014-07-20	endbefore	2014-07-20	E0064
+797289	VM797289.000330	V797289.00234	HC000Q7W2	6560	6567	detoured		movement	transart			startbefore	2014-07-20	endbefore	2014-07-20	E0064
+797289	VM797289.000376	V797289.00234	HC000Q7W2	7684	7687	shot		conflict	attack			startbefore	2014-07-20	endbefore	2014-07-20	E0064
+797289	VM797289.000458	V797289.00234	HC000Q7W2	8683	8689	crashes		conflict	attack		accidental	startbefore	2014-07-20	endbefore	2014-07-20	E0064
+797289	VM797289.000486	V797289.00234	HC000Q7W2	22107	22116	false flag		conflict	attack			startbefore	2014-07-20	endbefore	2014-07-20	E0064
+797289	VM797289.000689	V797289.00234	IC0011UK3				Picture of balloons and card saying 'Putin killed your children'	conflict	attack			startbefore	2014-07-20	endbefore	2014-07-20	E0064
+797289	VM797289.000743	V797289.00234	IC0011UK3				Picture of balloons and card saying 'Putin killed your children'	life	die			startbefore	2014-07-20	endbefore	2014-07-20	E0064
+797289	VM797289.000414	V797289.00235	HC000Q7W2	8506	8513	supplied		transaction	transown	hedged		startbefore	2014-07-20	endbefore	2014-07-20	E0069
+797289	VM797289.000656	V797289.00235	HC000Q7W2	24054	24061	supplied		transaction	transown			startbefore	2014-07-20	endbefore	2014-07-20	E0069
+797290	VM797290.000779	V797290.00236	HC000Q7V9	6666	6675	shoot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0060
+797290	VM797290.000591	V797290.00237	HC000Q7V9	3720	3728	shot down		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+797290	VM797290.000936	V797290.00237	HC000Q7V9	10136	10144	explosion		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+797290	VM797290.002672	V797290.00237	HC000Q7V9	7794	7798	crash		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+797290	VM797290.000714	V797290.00238	HC000Q7V9	4167	4170	sent		movement	transart	hedged		starton	2014-07-17	endon	2014-07-17	E0067
+797290	VM797290.000565	V797290.00239	HC000Q7V9	2980	2985	warned	Igor Strelkov reports on internet "we warned them not to fly in our skies."	contact	contact			startbefore	2014-07-17	endunk		NIL583.797290
+797290	VM797290.000696	V797290.00240	HC000Q7V9	4044	4049	voiced	Russia blames Ukrainian air traffic controllers for crash	contact	contact			startbefore	2017-07-17	endunk		NIL758.797290
+797290	VM797290.000830	V797290.00241	HC000Q7V9	7232	7239	claiming	Spanish air traffic controller claimed that military aircraft flew near Boeing 777	contact	contact			startunk		endafter	2014-07-17	NIL848.797290
+797295	VM797295.000105	V797295.00242	HC000Q7VA	2835	2839	crash		movement	transart		accidental	starton	2014-07-XX	endbefore	2014-07-21	E0064
+797295	VM797295.000144	V797295.00242	HC000Q7VA	3352	3355	shot		conflict	attack			starton	2014-07-XX	endbefore	2014-07-21	E0064
+797295	VM797295.000744	V797295.00243	HC000Q7VA	3599	3607	delivered	Missle system delivered from Russia	movement	transart			startafter	2014-07-21	endafter	2014-07-21	NIL772.797295
+797301	VM797301.000290	V797301.00244	HC00059XN				Attempted assassination of Putin	conflict	attack	not		starton	2014-07-17	endon	2014-07-17	E0060
+797301	VM797301.000321	V797301.00244	HC00059XN				Attempted assassination of Putin	life	die	not		starton	2014-07-17	endon	2014-07-17	E0060
+797301	VM797301.000032	V797301.00245	HC00059XN				Plane shot down by a Buk surface-to-air missile	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+797301	VM797301.000124	V797301.00245	HC00059XN				All on board were killed	life	die			starton	2014-07-17	endon	2014-07-17	E0064
+797301	VM797301.000257	V797301.00245	HC00059XN				Ukraine shoots down MH17	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+797301	VM797301.000398	V797301.00245	HC00059XN				The Illuminati shot down the plane	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+797301	VM797301.000367	V797301.00246	HC00059XN				AIDS researchers traveling to conference	movement	transper			starton	2014-07-17	endon	2014-07-17	NIL395.797301
+798870	VM798870.000032	V798870.00247	IC0011XZQ				The Security Service of Ukraine denies evidence of the presence of BUK missile launchers deployed in area	contact	corresp			starton	2014-07-12	endon	2014-07-23	E0048
+799770	VM799770.000118	V799770.00248	HC000Q7XD	1315	1319	збили		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+814509	VM814509.000444	V814509.00249	HC000Q7XA	14	34	катастрофи Boeing-777		conflict	attack	not		starton	2014-07-17	endon	2014-07-17	E0064
+814509	VM814509.000539	V814509.00250	IC0011XXR				militants are  scouring the things of crash victims	conflict	attack	not		starton	2014-7-17	endunk		NIL608.814509
+814509	VM814509.000653	V814509.00251	IC0011XXQ				militants are  scouring the things of crash victims	contact	contact	not		starton	2014-07-17	endunk		NIL608.814509
+814509	VM814509.000686	V814509.00252	IC0011XXP				militants are photographing the remains of deceased passengers	contact	contact	not		starton	2014-07-17	endunk		NIL704.814509
+814509	VM814509.000575	V814509.00253	HC000Q7XA	460	545	бойовики фотографують останки загиблих пасажирів, а також оглядають їхні особисті речі	militants are  scouring the things of crash victims and photographing the remains of deceased passengers	contact	contact	not		starton	2014-7-17	endunk		NIL727.814509
+829994	VM829994.000205	V829994.00254	HC000T6J9	1553	1630	Проросійські сепаратисти заперечують наявність системи "Бук" в своєму арсеналі		movement	transart	not		startafter	2014-07-17	endunk		E0071
+829994	VM829994.000032	V829994.00255	HC000T6J9	547	606	комплекс вивантажували з вантажного причепа в місті Сніжному	Buk unloaded in Snizhne	movement	transart	not		startbefore	2014-07-17	endunk		NIL202.829994
+829994	VM829994.000283	V829994.00256	HC000T6J9	1478	1550	Кремль припустив, що ракета могла бути запущена з українського винищувача	The Kremlin suggested that the missile could be launched from Ukrainian jet	conflict	attack	not		startafter	2014-07-17	endunk		NIL341.829994
+831667	VM831667.000269	V831667.00257	IC0019N17				the moment of MH-17 crash	conflict	attack	not		starton	2014-07-17	endon	2014-07-17	E0064
+831667	VM831667.000088	V831667.00258	HC000T6J8	272	323	Росія ввела обмеження для польотів цивільної авіації	Russia imposed restrictions on civil aviation flights	movement	transart	not		starton	2014-07-17	endunk		NIL147.831667
+831667	VM831667.000150	V831667.00259	HC000T6J8	987	1211	Ростовський диспетчер знав, що при перетині державного кордону Росії малайзійський Boeing 777, слідуючи ешелоном FL330, вторгається в заборонену для польотів цивільної авіації зону російського повітряного простору, але мовчав	The Rostov dispatcher knew that Malaysian Boeing 777 intrudes forbidden for civil aviation flights space, but was silent	movement	transper	not		startunk		endunk		NIL231.831667
+842536	VM842536.000110	V842536.00260	HC000ZXSK	1363	1367	збила		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+848829	VM848829.000314	V848829.00263	HC000Q7X1	1771	1775	збили		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+848829	VM848829.000360	V848829.00263	HC000Q7X1	37	41	збити		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+855763	VM855763.000032	V855763.00264	HC000Q7XJ	182	186	збито		conflict	attack			starton	2014-07-07	endon	2014-07-07	E0064
+855763	VM855763.000189	V855763.00264	HC000Q7XJ	1008	1012	збили		conflict	attack	not	deliberate	starton	2014-07-07	endon	2014-07-07	E0064
+855763	VM855763.000227	V855763.00264	HC000Q7XJ	1606	1610	збити		conflict	attack	not	deliberate	starton	2014-07-07	endon	2014-07-07	E0064
+855763	VM855763.000268	V855763.00265	IC0019MY1				Intercepted call between rebels published	contact	broadcast			startunk		endunk		E0070
+864237	VM864237.000160	V864237.00266	IC0019N9M				Igor Bezler shot down MH-17	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+864237	VM864237.000196	V864237.00267	IC0019N9M				Pro-Russian Separatists communicated with each other about presence of plane before crash	contact	corresp			starton	2014-07-17	endon	2014-07-17	E0070
+874068	VM874068.000144	V874068.00268	HC000Q7XI	950	956	завезти		movement	transart		accidental	startbefore	2014-07-17	endbefore	2014-07-17	E0062
+874068	VM874068.000478	V874068.00268	IC0011XXD				Buk transported from Russia	movement	transart		accidental	startbefore	2014-07-17	endbefore	2014-07-17	E0062
+874068	VM874068.000318	V874068.00269	HC000Q7XI	1064	1068	збити		conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+880381	VM880381.000159	V880381.00270	IC0011XYD				crashed	conflict	attack	not		startunk		endunk		E0064
+880381	VM880381.000053	V880381.00271	HC0005OIE				Terrorists downed Boeing 777	conflict	attack	not	deliberate	startunk		endunk		NIL116.880381
+907694	VM907694.000202	V907694.00272	HC000Q8C6				Pro-Russian seperatists shot down MH17	conflict	attack			starton	2014-07-17	endon	2014-07-17	E0064
+943476	VM943476.000114	V943476.00273	HC000T66Q	1430	1442	не було збито		conflict	attack	hedged		starton	2014-07-17	endon	2014-07-17	E0064
+943476	VM943476.000141	V943476.00273	HC000T66Q	2021	2030	було збито		conflict	attack	not		starton	2014-07-17	endon	2014-07-17	E0064
+943476	VM943476.000313	V943476.00274	HC000T66Q	2540	2547	передала		transaction	transown	not	deliberate	startbefore	2014-07-17	endunk		E0069
+943476	VM943476.000066	V943476.00275	HC000T66Q	571	580	було збито	MH-17 downed with weapon brought from Russia	conflict	attack			starton	2014-07-17	endon	2014-07-17	NIL111.943476
+943476	VM943476.000211	V943476.00276	HC000T66Q	2415	2427	було запущено	Rocket was launched from Pervomayske	conflict	attack	not	deliberate	starton	2014-07-17	endon	2014-07-17	NIL310.943476
+943476	VM943476.000394	V943476.00277	HC000T66Q	3797	3812	влаштували вибух	terrorists arranged  explosion of MH17	conflict	attack	hedged	deliberate	starton	2014-07-17	endon	2014-07-17	NIL453.943476
+943476	VM943476.000456	V943476.00278	HC000T66Q	3845	3849	атаки	another aircraft attacked	conflict	attack	hedged	deliberate	starton	2014-07-17	endon	2014-07-17	NIL497.943476
+943476	VM943476.000500	V943476.00279	HC000T66Q	3896	3906	могли збити	Armed Forces of Ukraine could shoot down MH-17	conflict	attack	hedged	deliberate	starton	2014-07-17	endon	2014-07-17	NIL541.943476

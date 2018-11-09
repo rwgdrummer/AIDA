@@ -1,0 +1,14 @@
+{
+  "SQLALCHEMY_DATABASE_URI": "",
+  "MEDIA_LOCATION": "",
+  "EXTRACTOR_LOCATION": "",
+  "host": "0.0.0.0",
+  "REDIS_HOST": "redis",
+  "INDEX_KEY_FRAME_EXTRACTOR": {
+    "name": "FixedLocationKeyFrameExtractor",
+    "parameters": {
+      "extractor_location": "",
+      "results_location": ""
+    }
+  }
+}

@@ -1,0 +1,99 @@
+node_id	topic_id	category	handle	description
+E0001	T101	Entity	100 people involved in the MH-17 crash	100 people under investigation for potential roles in the MH-17 crash
+E0002	T101	Entity	15 crew members	Crew members on board MH-17
+E0003	T101	Entity	283 passengers	Passengers on board MH-17
+E0004	T101	Entity	298 crash victims	All people on board MH-17
+E0005	T101	Entity	AIDS researchers on board MH17	AIDS researchers who were on board MH17
+E0006	T101	Entity	Almaz-Antey	Russian BUK manufacturer
+E0007	T101	Entity	Amsterdam Schiphol Airport	Airport from which MH-17 took off
+E0008	T101	Entity	Andrei Ivanovich (a.k.a. "Orion")	Person potentially involved in the crash of MH-17
+E0009	T101	Entity	Anti-Terrorist Operation force	Ukrainian military operations force in Eastern Ukraine, fighting against the pro-Russian forces
+E0011	T101	Entity	Bellingcat 	Investigative search network founded by the British network activist Eliot Higgins
+E0012	T101	Entity	Igor Bezler (a.k.a. "Bes")	Commander of seperatist militant group that may have shot down MH-17
+E0013	T101	Entity	Boeing	Manufacturer of the MH-17 plane
+E0014	T101	Entity	Chernukhinsk	Possible location of the Buk missile that fired on MH-17
+E0015	T101	Entity	Chervonyi Zhovten	Small village near the possible location of the Buk missile
+E0016	T101	Entity	CIA	U.S. intelligence agency that some claim were ultimately responsible for the crash of MH-17
+E0017	T101	Entity	Dmytro Storozhuk	Deputy Chief Prosecutor of Ukraine
+E0018	T101	Entity	Donbass	Region in Eastern Ukraine where the MH-17 crash occured, consists of Luhansk and Donetsk
+E0019	T101	Entity	Donbass People's Militia	Seperatist combatant in the war in Eastern Ukraine
+E0020	T101	Entity	Donetsk	Oblast (region) in Ukraine where the MH-17 crash occurred
+E0021	T101	Entity	Dutch Safety Board	Organization that investigated MH-17 crash
+E0022	T101	Entity	Dutch General Intelligence and Security Service	Possible culprit in downing of MH-17
+E0023	T101	Entity	Eurocontrol	European air traffic control body
+E0025	T101	Entity	Hrabove (a.k.a. Grabovo)	Village near which MH-17 crashed
+E0026	T101	Entity	Igor Girkin (a.k.a. Igor Strelkov)	Leader of Donbass People's Militia
+E0027	T101	Entity	International Civil Aviation Organization	Organization that regulates aviation
+E0028	T101	Entity	Joint Investigation Team	Team of investigators from Australia, Belgium, Malaysia, the Netherlands, and Ukraine tasked with investigating the crash of MH-17
+E0029	T101	Entity	Kuala Lumpur International Airport	Airport in Malaysia where MH-17 was supposed to arrive
+E0030	T101	Entity	Malaysian Airlines	Company that owned and operated MH-17
+E0031	T101	Entity	Ministry of Defense of Russia	Russian ministry, provided evidence implicating Ukraine in MH-17 crash
+E0032	T101	Entity	Nikolai Fedorovich (a.k.a. "Dolphin")	Person potentially involved in the crash of MH-17
+E0033	T101	Entity	Pavlo Klimkin	Foreign minister of Ukraine at the time of the MH-17 crash
+E0034	T101	Entity	Petro Poroshenko	President of Ukraine at the time of the MH-17 crash
+E0035	T101	Entity	Pro-Russian seperatists	A group in Eastern Ukraine that would like to secede from Ukraine and either join Russia or become a new pro-Russian state. 
+E0036	T101	Entity	Russia	Country that reportedly aids separatists in Ukraine
+E0037	T101	Entity	Sergey Dubinsky	Retired Russian officer, controlled transportation of Buk
+E0038	T101	Entity	Sergey Kavtaradze	Special representative for the prime minister of the Donetsk People's Republic
+E0039	T101	Entity	Spanish Dispatcher	Person rumored to have tweeted that two Ukrainian jets shot down MH-17
+E0040	T101	Entity	Spies	Spies who may have been on board MH-17
+E0041	T101	Entity	The Netherlands	Most of the plane's passengers were from the Netherlands
+E0042	T101	Entity	Torez	City near which MH-17 crashed
+E0043	T101	Entity	Ukraine	Country in which MH-17 crashed
+E0044	T101	Entity	Ukrainian Air Defence Centre	Air defense system of Ukraine
+E0046	T101	Entity	Ukrainian government	Government of Ukraine
+E0047	T101	Entity	Ukrainian military	Military of Ukraine, combatant in the conflict in eastern Ukraine and considered to have possibly shot down MH17
+E0048	T101	Entity	Ukrainian Security Council	Organization that makes security decisions in Ukraine
+E0049	T101	Entity	Ukrainian Security Service	Agency of the Ukrainian government that investigated the crash of MH-17
+E0050	T101	Entity	United Nations Tribunal	Tribunal on MH-17 put together by the UN
+E0051	T101	Entity	United States of America	Country that conducted investigation of the crash
+E0052	T101	Entity	Valentyn Nalyvaichenko	Ukrainian diplomat and politician, head of the Security Service of Ukraine during the events of MH-17 crash
+E0053	T101	Entity	Vasyl Mykolaiovych Geranin	Colonel of the Main Intelligence Directorate of the General Staff of the Russian Armed Forces
+E0054	T101	Entity	Vladimir Putin	President of Russia
+E0055	T101	Entity	Vladislav Voloshin	Ukrainian Air Force captain, pilot of Su-25
+E0056	T101	Event	9N314M-type warhead produced in Russia	The type of warhead allegedly used to shoot down MH-17 is known to be produced in Russia.
+E0057	T101	Event	Airspace above Donbass closed after MH-17 crash	Reaction to the crash of MH-17 was to immediately close the airspace above Donbass
+E0058	T101	Event	Almaz-Antey claims missiles must have been Ukrainian	Russian BUK manufacturer claimed the missile which downed MH-17 was not in use by the Russian military, concluding the plane must have been shot down by Ukrainian forces
+E0060	T101	Event	Assassination of Vladimir Putin	Extremists within the Ukrainian government may have shot down MH17, believing it to be Vladimir Putin's plane returning to Moscow from South America
+E0061	T101	Event	Buk launcher stolen from Ukrainian Military	Pro-Russian separatists may have stolen the missile launcher from the Ukrainian military
+E0062	T101	Event	Buk launcher transported from Russia	Buk missile was driven into Ukraine from Russia
+E0063	T101	Event	Channel One releases photos of Ukrainian jets	Russia's Channel One released satellite images reportedly showing a Ukrainian jet firing a missile at MH17
+E0064	T101	Event	Crash of Malaysian Airlines flight MH-17	Malaysian Air Flight MH-17 crashed 17 July, 2014
+E0065	T101	Event	ICAO implements no-fly zone	The International Civil Aviation Organization implemented a no-fly zone over Crimea and southeastern Ukraine
+E0066	T101	Event	MH-17 contact lost	Loss of contact with MH-17
+E0067	T101	Event	MH-17 diverted from usual route	Allegation that MH17 was diverted from its usual route so that it entered dangerous airspace
+E0068	T101	Event	Netherlands Security Council released report crash of MH17	On October 13, 2015, the Netherlands Security Council released its own report on a Boeing 777 aircraft crash
+E0069	T101	Event	Russia supplied rebels with BUK launcher	Some foreign governments concluded that Russia provided separatists with a BUK missile launcher which was used to shoot down MH-17
+E0070	T101	Event	SBU publishes intercepted call between rebels	The Security Service of Ukraine published intercepted phone calls allegedly between pro-Russian separatists as proof that rebels shot down MH-17
+E0071	T101	Event	Separatists denied having access to missile launchers	Pro-Russian separatists denied having access to weapons capable of shooting down a plane
+E0072	T101	Event	Some criticized attacks on Russia	Some Western peace advocates criticized what they claimed were baseless accusations of Russian involvement in the downing of MH17, claiming such accusations supported subversive agendas of the accusers
+E0074	T101	Event	War in Donbass	Armed conflict between Pro-Russian separatists and the Ukrainian military in Eastern Ukraine.
+E0045	T101	Filler	Ukrainian fighter jet	Ukrainian fighter jet that maybe have shot down MH-17
+E0075	T101	Filler	2014-07-17	Date on which the crash of MH-17 occurred
+E0076	T101	Filler	11,00-25,000 meters	Height range that a Buk missile is capable of
+E0077	T101	Filler	33,000 feet above sea level	Height at which MH-17 was flying when it was shot
+E0078	T101	Filler	A photo of a mechanic	Evidence from Bellingcat investigation
+E0079	T101	Filler	Photos and videos of BUK in eastern Ukraine	Many eyewitness photos and videos reportedly show a BUK missile launcher traveling through eastern Ukraine on 17 July 2014, in some cases missing one of its missiles
+E0080	T101	Filler	Photos and videos of crash aftermath	Amateur photos and videos of the crash and of supposed smoke trails caused by a missile
+E0081	T101	Filler	Satellite images of BUK in Ukraine	Satellite images reportedly showing that Ukrainian forces had BUK missile launchers deployed in areas within range of where MH-17 was likely hit
+E0082	T101	Filler	Satellite images of Ukrainian jets	Satellite images reportedly showing a Ukrainian jet firing a missile at MH-17
+E0083	T101	Filler	An-26 Ukrainian transport plane	Igor Strelkov claimed that the rebels successfully shot down a Ukrainian transport plane.
+E0084	T101	Filler	Buk 332	The Buk missile system reportedly used to shoot down MH-17
+E0085	T101	Filler	Malaysia Airlines Flight 17	Scheduled passenger flight from Amsterdam to Kuala Lumpur that crashed on 17 July 2014 while flying over eastern Ukraine
+E0086	T101	Filler	MiG-29	Ukrainian attack aircraft
+E0087	T101	Filler	Vladimir Putin's plane	State jet of Russian president Vladimir Putin
+E0088	T101	Filler	Su-25	Ukrainian attack aircraft
+E0089	T101	Filler	9M38M1 missile	Missile carrying the warhead that, according to the Dutch Safety Board, shot down MH-17
+E0090	T101	Filler	9N314M-type warhead 	Warhead that exploded near MH-17, causing it to crash, according to the Dutch Safety Board
+E0091	T101	Filler	Bodies on board MH-17	Bodies of previous plane crash victims allgedly loaded onto MH-17 in Amsterdam
+E0092	T101	Relation	Buk located in Kursk	Bellingcat investigation claims that photographic evidence shows the Buk allegedly used to shoot down MH-17 was based in Kursk
+E0093	T101	Relation	A bomb on board MH17	A bomb on board which exploded in flight, causing MH-17 to crash
+E0094	T101	Relation	Buk owned by ?	Ownership of the Buk that reportedly fired a missile at MH17
+E0095	T101	Relation	Buk located in Snizhne, Donetsk	Location of the Buk Missile according to Anton Herashchenko 
+E0098	T101	Relation	Igor Girkin leader of Donbass People's Militia	Igor Girkin is the leader of the Donbass People's Militia
+E0099	T101	Relation	MH-17 located in Torez	Location of the wreckage of MH-17
+E0100	T101	Relation	MH-17 owned by Malaysian Airlines	MH-17 belonged the Malaysian Airlines
+E0101	T101	Relation	MH-17 mistaken for military aircraft	Those accused of shooting down MH-17 may have mistaken the commercial plane for one owned by a military
+E0102	T101	Relation	Sergey Dubinsky in Russian military	Sergey Dubinsky, Russian retired officer
+E0105	T101	Relation	Ukrainian-owned Buk battery located in east Ukraine	A Ukrainian Buk Missile launcher was reportedly active in east Ukraine when MH-17 was shot
+E0106	T101	Relation	Vladimir Putin President of Russia	Vladimir Putin is the president of the Russian Federation

@@ -1,0 +1,167 @@
+tree_id	relationmention_id	relation_id	provenance	textoffset_startchar	textoffset_endchar	text_string	justification	type	subtype	attribute	start_date_type	start_date	end_date_type	end_date	kb_id
+779956	RM779956.000292	R779956.00001	HC00002YU	1901	1911	на самолете		genafl	apora		startunk		endunk		E0093
+779959	RM779959.000421	R779959.00002	IC0011SL2				Ukraine owns several BUK missile launchers, including one missing when the plane was shot down.	genafl	apora		startbefore	2014-07-17	endafter	2014-07-17	E0105
+779959	RM779959.002282	R779959.00003	IC0011SL2				Russia backs the pro-Russian separatists	genafl	spon		startbefore	2014-07-17	endafter	2014-07-17	NIL2299.779959
+779959	RM779959.000462	R779959.00004	IC0011SL2				BUK missile launcher may have been supplied by Russia.	genafl	apora	hedged	startbefore	2014-07-17	endbefore	2014-07-17	NIL487.779959
+779961	RM779961.000345	R779961.00005	IC0011SLG				BUK missile system believed to have shot down MH-17 is thought by some to be owned by Ukrainian militia forces	genafl	apora	hedged	startunk		endunk		E0094
+779961	RM779961.001189	R779961.00006	IC0011SLG				Ukrainian air force was not operating in the area where MH-17 crashed that day	phys	locnear	not	starton	2014-07-17	endon	2014-07-17	NIL1433.779961
+779970	RM779970.000455	R779970.00007	HC00038RX	459	483	находящийся на вооружении		genafl	apora		startunk		endunk		E0094
+779972	RM779972.000014	R779972.00008	HC00038RY	149	151	под	MIG-29 was operated by Ukrainian military pilot	genafl	apora		starton	2014-07-17	endon	2014-07-17	NIL257.779972
+779985	RM779985.000976	R779985.00009	HC00002Y5	1715	1725	working for	Spanish dispatcher allegedly worked for Ukrainian air traffic control	orgafl	empmem	hedged	startunk		endunk		NIL1032.779985
+779987	RM779987.002231	R779987.00010	HC00002Y7	4289	4292	have	Russia owns some BUK missile systems.	genafl	apora		startbefore	2014-07-17	endafter	2014-07-17	E0094
+779987	RM779987.002248	R779987.00010	HC00002Y7	4289	4292	have	The Armed Forces of Ukraine located in the crash-site are equipped with BUK missile systems	genafl	apora		startbefore	2014-07-17	endafter	2014-07-17	E0094
+779992	RM779992.001337	R779992.00011	HC00002Y9	372	380	Ukrainian		genafl	apora		startunk		endunk		E0094
+779992	RM779992.000014	R779992.00012	HC00002Y9	432	433	in		phys	locnear		startbefore	2014-07-18	endunk		E0105
+779992	RM779992.000204	R779992.00012	HC00002Y9	1231	1232	in		phys	locnear	not	startbefore	2014-07-18	endunk		E0105
+780192	RM780192.000014	R780192.00013	HC00002YU	1901	1902	на		genafl	apora		startbefore	2014-07-17	endon	2014-07-17	E0093
+780192	RM780192.000530	R780192.00013	HC00002YU	1901	1902	на		genafl	apora		startbefore	2014-07-17	endon	2014-07-17	E0093
+780288	RM780288.000014	R780288.00014	HC000Q7WU	3006	3007	из		phys	locnear		startunk		endunk		E0095
+780329	RM780329.000449	R780329.00016	HC000Q7WV	3008	3011	была		genafl	apora		startunk		endunk		E0094
+780341	RM780341.000254	R780341.00017	HC000Q7W6	8245	8253	поддержку	Russia is affiliated with separatists	genafl	more		startunk		endunk		NIL279.780341
+780342	RM780342.000614	R780342.00018	HC000Q7WN	1545	1551	наличие		genafl	apora		startunk		endunk		E0094
+780344	RM780344.001286	R780344.00019	HC000Q7W7	239	263	был приписан к российской		genafl	apora		startbefore	2014-07-17	endunk		E0094
+780384	RM780384.000014	R780384.00020	HC000Q7WA	6113	6115	что		genafl	apora		startunk		endunk		E0101
+780416	RM780416.000532	R780416.00021	HC000Q7WC	1173	1182	переданной		genafl	apora		startunk		endunk		E0094
+780416	RM780416.000657	R780416.00022	HC000Q7WC	1932	1953	оказался не в то время		genafl	apora		starton	2014-07-17	endon	2014-07-17	E0101
+780421	RM780421.000211	R780421.00023	HC000Q7WD	280	290	принадлежал		genafl	apora		startbefore	2014-07-17	endafter	2014-07-17	E0094
+780422	RM780422.000469	R780422.00024	HC000Q7WW	1210	1226	Бук-М1 ВС Украины		genafl	apora		startunk		endunk		E0105
+780423	RM780423.000621	R780423.00025	HC000Q7WE	6755	6764	украинской		genafl	apora		startunk		endunk		E0105
+780498	RM780498.000347	R780498.00026	HC000Q7WF	330	338	захватили		genafl	apora		startunk		endunk		E0094
+780498	RM780498.000393	R780498.00027	HC000Q7WF	976	982	считали		genafl	apora		startunk		endunk		E0101
+780560	RM780560.000014	R780560.00028	HC00058XU				Separatists shot down MH-17 mistaking it for military aircraft	genafl	apora		starton	2014-07-17	endon	2014-07-17	E0101
+780569	RM780569.000014	R780569.00029	IC0011X0F				MH-17 owned by Malaysian Airlines	genafl	apora		startbefore	2014-07-17	endafter	2014-07-17	E0100
+780571	RM780571.000014	R780571.00030	HC00002YM	3254	3271	13 km to the north	The plane was actually located more north than over Panteleimonivka	phys	locnear		starton	2014-07-17	endon	2014-07-17	NIL235.780571
+780571	RM780571.000210	R780571.00031	HC00002YM	3181	3184	over	The plane is centered over Panteleimonivka in the faked photo.	phys	locnear		starton	2014-07-17	endon	2014-07-17	NIL238.780571
+780571	RM780571.000241	R780571.00032	HC00000LS				This image shows that the jet was actually 50km away when it "shot down" MH17.	phys	locnear		starton	2014-07-17	endon	2014-07-17	NIL266.780571
+780783	RM780783.000433	R780783.00033	HC000Q7WI	2328	2329	на		phys	locnear		startunk		endunk		E0105
+780788	RM780788.001271	R780788.00034	HC000Q7X0	3435	3444	украинский		genafl	apora		startunk		endunk		E0094
+780803	RM780803.000691	R780803.00035	HC00002YN	8207	8208	in	Ukrainian fighter plane being in the area of the airliner	phys	locnear		startunk		endunk		NIL721.780803
+780803	RM780803.000732	R780803.00036	HC00002YN	8250	8255	nearby	Ukrainian ground to air missile units near the area of the airline.	phys	locnear		startunk		endunk		NIL757.780803
+780844	RM780844.000303	R780844.00037	HC000Q7WK	198	207	российской		genafl	apora		startunk		endunk		E0094
+780844	RM780844.000349	R780844.00038	HC000Q7WK	611	617	наличия	Russian-owned Buk located in east Ukraine	phys	locnear		starton	2014-07-17	endon	2014-07-17	NIL386.780844
+780862	RM780862.000014	R780862.00039	HC000Q8CL				MH-17 owned by Malaysian Airlines	genafl	apora		startbefore	2014-07-17	endunk		E0100
+780876	RM780876.000014	R780876.00040	HC00002YT	1016	1045	does not mean it was not there	BUK missile may have been in area where MH-17 was downed	phys	locnear	hedged	startunk		endunk		NIL91.780876
+780885	RM780885.000154	R780885.00041	HC00038RL	549	577	Vladimir Putin whose aircraft	Vladimir Putin owned a plane that was flying on the day MH-17 was shot down	genafl	apora		startbefore	2014-07-17	endafter	2014-07-17	NIL179.780885
+780885	RM780885.000341	R780885.00042	HC00038RL	2975	2987	denied having	Rebels did not own a BUK missile capable of reaching 33,000 feet	genafl	apora	not	startunk		endunk		NIL383.780885
+780885	RM780885.000597	R780885.00043	HC00038RL	9350	9364	in the vicinity	Two Ukrainian fighter jets may have been in the vicinity of MH-17	phys	locnear		starton	2014-07-17	endon	2014-07-17	NIL622.780885
+780885	RM780885.000538	R780885.00044	HC00038RL	9265	9278	along the path	BUK missiles may have been along the path of MH-17	phys	locnear		starton	2014-07-17	endon	2014-07-17	NIL625.780885
+780926	RM780926.000014	R780926.00045	HC000Q8CP				MH17 owned by Malaysian Airlines	genafl	apora		startbefore	2014-07-17	endunk		E0100
+780926	RM780926.000180	R780926.00046	HC000Q8CP				Bodies of previous plane crash victims allgedly loaded onto MH-17 in Amsterdam	phys	locnear		startunk		endunk		NIL205.780926
+780933	RM780933.000014	R780933.00047	HC000Q8CW				BUK owned by Ukraine	genafl	apora		startunk		endunk		E0094
+780945	RM780945.000107	R780945.00048	HC000Q8DI				MH17 owned by Malaysian Airlines	genafl	apora		startbefore	2014-07-17	endon	2014-07-17	E0100
+780945	RM780945.000014	R780945.00049	HC000Q8DI				Putin-President of Russia	genafl	more		startbefore	2014-07-17	endunk		E0106
+780956	RM780956.000125	R780956.00050	HC000Q8DX				Buk owned by pro-Russian separatists	genafl	apora		startbefore	2014-07-17	endunk		E0094
+780956	RM780956.000014	R780956.00051	HC000Q8DX				Igor Girkin	genafl	more		startbefore	2014-07-17	endunk		E0098
+780997	RM780997.000014	R780997.00052	HC000Q8EB				MH-17 mistaken for military aircraft	genafl	apora		starton	2014-07-17	endon	2014-07-17	E0101
+781046	RM781046.001291	R781046.00053	HC000T6IZ	5067	5079	на вооружении		genafl	apora		startunk		endunk		E0094
+781145	RM781145.000199	R781145.00054	HC00038RM	416	418	had		genafl	apora	hedged	startbefore	2014-07-17	endafter	2014-07-17	E0094
+781145	RM781145.000227	R781145.00054	HC00038RM	352	354	has		genafl	apora		startbefore	2014-07-17	endafter	2014-07-17	E0094
+781145	RM781145.000171	R781145.00055	HC00038RM	584	585	on	A Ukrainian plane was seen around right after MH17 was shot down.	phys	locnear		starton	2014-07-17	endon	2014-07-17	NIL196.781145
+781162	RM781162.000608	R781162.00056	HC000T6IW	1639	1642	была		genafl	apora		startunk		endunk		E0094
+781606	RM781606.000014	R781606.00057	HC000T6CB	13	21	причастна	Russia is responsible for MH17 crash	genafl	spon		startunk		endunk		NIL447.781606
+781681	RM781681.000014	R781681.00058	HC00038RQ	3225	3244	at the presumed site	Reports put the BUK missile at the site it was launched on MH-17	phys	locnear		starton	2014-07-12	endon	2014-07-12	NIL338.781681
+781685	RM781685.000409	R781685.00059	HC000T6C9	4380	4388	находился		phys	locnear		startunk		endunk		E0092
+781685	RM781685.000473	R781685.00060	HC000T6C9	1080	1089	российском		genafl	apora		startunk		endunk		E0094
+781685	RM781685.000501	R781685.00060	HC000T6C9	4510	4519	украинский		genafl	apora		startunk		endunk		E0094
+781694	RM781694.001233	R781694.00061	HC000T6C8	39194	39213	колонна повстанцев с		genafl	apora		startunk		endunk		E0094
+781694	RM781694.001258	R781694.00061	HC000T6C8	46001	46027	ЗРК Вооружённых сил Украины		genafl	apora		startunk		endunk		E0094
+781707	RM781707.000569	R781707.00062	HC000T6C7	41	54	из российского		genafl	apora		startunk		endunk		E0094
+781707	RM781707.000594	R781707.00063	HC000T6C7	683	697	контролировался	Pervomaysk was controlled by pro-Russian separatists	phys	locnear		startunk		endunk		NIL619.781707
+781710	RM781710.000410	R781710.00064	HC000T6C5	1	14	Бук ВС Украины		genafl	apora		startunk		endunk		E0094
+781730	RM781730.000374	R781730.00065	HC000T6C1	3449	3455	Украине		genafl	apora		startunk		endunk		E0094
+781734	RM781734.000243	R781734.00066	HC000T6BY	252	262	Малазийских		genafl	apora		startunk		endunk		E0100
+781792	RM781792.000251	R781792.00067	HC00038RT	2754	2764	belonged to	Ukrainian government owns the only anti-aircraft weapons in eastern Ukraine capable of bringing down MH-17 at 33,000 feet	genafl	apora		startunk		endunk		NIL1640.781792
+781792	RM781792.000192	R781792.00068	HC00038RT	2163	2170	in place	Ukrainian military had 2 BUK anti-aircraft missiles in eastern Ukraine on July 17, 2014	phys	locnear		starton	2014-07-17	endunk		NIL230.781792
+781792	RM781792.000302	R781792.00069	HC00038RT	2754	2764	belonged to	ethnic Russian rebels in eastern Ukraine do not own an anti-aircraft weapon capable of bringing down MH-17 at 33,000 feet	genafl	apora	not	startunk		endunk		NIL327.781792
+781792	RM781792.000352	R781792.00070	HC00038RT	4289	4294	absent	BUK missile was missing from a Ukrainian military base on July 17, 2014	phys	locnear	not	starton	2014-07-17	endunk		NIL377.781792
+781792	RM781792.000450	R781792.00070	IC0011TT0				BUK missile missing from a Ukrainian military base	phys	locnear	not	startunk		endunk		NIL377.781792
+781792	RM781792.001135	R781792.00070	IC0011TT3				BUK missile missing from a Ukrainian military base	phys	locnear	not	startunk		endunk		NIL377.781792
+781859	RM781859.000014	R781859.00071	HC000SOAD				BUK is owned by DNR	genafl	apora		startbefore	2014-07-17	endunk		E0094
+781859	RM781859.000531	R781859.00072	HC000T6BW	606	671	американские спецслужбы и бандеровцы преступили к ее осуществлению	U.S. intelligence and Ukrainian authorities planned crash	genafl	spon		startunk		endunk		NIL594.781859
+781895	RM781895.000242	R781895.00073	HC000T6BU	1245	1264	пассажирский самолет		genafl	apora		startunk		endunk		E0100
+781902	RM781902.000313	R781902.00074	HC000T6BT	1095	1105	принадлежал		genafl	apora		startunk		endunk		E0100
+781912	RM781912.000497	R781912.00075	HC000T6BS	7405	7413	поставили		genafl	apora		startbefore	2014-07-17	endafter	2014-07-17	E0094
+781912	RM781912.000433	R781912.00076	HC000T6BS	4292	4305	контролировали	Pervomaiskyi was controlled by pro-Russian separatists	phys	locnear		startbefore	2014-07-17	endunk		NIL458.781912
+781922	RM781922.000553	R781922.00077	HC000T6BR	3078	3093	российского бука		genafl	apora		startunk		endunk		E0094
+781970	RM781970.000573	R781970.00078	HC000T6BM	2575	2584	украинские		genafl	apora		startunk		endunk		E0094
+782060	RM782060.000557	R782060.00079	HC000T6BF	54	64	российского		genafl	apora		startunk		endunk		E0094
+782062	RM782062.000561	R782062.00080	HC000T6BE	6976	6977	из		genafl	apora		startunk		endunk		E0094
+782062	RM782062.000586	R782062.00080	HC000T6BE	735	735	с		phys	locnear		startunk		endunk		E0094
+782105	RM782105.000429	R782105.00081	HC000T6BD	1115	1118	есть		genafl	apora		startunk		endunk		E0094
+782132	RM782132.001107	R782132.00082	HC000T6BC	6135	6140	записи		genafl	apora		startunk		endunk		E0094
+782379	RM782379.000014	R782379.00084	IC0011SL7				Ukrainian-owned Buk battery located in east Ukraine	genafl	apora	hedged	startbefore	2014-07-17	endunk		E0105
+782401	RM782401.000014	R782401.00085	HC0000077				buk owned by pro-Russian separatists	genafl	apora		startbefore	2014-07-17	endunk		E0094
+782432	RM782432.001433	R782432.00087	HC00038RV	7436	7446	had neither	Ukrainian warplanes in crash area	phys	locnear	not	starton	2014-07-17	endon	2014-07-17	NIL1450.782432
+782432	RM782432.001375	R782432.00088	HC00038RV	7436	7446	had neither	Ukrainian Buk systems in crash area	phys	locnear	not	starton	2014-07-17	endbefore	2014-07-17	NIL1478.782432
+782432	RM782432.001461	R782432.00089	HC00038RV	7557	7564	contrary	Ukraine had BUK missiles in the area where MH17 was shot down	phys	locnear		starton	2014-07-17	endon	2014-07-17	NIL3374.782432
+782432	RM782432.001489	R782432.00090	HC00038RV	7557	7564	contrary	Ukraine had warplanes in the area where MH17 was shot down	phys	locnear		starton	2014-07-17	endon	2014-07-17	NIL3377.782432
+782432	RM782432.000443	R782432.00091	HC00038RV	1399	1404	linked	Russia linked to crash of MH17	genafl	spon	not	starton	2014-07-17	endon	2014-07-17	NIL460.782432
+784109	RM784109.000192	R784109.00092	HC000Q7MB	269	275	russian		genafl	apora		startunk		endunk		E0094
+784109	RM784109.000583	R784109.00092	HC000Q7MB	1288	1289	do		genafl	apora		startunk		endunk		E0094
+784109	RM784109.000209	R784109.00093	HC000Q7MB	285	288	from		phys	locnear		startunk		endunk		E0095
+784681	RM784681.000355	R784681.00094	HC000Q7VZ	3107	3109	had		genafl	apora		startunk		endunk		E0094
+784681	RM784681.000795	R784681.00095	HC000Q7VZ	22144	22151	presence		phys	locnear		startunk		endunk		E0105
+784681	RM784681.000321	R784681.00096	HC000Q7VZ	2637	2644	presence	Ukrainian Su25 fighter jets were present when MH17 was shot down	phys	locnear		startunk		endunk		NIL380.784681
+784681	RM784681.000338	R784681.00097	HC000Q7VZ	2913	2916	over	Ukrainian culpability by allowing civilian flights over a war zone.	phys	locnear		startunk		endunk		NIL406.784681
+785084	RM785084.000218	R785084.00098	HC000Q7MC	283	304	area it was fired from	BUK located in territory controlled by Russian-backed rebels	phys	locnear		startbefore	2014-07-17	endunk		NIL243.785084
+785084	RM785084.000344	R785084.00099	HC000Q7MC	4809	4817	never had	Separatists never owned air-defense systems like the BUK	genafl	apora	not	startunk		endunk		NIL369.785084
+785084	RM785084.000552	R785084.00100	HC000Q7MC	6207	6219	no longer had	Russia does not own the old type of BUK missile used to down MH17	genafl	apora	not	startunk		endunk		NIL577.785084
+788114	RM788114.001396	R788114.00101	HC000Q7X6	5051	5061	український		genafl	apora		startbefore	2014-07-17	endunk		E0094
+788114	RM788114.001229	R788114.00102	HC000Q7X6	975	975	з		phys	locnear		startbefore	2014-07-17	endunk		E0095
+788114	RM788114.000308	R788114.00103	HC000Q7X6	5040	5049	перебувати		phys	locnear		startbefore	2014-07-17	endunk		E0105
+788114	RM788114.001270	R788114.00104	HC000Q7X6	1026	1034	контролем	Snizhne controlled by Pro-Russian Separatists in time of crash	genafl	more		startbefore	2014-07-17	endunk		NIL1387.788114
+788114	RM788114.001300	R788114.00105	HC000Q7X6	2057	2068	контролювали	Zaroshchensky controlled by Ukraine in time of crash	genafl	more		startbefore	2014-07-17	endunk		NIL1390.788114
+788114	RM788114.001330	R788114.00106	HC000Q7X6	626	636	представляв	Malyshevksy represents Almaz-Antey	orgafl	empmem		startbefore	2016-09-28	endunk		NIL1393.788114
+794493	RM794493.000146	R794493.00107	HC000Q7V3	353	368	Russian-supplied		genafl	apora		startbefore	2014-07-17	endafter	2014-07-17	E0094
+794493	RM794493.000265	R794493.00107	HC000Q7V3	648	650	had		genafl	apora		starton	2014-07-17	endon	2014-07-17	E0094
+794493	RM794493.001237	R794493.00108	HC000Q7V3	3424	3435	did not have		phys	locnear	not	starton	2014-07-17	endon	2014-07-17	E0105
+794493	RM794493.001145	R794493.00109	HC000Q7V3	3930	3945	defense minister	Igor Strelkov is the Defense Minister of Peoples Republic of Donetsk	orgafl	empmem		startbefore	2014-07-17	endafter	2014-07-17	NIL1162.794493
+794795	RM794795.000419	R794795.00110	HC000Q7W0	238	246	possesses		genafl	apora		startbefore	2014-07-17	endunk		E0094
+794795	RM794795.000447	R794795.00110	HC000Q7W0	335	338	have		genafl	apora	not,hedged	startbefore	2014-07-17	endunk		E0094
+794795	RM794795.000840	R794795.00110	HC000Q7W0	10139	10142	have		genafl	apora		startbefore	2014-07-17	endunk		E0094
+794795	RM794795.001716	R794795.00110	HC000Q7W0	72960	72967	obtained		genafl	apora		startbefore	2014-07-17	endon	2014-07-17	E0094
+794795	RM794795.002044	R794795.00110	HC000Q7W0	120499	120502	have		genafl	apora	not	startbefore	2014-07-17	endunk		E0094
+794795	RM794795.001072	R794795.00111	HC000Q7W0	16931	16947	misidentification		genafl	apora	not	startbefore	2014-07-17	endunk		E0101
+794795	RM794795.001117	R794795.00111	HC000Q7W0	16931	16947	misidentification		genafl	apora		startbefore	2014-07-17	endunk		E0101
+794795	RM794795.000768	R794795.00112	HC000Q7W0	9427	9430	near		phys	locnear		starton	2014-07-17	endon	2014-07-17	E0105
+794795	RM794795.001282	R794795.00113	HC000Q7W0	30588	30595	vicinity	Su-25 was in the area of MH17	phys	locnear		starton	2014-07-17	endon	2014-07-17	NIL1307.794795
+794795	RM794795.001310	R794795.00113	HC000Q7W0	30588	30595	vicinity	Su-25 was in the area of MH17	phys	locnear	not	starton	2014-07-17	endon	2014-07-17	NIL1307.794795
+794795	RM794795.001657	R794795.00114	HC000Q7W0	70195	70202	vicinity	Ukraine fighter planes were in the area of MH17	phys	locnear		starton	2014-07-17	endon	2014-07-17	NIL1682.794795
+794795	RM794795.001853	R794795.00114	HC000Q7W0	93844	93851	vicinity	Ukraine fighter planes were in the area of MH17	phys	locnear	hedged	starton	2014-07-17	endon	2014-07-17	NIL1682.794795
+794795	RM794795.001741	R794795.00115	HC000Q7W0	73333	73341	organised	Who was behind the crash?	genafl	spon		starton	2014-07-17	endon	2014-07-17	NIL2759.794795
+794795	RM794795.001878	R794795.00115	HC000Q7W0	99867	99875	organized	Who was behind the crash?	genafl	spon		starton	2014-07-17	endon	2014-07-17	NIL2759.794795
+794795	RM794795.002130	R794795.00115	HC000Q7W0	135463	135475	to do with it	Who was behind the crash?	genafl	spon	not	starton	2014-07-17	endon	2014-07-17	NIL2759.794795
+794795	RM794795.001251	R794795.00116	HC000Q7W0	26963	26968	Putins	MH17 mistaken for Putin's plane	genafl	apora	not	startbefore	2014-07-17	endunk		NIL2762.794795
+794795	RM794795.002731	R794795.00116	HC000Q7W0	26963	26968	Putins	MH17 mistaken for Putin's plane	genafl	apora		startbefore	2014-07-17	endunk		NIL2762.794795
+796203	RM796203.000174	R796203.00117	HC000Q7VD	10069	10074	having		genafl	apora		startbefore	2014-07-25	endunk		E0094
+796203	RM796203.000311	R796203.00117	HC000Q7VD	14785	14788	have		genafl	apora		startbefore	2014-07-25	endunk		E0094
+796203	RM796203.000511	R796203.00118	HC000Q7VD	19951	19959	Ukrainian		genafl	apora		startbefore	2014-07-25	endunk		E0101
+796204	RM796204.000485	R796204.00119	HC000Q7W1	995	1000	having		genafl	apora	not,hedged	startunk		endunk		E0094
+796289	RM796289.000175	R796289.00120	HC000Q7V5	1330	1338	Ukrainian	Ukraine owned the missile that Russia believes shot down MH17	genafl	apora		startbefore	2014-07-17	endon	2014-07-17	NIL200.796289
+797289	RM797289.000514	R797289.00121	HC000Q7W2	23332	23338	possess		genafl	apora		startbefore	2014-07-20	endunk		E0094
+797289	RM797289.000542	R797289.00122	HC000Q7W2	23152	23165	responsibility	Who was responsible for MH17 crash?	genafl	spon		starton	2014-07-20	endon	2014-07-20	NIL580.797289
+797289	RM797289.000583	R797289.00122	HC000Q7W2	23956	23963	involved	Who was responsible for MH17 crash?	genafl	spon		starton	2014-07-20	endon	2014-07-20	NIL580.797289
+797289	RM797289.000608	R797289.00122	HC000Q7W2	23956	23963	involved	Who was responsible for MH17 crash?	genafl	spon	not	starton	2014-07-20	endon	2014-07-20	NIL580.797289
+797290	RM797290.001693	R797290.00123	HC000Q7V9	2592	2593	of		persoc	bus		startunk		endunk		E0098
+797290	RM797290.000437	R797290.00124	HC000Q7V9	2864	2865	In		phys	locnear		startbefore	2014-07-17	endbefore	2014-07-17	E0099
+797290	RM797290.000502	R797290.00125	HC000Q7V9	6843	6851	Ukrainian	two Ukrainian fighter jets	genafl	apora		startunk		endunk		NIL519.797290
+797295	RM797295.000711	R797295.00126	HC000Q7VA	4236	4240	blame	Russia ultimately behind crash	genafl	spon		starton	2014-07-XX	endbefore	2014-07-21	NIL736.797295
+797301	RM797301.000014	R797301.00127	HC00059XN				Ukraine has Buk missile systems	genafl	apora		startbefore	2014-07-17	endunk		E0094
+799770	RM799770.000164	R799770.00128	HC000Q7XD	1339	1348	російської		genafl	apora		startbefore	2014-07-17	endunk		E0069
+829994	RM829994.000083	R829994.00129	HC000T6J9	26	78	у "Бука", який збив Boeing 777, був російський екіпаж	Russian crew operated Buk	genafl	apora	not	starton	2014-07-17	endunk		NIL163.829994
+848829	RM848829.000238	R848829.00131	IC0019N54				Ukrainian Buk 332	genafl	apora		startbefore	2014-07-17	endunk		E0094
+848829	RM848829.000286	R848829.00132	IC0019N54				Ukrainian Buk 332 in Torez	phys	locnear	not	startbefore	2014-07-17	endunk		E0105
+848829	RM848829.000193	R848829.00133	IC0019N54				Ukrainian military controlled Torez	genafl	more	not	startbefore	2014-07-17	endunk		NIL210.848829
+848829	RM848829.000523	R848829.00134	HC000Q7X1	351	359	допомагає	Russia helping Pro-Russian Separatists in Ukraine	genafl	more		startbefore	2014-07-17	endunk		NIL544.848829
+855763	RM855763.000014	R855763.00135	HC000Q7XJ	1389	1396	належить	AFL 2074 belongs to Russia	genafl	apora		startunk		endunk		NIL289.855763
+864237	RM864237.000132	R864237.00136	HC000Q7X7	159	159	з	Igor Bezler leader of Pro-Russian Separatists	genafl	more		startbefore	2014-07-17	endunk		NIL149.864237
+874068	RM874068.000410	R874068.00137	HC000Q7XI	1023	1034	контрактнику	Igor Girkin affiliated with Russia	genafl	more		startbefore	2014-07-17	endunk		NIL442.874068
+874068	RM874068.000290	R874068.00138	HC000Q7XI	5651	5663	малайзійський	MH17 affiliated with Russia	genafl	apora	not	starton	2014-07-17	endon	2014-07-17	NIL445.874068
+874068	RM874068.000234	R874068.00139	HC000Q7XI	6733	6738	поїхав	Buk located in Pervomayske, Snizhne	phys	locnear		startbefore	2014-07-17	endunk		NIL451.874068
+874068	RM874068.000206	R874068.00140	HC000Q7XI	6496	6504	прямувати	Buk located in Pervomayske, Yasynuvatsku Rayon	phys	locnear	not	startbefore	2014-07-17	endunk		NIL454.874068
+874068	RM874068.000262	R874068.00141	HC000Q7XI	5883	5892	російський	Civilian plane affiliated with Russia near Flight MH17	genafl	apora		starton	2014-07-17	endon	2014-07-17	NIL457.874068
+907694	RM907694.000053	R907694.00142	HC000Q8C6				Buk in Snizhne	phys	locnear		starton	2014-07-17	endunk		E0095
+907694	RM907694.000271	R907694.00143	HC000Q8C6				MH-17 is affiliated with the Ukrainian military	genafl	apora	not	starton	2014-07-17	endon	2014-07-17	NIL696.907694
+907694	RM907694.000679	R907694.00143	HC000Q8C9				MH-17 is affiliated with the Ukrainian military	genafl	apora		starton	2014-07-17	endon	2014-07-17	NIL696.907694
+943476	RM943476.000252	R943476.00144	HC000T66Q	2513	2524	підтримувані	militants supported by Russia	partwhole	subsid	not	startbefore	2014-07-17	endunk		NIL307.943476
+943476	RM943476.000366	R943476.00145	HC000T66Q	2490	2501	контролювали	Pro-Russian separatists controlled Pervomayske village, Donetsk region	genafl	more	not	startbefore	2014-07-17	endunk		NIL391.943476

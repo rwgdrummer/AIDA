@@ -1,0 +1,32 @@
+{
+    "type": "VIDEO",
+    "input": {
+        "path": "/Users/ericrobertson/Documents/workspace/AIDA/python/test/data/sample",
+        "depth": 2,
+        "skip": 0,
+        "id": {
+            "name": "UniqueObjectIdGenerator",
+            "properties": {}
+        }
+    },
+    "extractors": [
+        {
+            "name": "AverageColor"
+        }
+    ],
+    "exporters": [
+        {
+            "name": "ShotThumbNails",
+            "properties": {
+                "destination": "thumbnails/"
+            }
+        },
+        {
+            "name": "RepresentativeFrameExporter"
+        }
+    ],
+    "database": {
+        "writer": "JSON",
+        "selector": "NONE"
+    }
+}

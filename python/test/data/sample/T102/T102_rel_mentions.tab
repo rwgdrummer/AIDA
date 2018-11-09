@@ -1,0 +1,47 @@
+tree_id	relationmention_id	relation_id	provenance	textoffset_startchar	textoffset_endchar	text_string	justification	type	subtype	attribute	start_date_type	start_date	end_date_type	end_date	kb_id
+779965	RM779965.000185	R779965.00001	HC00002Z1	99	100	to		phys	locnear	not	startunk		endunk		NIL223.779965
+779965	RM779965.000014	R779965.00002	HC00002Z1	787	788	in	Yanukovych is located in Sevastopol	phys	locnear	hedged	startunk		endunk		NIL226.779965
+779975	RM779975.000014	R779975.00003	HC00002Z4	1898	1899	in	Yanukovich is hiding in a monsastery	phys	locnear		startunk		endunk		NIL143.779975
+779984	RM779984.000384	R779984.00004	HC00002Z6	2268	2269	in	Yanukovych was in the United Arab Emirates	phys	locnear	not,hedged	startafter	2014-02-21	endunk		NIL401.779984
+780446	RM780446.000014	R780446.00007	HC000T6B6	6355	6361	roaming	Yanukovych was in Eastern Ukraine	phys	locnear		startunk		endunk		NIL1060.780446
+780573	RM780573.000133	R780573.00008	HC000T6B5	2534	2543	supporters	Yanukovych's relation with his oligarch supporters	persoc	unspc	hedged	startbefore	2014-02-22	endunk		NIL158.780573
+780573	RM780573.000161	R780573.00009	HC000T6B5	2556	2561	allies	Yanukovych's relation with his political allies	persoc	unspc	hedged	startbefore	2014-02-22	endunk		NIL186.780573
+780806	RM780806.000014	R780806.00010	HC000T6B3	6149	6150	in	Yanukovych is in Rostov-on-Don	phys	locnear		startafter	2014-02-22	endunk		NIL1239.780806
+780806	RM780806.001242	R780806.00010	HC000SP2Q				Yanukovych is in Rostov-on-Don	phys	locnear		startafter	2014-02-22	endunk		NIL1239.780806
+780909	RM780909.000014	R780909.00011	HC000T6AU	945	946	in	Yanukovych's plane in UAE	phys	locnear	hedged	startunk		endunk		NIL255.780909
+781139	RM781139.000014	R781139.00012	HC000T6AH	176	177	in	Yanukovych in Rostov-on-Don	phys	locnear		startafter	2014-02-22	endunk		NIL135.781139
+781139	RM781139.000138	R781139.00012	IC0011ZVI				Yanukovych in Rostov-on-Don	phys	locnear		startafter	2014-03-22	endunk		NIL135.781139
+781153	RM781153.000014	R781153.00013	HC000T69U	905	911	staying	Yanukovych in Barvikha	phys	locnear		startbefore	XXXX-05-25	endbefore	XXXX-05-25	NIL104.781153
+781205	RM781205.000316	R781205.00014	HC000Q7YM	445	457	на российской	Marine corps base in Sevastopol belongs to Russia	genafl	opra		startunk		endunk		NIL341.781205
+781205	RM781205.000344	R781205.00015	HC000Q7YM	420	430	находится в	Russian Marine corps base is located in Sevastopol, Crimea	phys	locnear		startunk		endunk		NIL369.781205
+781727	RM781727.000014	R781727.00016	HC000T6D0	423	424	in	Yanukovych in Crimea	phys	locnear		startunk		endunk		NIL648.781727
+781908	RM781908.000014	R781908.00017	HC000T6CV	171	172	in	Yanukovych in Crimea	phys	locnear		startunk		endunk		NIL78.781908
+783023	RM783023.000514	R783023.00018	HC000Q80O	50	55	Путина	Security guard works for Putin	genafl	more		startunk		endunk		NIL539.783023
+784079	RM784079.000014	R784079.00019	HC0005JK0				helicopters belong to Yanukovych	genafl	apora		startunk		endunk		E0240
+784815	RM784815.000014	R784815.00020	HC0005JLR				Yanukovych is hiding at monastery in Donetsk	phys	locnear		startunk		endunk		NIL394.784815
+789395	RM789395.000587	R789395.00021	HC000Q80W	425	438	президентскими	Cars belong to Yanukovych	genafl	apora		startunk		endunk		NIL612.789395
+789521	RM789521.000283	R789521.00022	HC000Q80Y	1989	1995	остался	Yanukovych stayed in Ukraine	phys	locnear		startunk		endunk		NIL308.789521
+789941	RM789941.000350	R789941.00025	HC000T6D1	964	973	расположен	Barvikha located near Moscow, Russia	phys	locnear		startunk		endunk		NIL375.789941
+789941	RM789941.000378	R789941.00026	HC000T6D1	939	947	находится	Yanukovych was in  Moscow suburb of Barvikha	phys	locnear		startunk		endunk		NIL403.789941
+893542	RM893542.000194	R893542.00029	HC000T6AE	688	689	in	Yanukovych in Moscow	phys	locnear		startunk		endunk		NIL219.893542
+893543	RM893543.000510	R893543.00030	HC000T69W	305	306	in	Yanukovych in Rostov-on-Don	phys	locnear		startbefore	2014-02-28	endunk		NIL535.893543
+893543	RM893543.000538	R893543.00030	HC000SQEE				Yanukovych in Rostov-on-Don	phys	locnear		startbefore	2014-02-28	endunk		NIL535.893543
+893543	RM893543.000563	R893543.00030	HC000SQED				Yanukovych in Rostov-on-Don	phys	locnear		startbefore	2013-02-28	endunk		NIL535.893543
+893543	RM893543.000588	R893543.00030	HC000SQEC				Yanukovych in Rostov-on-Don	phys	locnear		startbefore	2014-02-28	endunk		NIL535.893543
+893543	RM893543.000613	R893543.00030	HC000SQE1				Yanukovych in Rostov-on-Don	phys	locnear		startbefore	2014-02-28	endunk		NIL535.893543
+893543	RM893543.000638	R893543.00030	HC000SQE0				Yanukovych in Rostov-on-Don	phys	locnear		startbefore	2014-02-28	endunk		NIL535.893543
+893543	RM893543.000663	R893543.00030	HC000SQDZ				Yanukovych in Rostov-on-Don	phys	locnear		startbefore	2014-02-28	endunk		NIL535.893543
+893543	RM893543.000688	R893543.00030	HC000SQDY				Yanukovych in Rostov-on-Don	phys	locnear		startbefore	2014-02-28	endunk		NIL535.893543
+893543	RM893543.000713	R893543.00030	HC000SQDX				Yanukovych in Rostov-on-Don	phys	locnear		startbefore	2014-02-28	endunk		NIL535.893543
+893543	RM893543.000738	R893543.00030	HC000SQDW				Yanukovych in Rostov-on-Don	phys	locnear		startbefore	2014-02-28	endunk		NIL535.893543
+896710	RM896710.000409	R896710.00031	HC000T6CZ	1395	1396	in	Yanukovych holed up in a monastery	phys	locnear	hedged	startafter	2014-02-21	endunk		NIL426.896710
+896710	RM896710.000454	R896710.00032	HC000T6CZ	1482	1483	to	Yanukovych sailed to Russia	phys	locnear	hedged	startafter	2014-02-21	endunk		NIL471.896710
+896710	RM896710.000765	R896710.00033	HC000T6CZ	2523	2526	ally	Putin and Yanukovych are longtime allies	persoc	bus		startunk		endunk		NIL782.896710
+896710	RM896710.000793	R896710.00034	HC000T6CZ	2498	2504	harbour	Yanukovych in Russia	phys	locnear	not	startafter	2014-02-21	endunk		NIL810.896710
+897318	RM897318.000701	R897318.00035	HC000T6CY	6647	6648	in	Yanukovych in Barvikha	phys	locnear	hedged	startafter	2014-02-26	endon	2014-02-27	NIL726.897318
+897318	RM897318.000895	R897318.00036	HC000SYA8				Yanukovych in Rostov-on-Don	phys	locnear		starton	2014-02-27	endunk		NIL920.897318
+943182	RM943182.000278	R943182.00037	HC000Q81S	1552	1590	Януковича виявили в одному з монастирів	Yanukovych was seen in a monastery in eastern Ukraine	phys	locnear		startafter	2014-02-22	endunk		NIL303.943182
+943182	RM943182.000348	R943182.00037	HC000Q81S	1906	1915	спростував		phys	locnear	not	startafter	2014-02-22	endunk		NIL303.943182
+947655	RM947655.000435	R947655.00038	HC000T6FX	975	983	перебував	Yanukovych in Crimea	phys	locnear		starton	2014-02-23	endon	2014-02-23	NIL452.947655
+952112	RM952112.000191	R952112.00039	HC000T6FB	24845	24854	легітимним		genafl	more	not	startunk		endunk		E0247
+956366	RM956366.000014	R956366.00043	HC000T6DX	120	147	президента Віктора Януковича	Yanukovych was President	persoc	role	hedged	starton	2010-02-25	endon	2014-02-22	E0247

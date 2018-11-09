@@ -1,0 +1,376 @@
+tree_id	eventmention_id	event_id	provenance	textoffset_startchar	textoffset_endchar	text_string	justification	type	subtype	attribute	attribute2	start_date_type	start_date	end_date_type	end_date	kb_id
+779966	VM779966.000194	V779966.00001	HC00002ZT	1288	1295	shooting		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+779966	VM779966.000215	V779966.00002	HC00002ZT	1669	1672	call		contact	corresp			startunk		endunk		E0162
+779966	VM779966.000032	V779966.00003	HC00002ZT	412	422	opened fire	Sergei opened fire on the police	conflict	attack			starton	2014-02-20	endon	2014-02-20	NIL191.779966
+779969	VM779969.000032	V779969.00004	IC0011WRT				Defense of Maidan during the worst violence	conflict	attack		deliberate	starton	2014-02-18	endon	2014-02-20	E0156
+779969	VM779969.000220	V779969.00004	HC0005BR6				Maidan protesters confronting security services	conflict	demonstrate		deliberate	starton	2014-01-16	endon	2014-02-21	E0156
+779969	VM779969.000166	V779969.00005	HC0005BR6				Shooting by snipers on 20 February 2014	conflict	attack		deliberate	starton	2014-02-20	endon	2014-02-20	E0159
+779969	VM779969.000439	V779969.00006	HC0005BR6				Attacks with Molotov cocktails	conflict	attack		deliberate	startbefore	2014-02-18	endon	2014-02-20	E0161
+779969	VM779969.000274	V779969.00007	HC0005BR6				Medical aid to the injured people	movement	transper		deliberate	startbefore	2014-02-18	endafter	2014-02-20	NIL386.779969
+779973	VM779973.000268	V779973.00008	HC0005BSD				Barricades, bullet-pierced trees and other items of forensic evidence were removed	movement	transart		deliberate	startafter	2014-02-20	endafter	2014-02-20	E0152
+779973	VM779973.000032	V779973.00009	HC0005BSD				Euromaidan Revolution	conflict	attack	hedged	deliberate	starton	2013-11-21	endon	2014-02-22	E0156
+779973	VM779973.000166	V779973.00010	HC0005BSD				Shooting by snipers on 20 February 2014	conflict	attack		deliberate	starton	2014-02-20	endon	2014-02-20	E0159
+779973	VM779973.000130	V779973.00011	HC0005BSD				Yanukovych gives orders to shoot protesters	conflict	attack	hedged		starton	2014-02-18	endon	2018-02-20	E0167
+779986	VM779986.000754	V779986.00012	HC00001VI				Maidan protest	conflict	demonstrate			startbefore	2013-12-20	endbefore	2015-02-20	E0156
+779986	VM779986.000648	V779986.00013	HC00002ZU	2717	2724	shooting		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+779986	VM779986.000721	V779986.00013	HC00001VK				gunmen aim from Conservatory	conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+779986	VM779986.001604	V779986.00013	HC00002ZU	327	330	dead		life	die			starton	2014-02-20	endon	2014-02-20	E0159
+779986	VM779986.001647	V779986.00013	HC00002ZU	346	356	gunned down		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+779986	VM779986.001356	V779986.00014	HC00002ZU	5850	5856	arrived	snipers travelled to Maidan from Russia	movement	transper			startunk		endbefore	2014-02-20	NIL1394.779986
+780059	VM780059.000032	V780059.00015	HC0005EAO				Shooting by snipers on 20 February 2014	conflict	attack		deliberate	starton	2014-02-20	endon	2014-02-20	E0159
+780059	VM780059.000200	V780059.00016	HC0005EAO				Protesters shoot police by rifle provoking the conflict	conflict	attack		deliberate	starton	2014-02-19	endon	2014-02-20	NIL218.780059
+780060	VM780060.000032	V780060.00017	IC00150HZ				Euromaidan	conflict	attack		deliberate	starton	2014-11-21	endon	2014-02-21	E0156
+780060	VM780060.000327	V780060.00017	IC0014ZPU				Euromaidan	conflict	attack		deliberate	starton	2014-02-20	endon	2014-02-20	E0156
+780060	VM780060.000345	V780060.00017	IC0014ZPT				Euromaidan	conflict	attack		deliberate	startunk		endunk		E0156
+780060	VM780060.000363	V780060.00017	IC0014ZPD				Euromaidan	conflict	attack		deliberate	startunk		endunk		E0156
+780060	VM780060.000381	V780060.00017	IC0014YXH				Euromaidan	conflict	attack		deliberate	startunk		endunk		E0156
+780060	VM780060.000449	V780060.00017	IC0014YXH				Euromaidan	conflict	attack		deliberate	startunk		endunk		E0156
+780060	VM780060.000477	V780060.00017	IC0014ZQ3				Euromaidan	conflict	attack		deliberate	startunk		endunk		E0156
+780060	VM780060.000505	V780060.00017	IC0014ZQ2				Euromaidan	conflict	attack		deliberate	startunk		endunk		E0156
+780060	VM780060.000551	V780060.00017	IC0014ZPZ				Euromaidan	conflict	attack		deliberate	startunk		endunk		E0156
+780060	VM780060.000579	V780060.00018	IC0019N1S				Shootings shotguns and throw grenades at the protesters	conflict	attack		deliberate	startunk		endunk		E0160
+780060	VM780060.000708	V780060.00019	IC0019MZU				Shooting in Khmelnytskyi	conflict	attack		deliberate	starton	2014-02-19	endon	2014-02-19	NIL863.780060
+780075	VM780075.000656	V780075.00020	HC00002ZY	382	386	fired		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+780075	VM780075.000697	V780075.00020	HC00002ZY	491	495	fired		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+780075	VM780075.000730	V780075.00020	HC00002ZY	764	767	kill		life	die	not		starton	2014-02-20	endon	2014-02-20	E0159
+780075	VM780075.000791	V780075.00020	HC00002ZY	1697	1704	shooting		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+780075	VM780075.001016	V780075.00020	HC00002ZY	3829	3836	shooting		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+780075	VM780075.001630	V780075.00020	IC0019N5C				Snipers shoot from window	conflict	attack			startunk		endunk		E0159
+780075	VM780075.001681	V780075.00020	HC0005BPY				Sergei claims he fired on police	conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+780075	VM780075.001729	V780075.00020	IC0019N4H				Snipers shoot at security forces	conflict	attack			startunk		endunk		E0159
+780075	VM780075.001653	V780075.00021	HC0005BPY				Riot police fire on protesters	conflict	attack			startbefore	2014-02-20	endon	2014-02-20	NIL653.780075
+780075	VM780075.000893	V780075.00022	HC00002ZY	1137	1139	hid	Sergei hid his rifle in a post office controlled by protesters	movement	transart			starton	2014-02-20	endon	2014-02-20	NIL911.780075
+780295	VM780295.000032	V780295.00023	HC00002ZZ	783	791	shootings		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+780295	VM780295.000452	V780295.00023	HC00002ZZ	5888	5894	assault		conflict	attack		deliberate	starton	2014-02-20	endon	2014-02-20	E0159
+780295	VM780295.000662	V780295.00023	HC00002ZZ	443	447	slain		life	die			starton	2014-02-20	endon	2014-02-20	E0159
+780295	VM780295.000794	V780295.00024	HC00002ZZ	5896	5902	ordered		contact	broadcast			startbefore	2014-02-20	endon	2014-02-20	E0167
+780295	VM780295.000743	V780295.00025	HC00002ZZ	7100	7104	hired	Maidan leaders hired snipers	transaction	transmon	hedged		startbefore	2014-02-20	endafter	2014-02-20	NIL771.780295
+780340	VM780340.000257	V780340.00026	HC000Q7PG	3332	3339	стрелять		conflict	attack			starton	XXXX-02-20	endon	XXXX-02-20	E0159
+780340	VM780340.000324	V780340.00026	HC000Q7PG	7093	7100	стрельба		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+780381	VM780381.000032	V780381.00027	HC0000300	162	172	gunned down		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+780381	VM780381.000132	V780381.00027	HC0000300	255	261	killers		life	die			starton	2014-02-20	endon	2014-02-20	E0159
+780559	VM780559.000164	V780559.00028	HC000Q7PK	15215	15222	стрелять		conflict	attack			startunk		endunk		E0159
+780559	VM780559.000032	V780559.00029	HC000Q7PK	12248	12255	Стреляли		conflict	attack			startunk		endunk		E0160
+780559	VM780559.000238	V780559.00029	HC000Q7PK	20028	20034	настоял	police was shooting the protesters	conflict	attack			startunk		endunk		E0160
+780564	VM780564.000032	V780564.00030	HC0000301	581	586	firing		conflict	attack			starton	2013-02-20	endon	2013-02-20	E0159
+780572	VM780572.000226	V780572.00031	HC0000302	1703	1709	brought		movement	transart			startbefore	2014-02-20	endbefore	2014-02-20	E0157
+780572	VM780572.000032	V780572.00032	HC0000302	227	234	slayings		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+780572	VM780572.000293	V780572.00033	HC0000302	5584	5586	rid		movement	transart	hedged		startafter	2014-02-20	endafter	2014-02-20	E0163
+780572	VM780572.000053	V780572.00034	HC0000302	718	724	ordered		contact	contact			startbefore	2014-02-20	endon	2014-02-20	E0167
+780802	VM780802.000032	V780802.00035	HC000Q7P7	492	504	кровавую баню		conflict	attack			startunk		endunk		E0159
+780848	VM780848.000377	V780848.00036	HC00038S9	2417	2421	hired		transaction	transmon			startbefore	2014-03-05	endbefore	2014-03-05	E0155
+780848	VM780848.000408	V780848.00036	HC00038S9	2417	2421	hired		personnel	startpos			startbefore	2014-03-05	endunk		E0155
+780848	VM780848.000032	V780848.00037	HC00038S9	263	269	killing		life	die			startbefore	2014-03-05	endbefore	2014-03-05	E0159
+780848	VM780848.000278	V780848.00037	HC00038S9	611	617	killing		life	die			startbefore	2014-03-05	endbefore	2014-03-05	E0159
+780848	VM780848.000311	V780848.00037	HC00038S9	263	269	killing		conflict	attack			startbefore	2014-03-05	endbefore	2014-03-05	E0159
+780848	VM780848.000344	V780848.00037	HC00038S9	611	617	killing		conflict	attack			startbefore	2014-03-05	endbefore	2014-03-05	E0159
+780848	VM780848.000466	V780848.00037	HC00028K2				killing of police by snipers	conflict	attack			startbefore	2014-03-05	endbefore	2014-03-05	E0159
+780848	VM780848.000499	V780848.00037	HC00028K2				killing of police by snipers	life	die			startbefore	2014-03-05	endbefore	2014-03-05	E0159
+780848	VM780848.000527	V780848.00037	HC00028K2				killing of protesters by snipers	conflict	attack			startbefore	2014-03-05	endbefore	2014-03-05	E0159
+780848	VM780848.000555	V780848.00037	HC00028K2				killing of protesters by snipers	life	die			startbefore	2014-03-05	endbefore	2014-03-05	E0159
+780848	VM780848.000445	V780848.00038	HC00028K2				Yanukovych ordered shootings	contact	broadcast	hedged		startbefore	2014-03-05	endbefore	2014-03-05	E0167
+780888	VM780888.000092	V780888.00039	HC00028K2				snipers shot at police	conflict	attack			startbefore	2014-03-05	endbefore	2014-03-05	E0159
+780888	VM780888.000140	V780888.00039	HC00028K2				snipers shot at police	life	die			startbefore	2014-03-05	endbefore	2014-03-05	E0159
+780888	VM780888.000158	V780888.00039	HC00028K2				snipers shot at protesters	conflict	attack			startbefore	2014-03-05	endbefore	2014-03-05	E0159
+780888	VM780888.000176	V780888.00039	HC00028K2				snipers shot at protesters	life	die			startbefore	2014-03-05	endbefore	2014-03-05	E0159
+780888	VM780888.000032	V780888.00040	HC00028K2				Yanukovych ordered shooting at Maidan	contact	broadcast			startbefore	2014-03-05	endbefore	2014-03-05	E0167
+780910	VM780910.000032	V780910.00041	HC00028MS				snipers fired on protesters	conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+780910	VM780910.000206	V780910.00041	HC00028MS				snipers fired on police	conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+780910	VM780910.000257	V780910.00041	HC00028MS				snipers killed protesters	life	die			starton	2014-02-20	endon	2014-02-20	E0159
+780910	VM780910.000295	V780910.00041	HC00028MS				snipers killed policemen	life	die			starton	2014-02-20	endon	2014-02-20	E0159
+780977	VM780977.000032	V780977.00042	HC000Q805	757	762	killed		life	die			starton	2014-02-XX	endon	2014-02-XX	E0159
+780977	VM780977.000195	V780977.00042	HC000Q805	757	762	killed		conflict	attack			starton	2014-02-XX	endon	2014-02-XX	E0159
+780999	VM780999.000032	V780999.00043	HC000Q7ZP	771	776	killed		conflict	attack			starton	2014-02-XX	endon	2014-02-XX	E0159
+780999	VM780999.000181	V780999.00043	HC000Q7ZP	771	776	killed		conflict	attack			starton	2014-02-XX	endon	2014-02-XX	E0159
+780999	VM780999.000219	V780999.00043	HC000Q7ZP	864	870	killing		life	die			starton	2014-02-XX	endon	2014-02-XX	E0159
+780999	VM780999.000257	V780999.00043	HC000Q7ZP	864	870	killing		life	die			starton	2014-02-XX	endon	2014-02-XX	E0159
+780999	VM780999.000295	V780999.00044	HC000Q7ZP	1356	1362	calling		contact	broadcast			starton	2014-02-XX	endon	2014-02-XX	E0167
+781080	VM781080.000032	V781080.00045	HC000Q7PN	512	519	стреляли		conflict	attack			startunk		endunk		E0155
+781080	VM781080.000169	V781080.00046	HC000Q7PN	2343	2347	бойня		conflict	attack		deliberate	startunk		endunk		E0167
+781152	VM781152.000203	V781152.00047	HC000Q7PO	247	259	стрельбу вели		conflict	attack			starton	2014-02-18	endon	2014-02-18	E0159
+781152	VM781152.000162	V781152.00048	HC000Q7PO	84	93	стреляет в		conflict	attack			starton	2014-02-18	endon	2014-02-18	E0160
+781160	VM781160.000383	V781160.00049	HC000Q7ZQ	521	524	fire		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+781160	VM781160.000467	V781160.00049	HC000Q7ZQ	556	562	killing		life	die			starton	2014-02-20	endon	2014-02-20	E0159
+781160	VM781160.000401	V781160.00050	HC000Q7ZQ	510	516	ordered		contact	broadcast			starton	2014-02-20	endon	2014-02-20	E0167
+781188	VM781188.000138	V781188.00051	HC000Q7QP	155	162	обстрела		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0155
+781206	VM781206.000032	V781206.00052	HC000Q7PP	244	255	организовали		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0155
+781206	VM781206.000222	V781206.00053	HC000Q7PP	969	977	атаковали		conflict	attack			starton	XXXX-02-20	endon	XXXX-02-20	E0159
+781210	VM781210.000032	V781210.00054	HC000Q7PR	245	251	стрелял		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+781210	VM781210.000245	V781210.00055	HC000Q7PR	3056	3078	отдал преступный приказ		conflict	attack			startunk		endunk		E0167
+781212	VM781212.000242	V781212.00056	HC000Q7PS	1586	1592	погибли		conflict	attack			starton	XXXX-02-18	endon	XXXX-02-18	E0159
+781212	VM781212.000032	V781212.00057	HC000Q7PS	553	586	выдвинуть и поддерживать обвинение		justice	chargeindict			startunk		endunk		E0167
+781212	VM781212.000278	V781212.00057	HC000Q7PS	4001	4012	расстреливал		conflict	attack			startunk		endunk		E0167
+781212	VM781212.000334	V781212.00057	HC000Q7PS	5702	5711	не отдавал		conflict	attack	not		startunk		endunk		E0167
+781243	VM781243.000381	V781243.00058	HC000Q806	8635	8639	order		contact	broadcast			starton	2014-02-18	endon	2014-02-18	E0154
+781243	VM781243.000425	V781243.00058	HC000Q806	8656	8662	deliver		movement	transart			starton	2014-02-18	endbefore	2014-02-20	E0154
+781243	VM781243.000032	V781243.00059	HC000Q806	7858	7863	murder		conflict	attack			startbefore	2014-02-20	endon	2014-02-20	E0159
+781243	VM781243.000264	V781243.00059	HC000Q806	7858	7863	murder		life	die			starton	2014-02-20	endon	2014-02-20	E0159
+781243	VM781243.000302	V781243.00059	HC000Q806	6120	6125	wounds		conflict	attack			starton	2014-02-18	endon	2014-02-20	E0159
+781243	VM781243.000325	V781243.00059	HC000Q806	6120	6125	wounds		life	injure			starton	2014-02-18	endon	2014-02-20	E0159
+781243	VM781243.000348	V781243.00059	HC000Q806	6137	6140	died		life	die			starton	2014-02-18	endon	2014-02-20	E0159
+781243	VM781243.000486	V781243.00059	HC000Q806	687	694	ordering		contact	broadcast			starton	2014-02-20	endon	2014-02-20	E0159
+781251	VM781251.000032	V781251.00060	HC000Q7QQ	5768	5772	Огонь		conflict	attack			startunk		endunk		E0167
+781693	VM781693.000032	V781693.00061	HC000Q7PT	415	422	стреляет		conflict	attack			startunk		endunk		E0159
+781695	VM781695.000032	V781695.00062	HC000Q7PU	89	101	расстреливали		conflict	attack			starton	XXXX-02-20	endon	XXXX-02-20	E0159
+781695	VM781695.000125	V781695.00062	HC000Q7PU	7390	7395	убивал		conflict	attack			startunk		endunk		E0159
+781702	VM781702.000032	V781702.00063	IC0019MYO				Berkut was shooting and throwing granades at the protestors	conflict	attack			startunk		endunk		E0160
+781705	VM781705.000032	V781705.00064	IC0019N0V				Shootings  by Berkut riot police	conflict	attack			startunk		endunk		E0159
+781705	VM781705.000202	V781705.00064	IC0019N0V				Shootings by Berkut Riot police	conflict	attack			startunk		endunk		E0159
+781708	VM781708.000215	V781708.00065	HC000Q7R8	2721	2730	стреляли в		conflict	attack			startunk		endunk		E0155
+781708	VM781708.000148	V781708.00066	HC000Q7R8	1971	1979	выстрелов		conflict	attack			startunk		endunk		E0159
+781708	VM781708.000032	V781708.00067	HC000Q7R8	165	180	выполнял приказы		conflict	attack			startunk		endunk		E0167
+781708	VM781708.000184	V781708.00068	HC000Q7R8	2297	2309	сами стреляли	Maidan Protestors were shooting at Berkut	conflict	attack			startunk		endunk		NIL212.781708
+781717	VM781717.000192	V781717.00069	HC000Q7PW	1638	1653	были расстреляны		conflict	attack			startunk		endunk		E0159
+781717	VM781717.000246	V781717.00069	HC000Q7PW	4272	4281	были убиты		conflict	attack			startunk		endunk		E0159
+781717	VM781717.000159	V781717.00070	HC000Q7PW	847	853	стрелял	Maidan Protestors [Sergei] started shootings first	conflict	attack			startunk		endunk		NIL145.781717
+781741	VM781741.000032	V781741.00071	HC000Q7PY	76	88	был обстрелян		conflict	attack			starton	XXXX-02-20	endon	XXXX-02-20	E0159
+781743	VM781743.000128	V781743.00072	HC000Q7PZ	681	697	началась стрельба		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+781743	VM781743.000032	V781743.00073	HC000Q7PZ	13	20	стрельбу	Berkut were first who started shootings at the proterstors	conflict	attack			starton	2014-02-20	endon	2014-02-20	NIL125.781743
+781786	VM781786.000240	V781786.00074	HC000Q7Q1	1428	1435	стрельбы		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+781786	VM781786.000281	V781786.00074	HC000Q7Q1	4228	4235	стреляли		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+781786	VM781786.000132	V781786.00075	HC000Q7Q1	789	796	убийства		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0167
+781790	VM781790.000032	V781790.00076	HC000Q7Q3	322	332	расстрелами		conflict	attack		deliberate	starton	2014-02-XX	endon	2014-02-XX	E0167
+781829	VM781829.000032	V781829.00077	HC000Q7QR	19	22	убил	Ivan Bubenchik [ Maidan Protestor] started shootings at Berkut	conflict	attack			starton	2014-02-20	endon	2014-02-20	NIL129.781829
+781829	VM781829.000150	V781829.00078	HC000Q7QR	3733	3738	принёс	Maidan protestors used AK-47	movement	transart			starton	2014-02-20	endon	2014-02-20	NIL214.781829
+781832	VM781832.000032	V781832.00079	HC00057FV				Berkut is convicted by prosecutors for shootings at the protesters	justice	chargeindict			startunk		endunk		E0159
+781841	VM781841.000032	V781841.00080	HC000Q7Q9	1488	1497	вели огонь		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0167
+781841	VM781841.000168	V781841.00081	HC000Q7Q9	2126	2132	стрелял	Maidan protesters were shooting at Berkut	conflict	attack			startunk		endunk		NIL196.781841
+781845	VM781845.000032	V781845.00082	HC000Q7QA	197	201	убиты		conflict	attack			startunk		endunk		E0155
+781845	VM781845.000131	V781845.00083	HC000Q7QA	1039	1059	начал первым стрелять	Ivan Bubenchik [Maidan Protester} started shooting at Berkut	conflict	attack			starton	2014-XX-XX	endon	2014-XX-XX	NIL177.781845
+781847	VM781847.000032	V781847.00084	HC000Q7QB	881	887	стрелял	Sergei [Maidan Protestor] started shootings at the Berkut Police	conflict	attack			starton	XXXX-02-20	endon	XXXX-02-20	NIL195.781847
+781850	VM781850.000032	V781850.00085	HC000Q7QT	7800	7817	массовым убийствам		conflict	attack			startunk		endunk		E0167
+781914	VM781914.000260	V781914.00086	HC000Q7ZT	2164	2168	hired		personnel	startpos	hedged		startunk		endunk		E0155
+781914	VM781914.000032	V781914.00087	HC000Q7ZT	2111	2114	shot		conflict	attack			starton	2014-02-XX	endon	2014-02-XX	E0159
+781914	VM781914.000184	V781914.00087	HC000Q7ZT	598	603	killed		life	die			starton	2014-02-XX	endon	2014-02-XX	E0159
+781914	VM781914.000222	V781914.00087	HC000Q7ZT	619	625	wounded		life	injure			starton	2014-02-XX	endon	2014-02-XX	E0159
+781930	VM781930.000032	V781930.00088	HC000Q7ZU	5654	5662	attacking		conflict	attack	hedged		starton	2014-02-20	endon	2014-02-20	E0159
+781930	VM781930.000207	V781930.00088	HC000Q7ZU	5610	5614	fired		conflict	attack	hedged		starton	2014-02-20	endon	2014-02-20	E0159
+781930	VM781930.000245	V781930.00088	HC000Q7ZU	1209	1217	murdering		life	die			starton	2014-02-20	endon	2014-02-20	E0159
+781930	VM781930.000283	V781930.00088	HC000Q7ZU	1233	1240	injuring		life	injure			starton	2014-02-20	endon	2014-02-20	E0159
+782196	VM782196.000032	V782196.00089	HC000Q7QG	1037	1060	подозреваются в стрельбе		justice	chargeindict			startunk		endunk		E0159
+782196	VM782196.000199	V782196.00090	HC000Q7QG	1115	1153	отрицают свою причастность к убийствам.		conflict	attack	not		startunk		endunk		E0167
+782234	VM782234.000032	V782234.00091	HC000Q7QK	388	395	стреляли		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+782234	VM782234.000179	V782234.00091	HC000Q7QK	1686	1706	начал первым стрелять		conflict	attack			starton	2014-XX-XX	endon	2014-XX-XX	E0159
+782237	VM782237.000032	V782237.00092	HC000Q7ZV	219	226	killings		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+782237	VM782237.000348	V782237.00092	HC000Q7ZV	219	226	killings		life	die			starton	2014-02-20	endon	2014-02-20	E0159
+782237	VM782237.000386	V782237.00092	HC000Q7ZV	2200	2205	killed		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+782237	VM782237.000452	V782237.00092	HC000Q7ZV	2200	2205	killed		life	die			starton	2014-02-20	endon	2014-02-20	E0159
+782237	VM782237.000490	V782237.00092	HC000Q7ZV	3672	3678	killing		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+782237	VM782237.000533	V782237.00092	HC000Q7ZV	3672	3678	killing		life	die			starton	2014-02-20	endon	2014-02-20	E0159
+782237	VM782237.000576	V782237.00092	HC000Q7ZV	4340	4347	shooting		conflict	attack			starton	2014-02-XX	endon	2014-02-XX	E0159
+782237	VM782237.000708	V782237.00092	HC000Q7ZV	2200	2205	killed		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+782237	VM782237.000746	V782237.00092	HC000Q7ZV	2200	2205	killed		life	die			starton	2014-02-20	endon	2014-02-20	E0159
+782237	VM782237.001190	V782237.00092	HC000Q7ZV	3672	3678	killing		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+782237	VM782237.001233	V782237.00092	HC000Q7ZV	3672	3678	killing		life	die			starton	2014-02-20	endon	2014-02-20	E0159
+782256	VM782256.000151	V782256.00093	HC000Q7R9	639	643	убили		conflict	attack	hedged		startunk		endunk		E0155
+782256	VM782256.000032	V782256.00094	HC000Q7R9	228	235	стреляли		conflict	attack	hedged		startunk		endunk		E0159
+782264	VM782264.000225	V782264.00095	HC000T6CP	941	966	стрельба была организована		justice	chargeindict			startunk		endunk		E0155
+782264	VM782264.000032	V782264.00096	HC000T6CP	485	504	снайперской стрельбы		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+782264	VM782264.000467	V782264.00096	HC000T6CP	20761	20769	расстреле		conflict	attack	hedged		startunk		endunk		E0159
+782264	VM782264.000508	V782264.00097	HC000T6CP	4820	4836	телефонной беседе		contact	corresp			starton	XXXX-02-26	endon	XXXX-02-26	E0162
+782264	VM782264.000145	V782264.00098	HC000T6CP	775	782	обвиняют		justice	chargeindict			startunk		endunk		E0167
+782264	VM782264.000261	V782264.00099	HC000T6CP	1350	1368	выдвинуты обвинения	Berkut was accused in starting shootings at the protestors	justice	chargeindict			startunk		endunk		NIL289.782264
+782360	VM782360.000032	V782360.00100	HC0005EKC				Anti-government protesters attacked by snipers	conflict	attack			startunk		endunk		E0159
+782360	VM782360.000165	V782360.00100	HC0005EKC				Anti-government protesters attacked	conflict	attack			startunk		endunk		E0159
+782404	VM782404.000377	V782404.00101	HC000Q7ZW	2109	2119	opened fire		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+782404	VM782404.000423	V782404.00101	HC000Q7ZW	2396	2401	seized	protesters seized weapons	transaction	transown			startunk		endunk		E0159
+782404	VM782404.000467	V782404.00101	HC000Q7ZW	2621	2626	firing		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+782404	VM782404.000508	V782404.00101	HC000Q7ZW	2960	2963	shot		conflict	attack	hedged		startunk		endunk		E0159
+782404	VM782404.000526	V782404.00101	HC000Q7ZW	2929	2932	dead		life	die			startunk		endunk		E0159
+782404	VM782404.000602	V782404.00101	IC0011WYH				protester who died	life	die			startunk		endunk		E0159
+782404	VM782404.000630	V782404.00101	IC0011WYG				protesters who died	life	die			startunk		endunk		E0159
+782404	VM782404.000676	V782404.00101	IC0011WYA				injured protester	life	injure			startunk		endunk		E0159
+782415	VM782415.000252	V782415.00102	HC000Q807	4913	4916	shot		conflict	attack			starton	2014-02-18	endon	2014-02-20	E0159
+782415	VM782415.000356	V782415.00102	HC000Q807	4918	4921	dead		life	die			starton	2014-02-18	endon	2014-02-20	E0159
+782415	VM782415.000389	V782415.00102	HC000Q807	5246	5249	shot		conflict	attack			starton	2014-02-18	endon	2014-02-20	E0159
+782415	VM782415.000170	V782415.00103	HC000Q807	3299	3303	clash	Clashes following attempted march to presidential palace	conflict	attack			startafter	2013-XX-XX	endbefore	2014-05-XX	NIL216.782415
+782415	VM782415.000219	V782415.00104	HC000Q807	3299	3303	clash	Clashes following attempted march to presidential palace	conflict	attack			startafter	2013-XX-XX	endbefore	2014-05-XX	NIL216.782415
+782415	VM782415.000456	V782415.00105	HC000Q807	3299	3303	clash	Clashes following attempted march to presidential palace	conflict	attack			startafter	2013-XX-XX	endbefore	2014-05-XX	NIL216.782415
+782429	VM782429.000158	V782429.00106	IC0015NJ1	121	132	обстреливать		conflict	attack	hedged		starton	2014-02-20	endon	2014-02-20	E0159
+782429	VM782429.000199	V782429.00106	HC000Q8BL				Snipers were shooting at the Portersters	conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+782429	VM782429.000032	V782429.00107	HC000Q8BP				Photo with capture protesters broke through to the building of the Ukrainian parliament	movement	transper			starton	2014-02-20	endon	2014-02-20	NIL155.782429
+782430	VM782430.000408	V782430.00108	HC000Q7ZX	3981	3984	burn		conflict	attack			startbefore	2014-02-20	endbefore	2014-02-20	E0165
+782430	VM782430.000166	V782430.00109	HC000Q7ZX	45	48	Shot	Ivan Bubenchyk shoots police	conflict	attack			starton	2014-02-20	endon	2014-02-20	NIL297.782430
+782430	VM782430.000300	V782430.00110	HC000Q7ZX	186	189	died	Ivan Bubenchyk shoots police	life	die			starton	2014-02-20	endon	2014-02-20	NIL297.782430
+782430	VM782430.000359	V782430.00111	HC000Q7ZX	3801	3808	shooting	Special forces were shot at with hunting guns	conflict	attack			startbefore	2014-02-20	endbefore	2014-02-20	NIL405.782430
+782430	VM782430.000457	V782430.00112	HC000Q7ZX	137	140	shot	Protesters shot on Instytutska street	conflict	attack			starton	2014-02-20	endon	2014-02-20	NIL495.782430
+782430	VM782430.000606	V782430.00113	HC000Q7ZX	7035	7038	died	Protesters shot on Instytutska street	life	die			starton	2014-02-20	endon	2014-02-20	NIL495.782430
+782431	VM782431.000105	V782431.00114	HC000Q7P6	147	154	стреляли		conflict	attack			startunk		endunk		E0159
+782431	VM782431.000243	V782431.00114	HC000Q7P6	4420	4438	согласился стрелять		conflict	attack	not		startunk		endunk		E0159
+782431	VM782431.000355	V782431.00114	IC0019NB3				Snipers shooting at	conflict	attack			startunk		endunk		E0159
+782431	VM782431.000423	V782431.00114	IC0019N3W				Maidan protesters carrying injured protesters into the building	life	injure			startunk		endunk		E0159
+782431	VM782431.000454	V782431.00114	IC0019MYS				Snipers of unknown identity shooting at the group of the protesters	conflict	attack			startunk		endunk		E0159
+782431	VM782431.000141	V782431.00115	HC000Q7P6	1118	1122	штурм	Military Assult of Maidan by Berkut and Internal Troops of Ukraine	conflict	attack			startunk		endunk		NIL190.782431
+782431	VM782431.000271	V782431.00116	HC000Q7P6	4939	4953	вяло обстрелять	Snipers hired by Ukrainian goverment fired at Berkut to start a provocation	conflict	attack	hedged		startunk		endunk		NIL299.782431
+782431	VM782431.000302	V782431.00117	HC000Q7P6	7273	7283	перестрелка	Exchange of gunfire between protestors and Berkut	conflict	attack			startunk		endunk		NIL330.782431
+782431	VM782431.000392	V782431.00118	IC0019N42				Maidan protesters did not shoot at the backs of ther protesters	conflict	attack	not		startunk		endunk		NIL420.782431
+782431	VM782431.000482	V782431.00119	IC0019MYS				Group of Berkut does not shoot at anyone	conflict	attack	not		startunk		endunk		NIL510.782431
+782491	VM782491.000259	V782491.00120	HC000Q7PM	1088	1096	убивающие		conflict	attack			startunk		endunk		E0159
+782491	VM782491.000295	V782491.00121	HC000Q7PM	449	467	Телефонный разговор		contact	corresp			starton	XXXX-02-26	endon	XXXX-02-26	E0162
+782491	VM782491.000331	V782491.00122	HC000Q7PM	1714	1721	показала	Olga Bogomolets informed Urams Paet that same snipers shot at both protesters and police	contact	corresp			startunk		endunk		NIL359.782491
+782491	VM782491.000362	V782491.00123	HC000Q7PM	2609	2622	расследование,	New Ukrainian government blames Berkut in shootings at protesters	justice	chargeindict			startunk		endunk		NIL390.782491
+782717	VM782717.000852	V782717.00124	HC000Q809	3288	3292	shoot		conflict	attack			starton	2014-02-18	endafter	2014-02-20	E0159
+782717	VM782717.000883	V782717.00124	HC000Q809	3785	3793	shootings		conflict	attack			starton	2014-02-18	endon	2014-02-20	E0159
+782717	VM782717.000954	V782717.00124	HC000Q809	7368	7373	firing		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+782717	VM782717.001046	V782717.00124	HC000Q809	1006	1015	casualties		life	die			starton	2014-03-18	endon	2014-02-20	E0159
+782717	VM782717.000703	V782717.00125	HC000Q809	1664	1667	call		contact	corresp			starton	2014-02-26	endon	2014-02-26	E0162
+782717	VM782717.001280	V782717.00126	HC000Q809	1563	1569	ordered	Opposition leaders ordered the shootings	contact	contact			startbefore	2014-02-18	endbefore	2014-02-18	NIL700.782717
+783004	VM783004.000106	V783004.00127	HC000Q80A	631	634	fire		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+783004	VM783004.000163	V783004.00127	HC000Q80A	993	1001	shootings		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+783004	VM783004.000217	V783004.00127	HC000Q80A	1401	1408	shooting		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+783004	VM783004.000302	V783004.00128	HC000Q80A	3065	3076	conversation		contact	corresp			starton	2014-02-25	endon	2014-02-25	E0162
+783641	VM783641.000062	V783641.00129	HC000Q7ZY	1462	1468	killing		conflict	attack			starton	2014-02-21	endon	2014-02-21	E0159
+783641	VM783641.000225	V783641.00129	HC000Q7ZY	2714	2719	denial		conflict	attack			starton	2014-02-21	endon	2014-02-21	E0159
+791343	VM791343.000234	V791343.00130	HC000Q80D	440	447	shooting		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+791343	VM791343.000280	V791343.00130	HC000Q80D	440	447	shooting		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+791343	VM791343.000323	V791343.00130	HC000Q80D	1025	1028	shot		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+791343	VM791343.000361	V791343.00130	HC000Q80D	636	639	dead		life	die			starton	2014-02-20	endon	2014-02-20	E0159
+791343	VM791343.000417	V791343.00130	HC000Q80D	636	639	dead		life	die			starton	2014-02-20	endon	2014-02-20	E0159
+791343	VM791343.000455	V791343.00130	HC000Q80D	660	666	wounded		life	injure			starton	2014-02-20	endon	2014-02-20	E0159
+791343	VM791343.000493	V791343.00130	HC000Q80D	660	666	wounded		life	injure			starton	2014-02-20	endon	2014-02-20	E0159
+791362	VM791362.000148	V791362.00131	HC000Q7ZZ	178	183	firing		conflict	attack			starton	2014-02-XX	endon	2014-02-XX	E0159
+791362	VM791362.000257	V791362.00132	HC000Q7ZZ	163	167	order		contact	broadcast			starton	2014-02-XX	endon	2014-02-XX	E0167
+791362	VM791362.000283	V791362.00133	HC000Q7ZZ	163	167	order	Vitaliy Zakharchenko gave orders to shoot protesters	contact	broadcast			starton	2014-02-XX	endon	2014-02-XX	NIL311.791362
+791362	VM791362.000314	V791362.00134	HC000Q7ZZ	163	167	order	Oleksandr Yakymenko gave orders to shoot protesters	contact	broadcast			starton	2014-02-XX	endon	2014-02-XX	NIL337.791362
+791400	VM791400.000032	V791400.00135	HC0005K7G				Police shoot and throw grenades at protesters	conflict	attack			startunk		endunk		E0160
+791626	VM791626.000032	V791626.00136	HC0005KCX				Snipers shoot at both protesters and police	conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+791626	VM791626.000298	V791626.00136	IC0011XD2				Snipers shot at both police and protesters	conflict	attack			startunk		endunk		E0159
+791707	VM791707.000053	V791707.00137	HC000Q80E	268	275	killings		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+791707	VM791707.000222	V791707.00137	HC000Q80E	2232	2239	shooting		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+791922	VM791922.000053	V791922.00138	HC000T6CD	1598	1605	shooting		conflict	attack			starton	2014-02-19	endon	2014-02-19	E0156
+791922	VM791922.000128	V791922.00139	HC000T6CD	1693	1698	hurled		conflict	attack			starton	2014-02-19	endon	2014-02-19	E0161
+793144	VM793144.000105	V793144.00140	HC000ZXS3	168	173	killed	Protestors killed day before truce	conflict	attack			startunk		endunk		NIL151.793144
+793144	VM793144.000154	V793144.00141	HC000ZXS3	168	173	killed	Protestors killed day before truce	life	die			startunk		endunk		NIL151.793144
+793144	VM793144.000187	V793144.00142	HC000ZXS3	2474	2481	engaging	Attacks on protestors	conflict	attack			startunk		endunk		NIL238.793144
+793240	VM793240.000159	V793240.00143	HC000ZXS9	24	30	snipers		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+793240	VM793240.000213	V793240.00143	HC000ZXS9	17	22	Deadly		life	die			starton	2014-02-20	endon	2014-02-20	E0159
+793240	VM793240.000264	V793240.00143	HC000ZXS9	2330	2337	struggle		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+794038	VM794038.000604	V794038.00144	HC000ZXTF	3896	3901	firing		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+794038	VM794038.000667	V794038.00144	HC000ZXTF	4295	4298	fire		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+794038	VM794038.000358	V794038.00145	HC000ZXTF	959	964	killed		life	die			starton	2014-02-18	endunk		E0160
+794038	VM794038.000399	V794038.00145	HC000ZXTF	959	964	killed		life	die			starton	2014-02-18	endunk		E0160
+794038	VM794038.000442	V794038.00145	HC000ZXTF	969	975	injured		life	injure			starton	2014-02-18	endunk		E0160
+794038	VM794038.000480	V794038.00145	HC000ZXTF	969	975	injured		life	injure			starton	2014-02-18	endunk		E0160
+794038	VM794038.000523	V794038.00145	HC000ZXTF	2084	2090	clashes		conflict	attack			starton	2014-02-18	endunk		E0160
+794038	VM794038.000556	V794038.00145	HC000ZXTF	2084	2090	clashes		conflict	attack			starton	2014-02-18	endunk		E0160
+794038	VM794038.000715	V794038.00145	IC0019NAJ				police fire guns at protesters	conflict	attack			startunk		endunk		E0160
+794038	VM794038.000748	V794038.00145	IC0019NAJ				police are injured	life	injure			startunk		endunk		E0160
+794038	VM794038.000776	V794038.00145	IC0019NAJ				protesters are injured	life	injure			startunk		endunk		E0160
+794038	VM794038.000804	V794038.00145	IC0019N8I				protesters are injured with gunshot wounds	life	injure			startunk		endunk		E0160
+794174	VM794174.000594	V794174.00146	HC000ZXTG	544	547	died		life	die			starton	2014-02-20	endon	2014-02-20	E0159
+794174	VM794174.000635	V794174.00146	HC000ZXTG	579	585	injured		life	injure			starton	2014-02-20	endon	2014-02-20	E0159
+794174	VM794174.000762	V794174.00146	HC000ZXTG	3630	3638	offensive		conflict	attack			starton	2014-02-20	endunk		E0159
+794174	VM794174.000805	V794174.00146	HC000ZXTG	3730	3733	kill		life	die	hedged		starton	2014-02-20	endunk		E0159
+794174	VM794174.000868	V794174.00146	HC000ZJHR				injured protester	life	injure			startunk		endunk		E0159
+794174	VM794174.000896	V794174.00146	HC000ZJHM				injured protester	life	injure			startunk		endunk		E0159
+794174	VM794174.000683	V794174.00147	HC000ZXTG	372	381	fatalities		life	die			startbefore	2014-02-20	endbefore	2014-02-20	E0160
+794174	VM794174.000724	V794174.00147	HC000ZXTG	1958	1963	firing		conflict	attack			startunk		endunk		E0160
+794597	VM794597.000270	V794597.00148	HC000ZXTW	764	771	violence		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+794597	VM794597.000321	V794597.00148	HC000ZXTW	690	697	deployed		movement	transper			starton	2014-02-20	endon	2014-02-20	E0159
+794597	VM794597.000359	V794597.00148	HC000ZXTW	1075	1078	died		life	die			starton	2014-02-20	endon	2014-02-20	E0159
+794597	VM794597.000504	V794597.00148	HC000ZXTW	1270	1275	killed		life	die			starton	2014-02-20	endon	2014-02-20	E0159
+794597	VM794597.000542	V794597.00148	HC000ZXTW	4582	4589	attacked		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+794597	VM794597.000397	V794597.00149	HC000ZXTW	1187	1192	killed		life	die			starton	2014-02-18	endunk		E0160
+794597	VM794597.000433	V794597.00149	HC000ZXTW	1187	1192	killed		conflict	attack			starton	2014-02-18	endunk		E0160
+794597	VM794597.000471	V794597.00149	HC000ZXTW	1202	1208	wounded		life	injure			starton	2014-02-18	endunk		E0160
+794711	VM794711.000053	V794711.00150	HC000ZXTX	2252	2257	killed		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0156
+794711	VM794711.000208	V794711.00150	HC000ZXTX	3381	3384	used		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0156
+794711	VM794711.000272	V794711.00150	HC000ZXTX	3495	3500	firing		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0156
+794711	VM794711.000146	V794711.00151	HC000ZXTX	2920	2925	firing		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+795598	VM795598.000161	V795598.00152	HC000ZXUC	717	724	shooting		conflict	attack			startafter	2013-11-XX	endbefore	2015-XX-XX	E0159
+795598	VM795598.000210	V795598.00152	HC000ZXUC	874	878	shoot		conflict	attack			startafter	2013-11-XX	endbefore	2015-XX-XX	E0159
+795598	VM795598.000243	V795598.00152	HC000ZXUC	1298	1305	massacre		life	die			startafter	2013-11-XX	endbefore	2015-XX-XX	E0159
+795770	VM795770.000375	V795770.00153	HC000ZXUE	1541	1549	delivered		movement	transart			starton	2014-01-XX	endon	2014-01-XX	E0157
+795770	VM795770.000196	V795770.00154	HC000ZXUE	483	488	killed		conflict	attack			starton	2014-02-18	endon	2014-02-20	E0159
+795770	VM795770.000237	V795770.00154	HC000ZXUE	483	488	killed		life	die			starton	2014-02-18	endon	2014-02-20	E0159
+795770	VM795770.000275	V795770.00154	HC000ZXUE	792	797	attack		conflict	attack			starton	2014-02-20	endon	2014-02-20	E0159
+795770	VM795770.000347	V795770.00154	HC000ZXUE	1445	1452	killings		conflict	attack			starton	2014-02-18	endon	2014-02-20	E0159
+795770	VM795770.000411	V795770.00154	HC000ZXUE	1811	1817	attacks		conflict	attack			starton	2014-02-18	endon	2014-02-20	E0159
+795770	VM795770.000321	V795770.00155	HC000ZXUE	1112	1117	orders	SBU orders attacks	contact	broadcast			starton	2014-02-20	endon	2014-02-20	NIL344.795770
+842603	VM842603.000374	V842603.00156	HC0001VKL	1602	1612	Євромайдану	Euromaidan Revolution	conflict	attack			starton	2013-12-21	endon	2014-02-23	E0156
+842603	VM842603.000310	V842603.00157	HC0001VKL	2130	2205	демонстранти кидають у правоохоронців каміння, бруківку та коктейлі Молотова	Attacks with Molotov cocktails	conflict	attack	not	deliberate	starton	2014-01-22	endon	2014-02-20	E0161
+842603	VM842603.000229	V842603.00158	HC0001VKL	334	372	смерть на Грушевського прийшла з Кремля	Kremlin inspired deadly shooting on Hrushevskyi Street	conflict	attack	hedged	deliberate	starton	2014-01-22	endafter	2014-01-22	NIL361.842603
+853309	VM853309.000053	V853309.00159	HC000Q7RA	571	615	від кульового поранення загинув Сергій Нігоян	Sergei Nigoyan was killed	life	die	not		startunk		endunk		NIL80.853309
+853785	VM853785.000156	V853785.00160	HC000Q7RB	1790	1857	між президентом Віктором Януковичем та опозицією почалися переговори	negotiations began between Viktor Yanukovich and opposition	contact	meet	not		startunk		endunk		NIL214.853785
+853785	VM853785.000243	V853785.00161	HC000Q7RB	2267	2402	Андрій Парубій розповів, що на останньому етапі Майдану було помітно, що починає діяти третя сила, можливо, це були російські спецслужби	Andriy Parubiy says, probably Russian secret services acted at Maidan	conflict	attack	not		startunk		endunk		NIL276.853785
+853785	VM853785.000066	V853785.00162	HC000Q7RB	786	920	за словами командира загону Омеги, його бійці не брали участі у розстрілі протестувальників на Майдані Незалежності і прилеглих вулицях	commander of Omega division says his fighters did not shoot on protesters	conflict	attack	hedged		starton	2014-02-18	endon	2014-02-18	NIL656.853785
+855853	VM855853.000089	V855853.00163	HC000Q80F	3650	3683	стріляли завезені з Росії снайпери		conflict	attack	not		startbefore	2014-02-20	endafter	2014-02-20	E0159
+855853	VM855853.000147	V855853.00164	HC000Q80F	2563	2687	Сергія, за його словами, провели до консерваторії, де разом іще з одним чоловіком вони близько 20 хвилин стріляли у силовиків	Sergiy was shooting on security officers for 20 minutes	conflict	attack		deliberate	starton	2014-02-20	endafter	2014-02-20	NIL219.855853
+855853	VM855853.000222	V855853.00165	HC000Q80F	7202	7270	на Майдан могла проникнути невелика група озброєних протестувальників	Armed protesters could infiltrate at Maidan	conflict	attack	not		starton	2014-02-18	endunk		NIL280.855853
+858140	VM858140.000053	V858140.00166	HC000Q80G	3637	3743	На Грушевського Беркут застосовував рушниці для стрільби гумовими кулями, в які можна було заряджати бойові	On Grushevskiy street Berkut used rifles charged with military bullets	conflict	attack		deliberate	startunk		endunk		NIL115.858140
+858140	VM858140.000118	V858140.00167	HC000Q80G	6219	6323	Протестувальники, зібравшись з силами, пішли у контрнаступ, стріляли у Беркут салютами із залізних трубок	Protesters shot on Berkut	conflict	attack		deliberate	startunk		endunk		NIL159.858140
+858140	VM858140.000234	V858140.00168	IC0011XOJ				Berkut brutally beat protesters	conflict	attack		deliberate	starton	2014-01-XX	endafter	2014-01-XX	NIL262.858140
+860982	VM860982.000053	V860982.00169	HC000Q7RE	2557	2605	19 лютого силовики використовували бойові гранати	security officers used military grenades	conflict	attack		deliberate	starton	2014-02-19	endunk		NIL107.860982
+860982	VM860982.000110	V860982.00170	HC000Q7RE	7793	7822	Беркут кидав коктейлі Молотова	Berkut was throwing Molotov cocktails	conflict	attack		deliberate	starton	2014-02-20	endunk		NIL168.860982
+863043	VM863043.000053	V863043.00171	HC000Q7RG	224	304	22 січня Янукович дав команду застосувати вогнепальну зброю проти євромайданівців	Yanukovych gave command to use firearms against Euromaydan	contact	contact	not		starton	2014-01-22	endafter	2014-01-22	E0167
+863128	VM863128.000032	V863128.00172	HC000Q8EU				Berkut fired on protesters	conflict	attack		deliberate	starton	2014-01-XX	endafter	2014-01-XX	NIL107.863128
+863163	VM863163.000053	V863163.00173	HC000Q8J0				Security officers are firing on protesters	conflict	attack		deliberate	startunk		endunk		NIL107.863163
+863163	VM863163.000110	V863163.00174	HC000Q8IW				Security officers are firing on protesters	conflict	attack		deliberate	startunk		endunk		NIL107.863163
+863183	VM863183.000032	V863183.00175	HC000Q8J4				Sniper fires on people at Maidan	conflict	attack		deliberate	starton	2014-02-20	endafter	2014-02-20	NIL89.863183
+864453	VM864453.000114	V864453.00176	HC000Q8JD				Protests in Kyiv	conflict	demonstrate		deliberate	starton	2014-XX-XX	endon	2014-XX-XX	E0156
+864453	VM864453.000053	V864453.00177	HC000Q8JC				Berkut fires on protesters	conflict	attack		deliberate	starton	2014-XX-XX	endon	2014-XX-XX	NIL111.864453
+864458	VM864458.000053	V864458.00178	HC000Q8KA				Snipers trained and brought by Yanukovych`s older son	conflict	attack		deliberate	starton	2014-XX-XX	endon	2014-XX-XX	NIL116.864458
+864558	VM864558.000053	V864558.00179	HC000Q8O4				Snipers fired on protesters	conflict	attack		deliberate	starton	2014-02-20	endafter	2014-02-20	NIL125.864558
+864560	VM864560.000032	V864560.00180	HC000Q8OB				Maidan protesters are killed	life	die	not		startunk		endunk		NIL71.864560
+883236	VM883236.000032	V883236.00181	HC000SP3H				Shooting between protesters and security officers at Maidan	conflict	attack			starton	2014-01-22	endafter	2014-01-22	E0156
+883236	VM883236.000119	V883236.00181	HC000SP3G				Shooting between protesters and security officers at Maidan	conflict	attack			starton	2014-01-22	endafter	2014-01-22	E0156
+883580	VM883580.000069	V883580.00182	HC000SP63				Berkut is using Molotov cocktail	conflict	attack		deliberate	starton	2014-01-22	endunk		NIL114.883580
+883580	VM883580.000289	V883580.00183	IC0019MXV				Berkut fired Red Cross staff	conflict	attack		deliberate	starton	2014-01-22	endunk		NIL330.883580
+883580	VM883580.000032	V883580.00184	HC000SP6B				Berkut officer is firing a gun	conflict	attack		deliberate	starton	2014-01-22	endunk		NIL66.883580
+883580	VM883580.000117	V883580.00185	HC000SP5K				Berkut officer is firing a gun	conflict	attack		deliberate	starton	2014-01-22	endunk		NIL66.883580
+883580	VM883580.000158	V883580.00186	HC000SP4W				Berkut officers are firing guns	conflict	attack		deliberate	starton	2014-01-22	endunk		NIL66.883580
+889779	VM889779.000053	V889779.00187	HC000T6AY	180	187	постріли	Shots from the side of police	conflict	attack	not	deliberate	starton	2014-XX-XX	endon	2014-XX-XX	NIL89.889779
+889822	VM889822.000032	V889822.00188	HC000Q8IK				Berkut officer is shooting	conflict	attack		deliberate	starton	2014-XX-XX	endon	2014-XX-XX	NIL102.889822
+889822	VM889822.000105	V889822.00189	HC000Q8IK				Sniper is shooting	conflict	attack		deliberate	starton	2014-XX-XX	endunk		NIL128.889822
+891741	VM891741.000053	V891741.00190	HC000T67T	9	12	вбив	Sniper kills student	conflict	attack		deliberate	starton	2014-02-20	endon	2014-02-20	E0159
+891871	VM891871.000126	V891871.00191	HC000T67R	107	116	Стрілянину	Police snipers started shooting	conflict	attack		deliberate	starton	2014-XX-XX	endon	2014-XX-XX	NIL154.891871
+892833	VM892833.000079	V892833.00192	HC000T67C	396	415	не застосовуватимуть	Protesters would not use weapon	conflict	attack	not	deliberate	starton	2014-XX-XX	endunk		NIL107.892833
+892912	VM892912.000053	V892912.00193	HC000T66P	29	39	обстрілюють		conflict	attack		deliberate	starton	2014-02-20	endunk		E0159
+893281	VM893281.000053	V893281.00194	HC000T66N	171	178	стріляли		conflict	attack	not	deliberate	starton	2014-02-20	endon	2014-02-20	E0159
+893281	VM893281.000336	V893281.00194	HC000ST1H				Sniper is shooting sniper rifle	conflict	attack	not	deliberate	starton	2014-02-20	endunk		E0159
+893281	VM893281.000364	V893281.00194	HC000ST1G				Sniper is shooting sniper rifle	conflict	attack	not	deliberate	starton	2014-02-20	endunk		E0159
+893281	VM893281.000200	V893281.00195	HC000T66N	1772	1778	стріляв	Serhiy Asavalyuk was shooting sniper rifle	conflict	attack	hedged	deliberate	starton	2014-02-20	endunk		NIL677.893281
+893635	VM893635.000053	V893635.00196	HC000T66M	240	248	розстрілу		conflict	attack	not	deliberate	starton	2014-02-20	endon	2014-02-21	E0159
+893657	VM893657.000032	V893657.00197	HC000ST2Y				A sniper is taking an aim	conflict	attack	not	deliberate	starton	2014-02-XX	endon	2014-02-XX	E0159
+894059	VM894059.000079	V894059.00198	HC000T661	80	87	вбивають		conflict	attack	not	deliberate	starton	2014-02-XX	endunk		E0159
+894059	VM894059.000110	V894059.00199	HC000SUOR				Security forces officers are shooting	conflict	attack	not	deliberate	starton	2014-XX-XX	endunk		NIL165.894059
+896406	VM896406.000079	V896406.00200	HC000T6IP	4356	4361	убитий		conflict	attack		deliberate	startunk		endunk		E0159
+896548	VM896548.000097	V896548.00201	HC000T6GG	241	246	вбивав	Ivan Bubenchyk killed Berkut officers	conflict	attack	not	deliberate	starton	2014-02-20	endunk		NIL143.896548
+896548	VM896548.000146	V896548.00202	HC000SWCU				Security forces officers are firing	conflict	attack	not	deliberate	starton	2014-02-20	endafter	2014-02-20	NIL182.896548
+896548	VM896548.000185	V896548.00203	HC000SWCT				Security forces officers are firing	conflict	attack	not	deliberate	starton	2014-02-20	endafter	2014-02-20	NIL182.896548
+896548	VM896548.000298	V896548.00204	IC0019N8F				Police used weapon against protesters	conflict	attack	not	deliberate	starton	2014-XX-XX	endon	2014-XX-XX	NIL352.896548
+896548	VM896548.000355	V896548.00205	IC0019N8F				Protesters used weapon to defend themselves	conflict	attack	not	deliberate	starton	2014-02-XX	endunk		NIL563.896548
+899976	VM899976.000079	V899976.00206	HC000T6GE	41	48	стріляли	At Maidan, there were people firing on Berkut	conflict	attack	not	deliberate	starton	2014-02-XX	endunk		NIL130.899976
+900286	VM900286.000079	V900286.00207	HC000T6GA	138	143	вибити	Protesters tried to kill security forces from a roof	conflict	attack	not	deliberate	starton	2014-02-18	endon	2014-02-18	NIL107.900286
+904214	VM904214.000111	V904214.00208	HC000T6G6	552	557	кидали	Titushky threw grenades at the protesters	conflict	attack	not	deliberate	starton	2014-02-18	endon	2014-02-18	NIL174.904214
+904214	VM904214.000177	V904214.00209	HC000T6G6	671	701	напали з тилу і почали стріляти	Berkut Riot Police attacked from the rear and started shooting	conflict	attack	not	deliberate	starton	2014-02-18	endon	2014-02-18	NIL222.904214
+905241	VM905241.000053	V905241.00210	HC000T6G4	650	664	почали стріляти	Titushky attacked and shot protesters	conflict	attack	not	deliberate	starton	2014-02-19	endon	2014-02-19	NIL125.905241
+905450	VM905450.000053	V905450.00211	HC000T6G3	4788	4792	гнати		conflict	attack	not	deliberate	starton	2014-02-18	endon	2014-02-XX	E0156
+910099	VM910099.000080	V910099.00212	HC000ZXV5	206	220	почали стріляти		conflict	attack	not	deliberate	starton	2014-02-20	endafter	2014-02-20	E0159
+910099	VM910099.000191	V910099.00213	HC000ZXV5	324	335	застосування	Security forces are using firearm	conflict	attack	not	accidental	starton	2014-02-20	endafter	2014-02-20	NIL267.910099
+910114	VM910114.000179	V910114.00214	HC000ZXV7	13677	13696	почали вони стріляти	Berkut started shooting from Zhovtneviy (October) palace	conflict	attack	not	deliberate	startbefore	2014-02-20	endafter	2014-02-20	NIL241.910114
+910114	VM910114.000388	V910114.00215	HC000ZKCJ				Berkut started shooting from Zhovtneviy (October) palace	conflict	attack	not	deliberate	startbefore	2014-02-20	endafter	2014-02-20	NIL241.910114
+910114	VM910114.000474	V910114.00216	HC000ZKCH				Berkut started shooting from Zhovtneviy (October) palace	conflict	attack	not	deliberate	startbefore	2014-02-20	endafter	2014-02-20	NIL241.910114
+910114	VM910114.000603	V910114.00217	HC000ZKCI				Berkut started shooting from Zhovtneviy (October) palace	conflict	attack	not	deliberate	startbefore	2014-02-20	endafter	2014-02-20	NIL241.910114
+910114	VM910114.000118	V910114.00218	HC000ZXV7	167	179	розстрілювали	Security forces and snipers were shooting at unarmed protesters	conflict	attack	not	deliberate	starton	2014-02-20	endafter	2014-02-20	NIL244.910114
+910114	VM910114.000411	V910114.00219	HC000ZKCH				Security forces and snipers were shooting at unarmed protesters	conflict	attack	not	deliberate	startbefore	2014-02-20	endafter	2014-02-20	NIL244.910114
+910114	VM910114.000507	V910114.00220	HC000ZKCJ				Security forces and snipers were shooting at unarmed protesters	conflict	attack	not	accidental	startbefore	2014-02-20	endafter	2014-02-20	NIL244.910114
+910114	VM910114.000545	V910114.00221	HC000ZKCI				Security forces and snipers were shooting at unarmed protesters	conflict	attack	not	deliberate	startbefore	2014-02-20	endafter	2014-02-20	NIL244.910114
+916622	VM916622.000032	V916622.00222	HC000ZKDJ				Snipers of unknown identity participate in shooting during the Maidan protests	conflict	attack	not	deliberate	starton	2014-XX-XX	endon	2014-XX-XX	E0159
+916622	VM916622.000083	V916622.00222	HC000ZKDI				Snipers of unknown identity participate in shooting during the Maidan protests	conflict	attack	not		starton	2014-XX-XX	endon	2014-XX-XX	E0159
+916655	VM916655.000199	V916655.00223	HC000ZKER				Shooting by snipers	conflict	attack	not	deliberate	starton	2014-02-XX	endon	2014-02-XX	E0159
+916655	VM916655.000260	V916655.00223	HC000ZKEQ				Shooting by snipers	conflict	attack	not	deliberate	starton	2014-02-XX	endon	2014-02-XX	E0159
+916655	VM916655.000093	V916655.00224	HC000ZXVA	2629	2636	убивстві	Killing of Maidan Protesters	conflict	attack	not	deliberate	starton	2014-02-20	endon	2014-02-20	NIL139.916655
+916655	VM916655.000142	V916655.00225	HC000ZXVA	3159	3166	стріляли	Law enforcement officers were shooting on Instytutska Street	conflict	attack	not	deliberate	starton	2014-02-XX	endafter	2014-02-XX	NIL196.916655
+919752	VM919752.000071	V919752.00229	HC000ZXVF	1641	1676	були змушені захищатися і відступати	Security forces had to defend and step back	conflict	attack		deliberate	starton	2014-02-20	endon	2014-02-20	NIL125.919752
+923384	VM923384.000053	V923384.00231	HC000Q8IK				Sniper is shooting	conflict	attack	not	deliberate	starton	2014-02-XX	endon	2014-02-XX	E0159
+923384	VM923384.000110	V923384.00232	HC000Q8IK				Security forces are firing firearms	conflict	attack	not	deliberate	starton	2014-02-XX	endon	2014-02-XX	NIL164.923384
+923410	VM923410.000079	V923410.00233	HC000T6BP	77	86	застрелили	Serhiy Nigoyan was killed on Hrushevskoho street	conflict	attack	not	deliberate	starton	2014-02-XX	endon	2014-02-XX	E0159
+924980	VM924980.000197	V924980.00234	HC000SSQQ				Sniper is shooting sniper rifle	conflict	attack	not	deliberate	starton	2014-02-XX	endon	2014-02-XX	E0159
+924980	VM924980.000241	V924980.00234	HC000SSQP				Sniper is shooting sniper rifle	conflict	attack	not		starton	2014-02-XX	endon	2014-02-XX	E0159
+924980	VM924980.000138	V924980.00235	HC000T676	15	22	стріляли	Snipers, who were shooting at Maidan activists, were citizens of Ukraine	conflict	attack	not	deliberate	starton	2014-02-XX	endon	2014-02-XX	NIL194.924980
+925022	VM925022.000032	V925022.00236	HC000Q8IK				Sniper, security forces are shooting firearm	conflict	attack	not	deliberate	starton	2014-02-XX	endon	2014-02-XX	E0159
+925022	VM925022.000083	V925022.00236	HC000Q8IK				security forces are shooting firearm	conflict	attack	not	deliberate	starton	2014-02-XX	endon	2014-02-XX	E0159
+926563	VM926563.000053	V926563.00237	HC000T6I5	17	25	стріляють	Unknown people are shooting at policemen	conflict	attack	not	deliberate	starton	2014-02-XX	endon	2014-02-XX	NIL125.926563
+928358	VM928358.000053	V928358.00238	HC000T6G9	88	94	стріляв		conflict	attack	not	deliberate	starton	2014-02-20	endon	2014-02-20	E0159
+928358	VM928358.000133	V928358.00239	HC000T6G9	9171	9185	відкрили вогонь	We started fire the first	conflict	attack	not	deliberate	starton	2014-02-20	endon	2014-02-20	NIL247.928358

@@ -1,0 +1,11 @@
+{
+  "MEDIA_LOCATION": "../../../test/data",
+  "REDIS_HOST":"localhost",
+   "INDEX_KEY_FRAME_EXTRACTOR": {
+    "name": "FixedLocationKeyFrameExtractor",
+    "parameters": {
+      "extractor_location": "/Users/ericrobertson/Documents/AIDA/AIDA_video_segmentation_tool_v2/java/cineast/build/libs",
+      "results_location": "../../../test/data"
+    }
+  }
+}

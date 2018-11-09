@@ -1,0 +1,13 @@
+{
+  "nodes":[
+    { "imagePath": "representative_frames/v_2WrJ79KLbMbIZsGv/v_2WrJ79KLbMbIZsGv_22.png",
+      "ID": "123",
+      "faceRect": [ 227.859375,140.203125,50,50 ] },
+  { "imagePath": "representative_frames/v_2WrJ79KLbMbIZsGv/v_2WrJ79KLbMbIZsGv_2.png",
+      "ID": "456",
+      "faceRect": [ 122.859375,56.203125,50,50] }],
+  "edges": [
+    { "IDs": [ "123", "456" ],
+      "similarity": 1.0 }
+  ]
+}
