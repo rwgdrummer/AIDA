@@ -20,7 +20,8 @@ def init_db():
         shutil.rmtree(testdir)
     os.makedirs(testdir)
     if platform.system().lower()[0:3] == 'win':
-       dbfile = dbfile[3:],
+       dbfile = dbfile[3:]
+    dbfile = dbfile.replace('\\', '/')
     config = {'SQLALCHEMY_DATABASE_URI': 'sqlite:////' + dbfile,
               'TESTING': True,
               'MEDIA_LOCATION':'test/data/sample',

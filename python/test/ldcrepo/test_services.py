@@ -152,8 +152,8 @@ class TestServices(unittest.TestCase):
         response = self.client.get('/api/v1/segments_text/Talbet Blames')
         self.assertEqual(200, response.status_code)
         json = response.json
-        self.assertEquals('Strobe Talbet Blames Russia',json[0]['segment_texts'][0]['text'])
-        self.assertEquals('fac', json[0]['segment_objects'][0]['object_type'])
+        self.assertEqual('Strobe Talbet Blames Russia', json[0]['segment_texts'][0]['text'])
+        self.assertEqual('fac', json[0]['segment_objects'][0]['object_type'])
 
         response = self.client.get('/api/v1/segments_object/{}'.format(json[0]['segment_objects'][0]['id']))
         self.assertEqual(200, response.status_code)

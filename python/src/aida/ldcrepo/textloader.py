@@ -58,6 +58,7 @@ def loadObjects(object_type, filename):
         while levels > 0 and item is None:
             search_id = v.id.split(os.path.sep)[-levels:]
             key = os.path.sep.join(search_id)
+            key = os.path.normpath(key)
             if key in matches:
                 item = matches[key]
             levels -= 1
@@ -203,7 +204,7 @@ def loadOCR(text_type,filename ):
         @type session: Session
         @type columns: list
         """
-        frame_file_name = columns[0]
+        frame_file_name = os.path.normpath(columns[0])
         objs = session.query(Segment).filter(Segment.frame_file_name == bindparam('frame_file_name')).\
             params(frame_file_name=frame_file_name).all()
         for obj in objs:

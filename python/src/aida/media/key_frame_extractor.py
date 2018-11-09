@@ -65,20 +65,22 @@ def loadKeyFrames(object_file, client_file, frame_file, abspath=True):
     import json
     objs = {}
     frames = {}
-    rep_frame_root = os.path.join(os.path.split(os.path.dirname(object_file))[0],
-                             'representative_frames')
+    media_root = os.path.split(os.path.dirname(object_file))[0]
+    rep_frame_root = os.path.join(media_root,'representative_frames')
     if not os.path.exists(object_file):
         return []
     with open(object_file) as fp:
         data = json.load(fp)
         for object in data:
             filename = os.path.abspath(object['path'])
+            if not os.path.exists(filename):
+                filename = os.path.normpath(os.path.join(media_root, os.path.basename(filename)))
             objs[object['objectid']] = filename
     with open(frame_file) as fp:
         data = json.load(fp)
         for frame in data:
             frames[frame['id']] = frame['frame']
-    with open(client_file) as fp:
+    with open(os.path.normpath(client_file)) as fp:
         data = json.load(fp)
         results =[]
         for segment in data:

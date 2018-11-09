@@ -109,8 +109,8 @@ def unwrap(path, location=None, check_md5=True):
         return newname
     if not os.path.exists(location):
         mkdirs(location)
-    with open(path,'rb') as fp:
-        scanner = Scanner(path,fp)
+    with open(os.path.normpath(path), 'rb') as fp:
+        scanner = Scanner(os.path.normpath(path), fp)
         if scanner.readHeader():
             newname = scanner.writeContents(location)
             if check_md5:
