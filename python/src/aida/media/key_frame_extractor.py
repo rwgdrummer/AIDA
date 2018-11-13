@@ -72,7 +72,7 @@ def loadKeyFrames(object_file, client_file, frame_file, abspath=True):
     with open(object_file) as fp:
         data = json.load(fp)
         for object in data:
-            filename = os.path.abspath(object['path'])
+            filename = os.path.abspath(os.path.join(media_root,object['path']))
             if not os.path.exists(filename):
                 filename = os.path.normpath(os.path.join(media_root, os.path.basename(filename)))
             objs[object['objectid']] = filename

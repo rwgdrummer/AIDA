@@ -64,6 +64,8 @@ class TestServices(unittest.TestCase):
         response = self.client.get('/api/v1/media?file_id=IC0011SL2.mp4.ldcc&frame_number=1')
         self.assertEqual(200, response.status_code)
         self.assertTrue('image' in response.content_type)
+        response.stream.close()
+
 
     def test_entity_mentions(self):
         response = self.client.get('/api/v1/entities_without_canonical')
@@ -232,7 +234,7 @@ class TestServices(unittest.TestCase):
             json = response.json
             media_file = json[0]['child_file']
             media.append(media_file)
-            self.assertEqual(157,json[0]['segment_count'])
+            self.assertEqual(156,json[0]['segment_count'])
 
             data = {"entity_mention_id":entity['id'],
                     "child_file":media_file,"frame_number":100,
